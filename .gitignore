@@ -1,0 +1,10 @@
+# Hugo
+public/
+resources/
+
+# Archivos temporales
+.hugo_build.lock
+
+# Sistema
+.DS_Store
+Thumbs.db

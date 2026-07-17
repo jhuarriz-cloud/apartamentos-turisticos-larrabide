@@ -1,4 +1,6 @@
-/* ===== Reset ===== */
+/* ===========================
+   RESET
+=========================== */
 
 * {
     margin: 0;
@@ -13,20 +15,24 @@ body {
     line-height: 1.7;
 }
 
-/* ===== Contenedor ===== */
+/* ===========================
+   CONTENEDOR
+=========================== */
 
 .container {
     width: min(1200px, 92%);
-    margin: auto;
+    margin: 0 auto;
 }
 
-/* ===== Cabecera ===== */
+/* ===========================
+   CABECERA
+=========================== */
 
 header {
-    background: white;
     position: sticky;
     top: 0;
     z-index: 1000;
+    background: white;
     border-bottom: 1px solid #ececec;
 }
 
@@ -40,8 +46,8 @@ header .container {
 .logo {
     text-decoration: none;
     color: #222;
-    font-size: 1.6rem;
     font-family: "Playfair Display", serif;
+    font-size: 1.7rem;
     font-weight: 700;
 }
 
@@ -49,111 +55,117 @@ nav a {
     margin-left: 28px;
     text-decoration: none;
     color: #555;
-    transition: .2s;
+    font-weight: 500;
+    transition: color .25s ease;
 }
 
 nav a:hover {
-    color: #6B8F71;
+    color: #B58A52;
 }
 
-/* ===== Footer ===== */
-
-footer {
-    background: #222;
-    color: white;
-    padding: 40px 0;
-    margin-top: 80px;
-}
-
-footer p {
-    text-align: center;
-}
-/* ===== Hero ===== */
+/* ===========================
+   HERO
+=========================== */
 
 .hero {
-
-    height: calc(100vh - 80px);
+    min-height: calc(100vh - 80px);
 
     display: flex;
-
-    align-items: center;
-
     justify-content: center;
+    align-items: center;
 
     text-align: center;
 
     padding: 40px;
 
-    background: linear-gradient(135deg,#f5f3ef,#ffffff);
+    background:
+        linear-gradient(rgba(20,20,20,.45), rgba(20,20,20,.45)),
+        url("/images/hero.jpg");
 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.hero-content{
-
-    max-width:850px;
-
+.hero-content {
+    max-width: 850px;
 }
 
-.eyebrow{
-
-    text-transform:uppercase;
-
-    letter-spacing:3px;
-
-    font-size:.9rem;
-
-    color:#6B8F71;
-
-    margin-bottom:25px;
-
+.eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: .9rem;
+    color: #E9D8A6;
+    margin-bottom: 20px;
 }
 
-.hero h1{
-
-    font-family:"Playfair Display",serif;
-
-    font-size:4.2rem;
-
-    line-height:1.1;
-
-    margin-bottom:25px;
-
+.hero h1 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(3rem, 6vw, 5rem);
+    line-height: 1.1;
+    color: white;
+    margin-bottom: 25px;
 }
 
-.subtitle{
-
-    font-size:1.25rem;
-
-    max-width:700px;
-
-    margin:auto;
-
-    margin-bottom:45px;
-
+.subtitle {
+    font-size: 1.3rem;
+    color: rgba(255,255,255,.92);
+    max-width: 720px;
+    margin: 0 auto 45px auto;
 }
 
-.button{
-
-    display:inline-block;
-
-    padding:16px 34px;
-
-    background:#6B8F71;
-
-    color:white;
-
-    text-decoration:none;
-
-    border-radius:999px;
-
-    font-weight:600;
-
-    transition:.25s;
-
+.button {
+    display: inline-block;
+    padding: 16px 36px;
+    background: #B58A52;
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-weight: 600;
+    transition: all .25s ease;
 }
 
-.button:hover{
+.button:hover {
+    background: #9F7546;
+    transform: translateY(-2px);
+}
 
-    background:#55755b;
+/* ===========================
+   FOOTER
+=========================== */
+
+footer {
+    background: #222;
+    color: white;
+    padding: 40px 0;
+}
+
+footer p {
+    text-align: center;
+}
+
+/* ===========================
+   MÓVIL
+=========================== */
+
+@media (max-width: 768px) {
+
+    header .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav a {
+        margin: 0 10px;
+    }
+
+    .hero {
+        min-height: 80vh;
+        padding: 25px;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+    }
 
 }
