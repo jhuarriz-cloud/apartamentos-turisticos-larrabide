@@ -1,32 +1,9 @@
 {{ define "main" }}
 
-<section class="hero">
+{{ partial "sections/hero.html" . }}
 
-<div class="hero-content">
+{{ partial "sections/features.html" . }}
 
-<p class="eyebrow">
-Pamplona · Navarra
-</p>
-
-<h1>
-Apartamentos Turísticos Larrabide
-</h1>
-
-<p class="subtitle">
-
-Tres apartamentos de diseño pensados para quienes visitan Pamplona por turismo, congresos o trabajo.
-
-</p>
-
-<a href="#" class="button">
-
-Ver apartamentos
-
-</a>
-
-</div>
-
-</section>
+{{ partial "sections/apartments.html" . }}
 
 {{ end }}
-
