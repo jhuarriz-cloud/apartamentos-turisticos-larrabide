@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<section class="page-header">
+
+    <div class="container">
+
+        <h1>{{ .Title }}</h1>
+
+        <p>{{ .Description }}</p>
+
+    </div>
+
+</section>
+
+<section class="container apartments-list">
+
+    <div class="apartments-grid">
+
+        {{ range .Pages.ByTitle }}
+
+        <article class="apartment-card">
+
+            <a href="{{ .RelPermalink }}">
+
+                <img
+                    src="{{ .Params.hero }}"
+                    alt="{{ .Title }}">
+
+            </a>
+
+            <div class="card-content">
+
+                <h2>{{ .Title }}</h2>
+
+                <p>{{ .Description }}</p>
+
+                <ul class="card-features">
+
+                    <li>👥 Hasta {{ .Params.capacidad }} huéspedes</li>
+
+                    <li>🛏 {{ .Params.dormitorios }} dormitorios</li>
+
+                    <li>🚿 {{ .Params.banos }} baño</li>
+
+                </ul>
+
+                <a class="button" href="{{ .RelPermalink }}">
+                    Ver apartamento
+                </a>
+
+            </div>
+
+        </article>
+
+        {{ end }}
+
+    </div>
+
+</section>
+
+{{ end }}

@@ -1,0 +1,104 @@
+{{ define "main" }}
+
+<section class="apartment-hero">
+
+    <div class="container">
+
+        <h1>{{ .Title }}</h1>
+
+        <p class="apartment-subtitle">
+            {{ .Description }}
+        </p>
+
+        <img
+            class="hero-image"
+            src="{{ .Params.hero }}"
+            alt="{{ .Title }}">
+
+    </div>
+
+</section>
+
+
+<section class="container apartment-info">
+
+    <h2>Características</h2>
+
+    <div class="info-grid">
+
+        <article class="info-card">
+            <span class="icon">👥</span>
+            <h3>{{ .Params.capacidad }}</h3>
+            <p>Huéspedes</p>
+        </article>
+
+        <article class="info-card">
+            <span class="icon">🛏</span>
+            <h3>{{ .Params.dormitorios }}</h3>
+            <p>Dormitorios</p>
+        </article>
+
+        <article class="info-card">
+            <span class="icon">🚿</span>
+            <h3>{{ .Params.banos }}</h3>
+            <p>Baño</p>
+        </article>
+
+    </div>
+
+
+    <h2>Distribución de camas</h2>
+
+    <ul class="bed-list">
+
+        {{ range .Params.camas }}
+
+        <li>🛌 {{ . }}</li>
+
+        {{ end }}
+
+    </ul>
+
+
+    <h2>Servicios</h2>
+
+    <ul class="services-list">
+
+        {{ if .Params.wifi }}
+        <li>📶 Wi-Fi gratuito</li>
+        {{ end }}
+
+        {{ if .Params.aire }}
+        <li>❄️ Aire acondicionado</li>
+        {{ end }}
+
+        {{ if .Params.cocina }}
+        <li>🍳 Cocina totalmente equipada</li>
+        {{ end }}
+
+        {{ if .Params.lavadora }}
+        <li>🧺 Lavadora</li>
+        {{ end }}
+
+    </ul>
+
+</section>
+
+
+<section class="container apartment-gallery">
+
+    <h2>Galería</h2>
+
+    <div class="gallery">
+
+        {{ range .Params.gallery }}
+
+        <img src="{{ . }}" alt="Apartamento {{ $.Title }}">
+
+        {{ end }}
+
+    </div>
+
+</section>
+
+{{ end }}
