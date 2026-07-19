@@ -1,6 +1,6 @@
 ---
 title: "Apartamento Larrabide Boho Chic"
-description: "Apartamento turístico de estilo Boho Chic en Pamplona, ideal para familias, grupos y estancias de trabajo."
+description: "Amplio apartamento de estilo Boho Chic con capacidad para 6 personas. Ideal para familias, grupos y estancias de trabajo en Pamplona."
 
 draft: false
 
