@@ -28,17 +28,34 @@ airbnb: ""
 
 hero: "/images/apartamentos/nordico/portada.jpg"
 
-gallery: []
-
-distancias:
-  - "Catedral de Pamplona: 1,7 km"
-  - "Plaza del Castillo: 15 minutos a pie"
-  - "Ayuntamiento de Pamplona: 18 minutos a pie"
-  - "Parque de la Ciudadela: 1,5 km"
-  - "Baluarte: muy próximo"
-  - "Navarra Arena: muy próximo"
-  - "Plaza de los Fueros: muy próxima"
-  - "Aeropuerto de Pamplona: 4 km"
+gallery:
+  - "/images/apartamentos/nordico/bano-01.jpg"
+  - "/images/apartamentos/nordico/bano-02.jpg"
+  - "/images/apartamentos/nordico/cocina-01.jpg"
+  - "/images/apartamentos/nordico/cocina-02.jpg"
+  - "/images/apartamentos/nordico/cocina-03.jpg"
+  - "/images/apartamentos/nordico/cocina-04.jpg"
+  - "/images/apartamentos/nordico/dormitorio-01-01.jpg"
+  - "/images/apartamentos/nordico/dormitorio-01-02.jpg"
+  - "/images/apartamentos/nordico/dormitorio-01-03.jpg"
+  - "/images/apartamentos/nordico/dormitorio-01-04.jpg"
+  - "/images/apartamentos/nordico/dormitorio-01-05.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-01.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-02.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-03.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-04.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-05.jpg"
+  - "/images/apartamentos/nordico/dormitorio-02-06.jpg"
+  - "/images/apartamentos/nordico/entrada-01.jpg"
+  - "/images/apartamentos/nordico/entrada-02.jpg"
+  - "/images/apartamentos/nordico/entrada-03.jpg"
+  - "/images/apartamentos/nordico/entrada-04.jpg"
+  - "/images/apartamentos/nordico/hall-01.jpg"
+  - "/images/apartamentos/nordico/salon-01.jpg"
+  - "/images/apartamentos/nordico/salon-02.jpg"
+  - "/images/apartamentos/nordico/salon-03.jpg"
+  - "/images/apartamentos/nordico/salon-04.jpg"
+  - "/images/apartamentos/nordico/terraza-01.jpg"
 
 ---
 

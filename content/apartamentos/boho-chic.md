@@ -28,30 +28,25 @@ airbnb: ""
 hero: "/images/apartamentos/boho-chic/portada.jpg"
 
 gallery:
+  - "/images/apartamentos/boho-chic/bano-01.jpg"
+  - "/images/apartamentos/boho-chic/bano-02.jpg"
+  - "/images/apartamentos/boho-chic/cocina-01.jpg"
+  - "/images/apartamentos/boho-chic/cocina-02.jpg"
+  - "/images/apartamentos/boho-chic/cocina-03.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-01-01.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-01-02.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-01-03.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-01-04.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-02-01.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-02-02.jpg"
+  - "/images/apartamentos/boho-chic/habitacion-02-03.jpg"
+  - "/images/apartamentos/boho-chic/pasillo-01.jpg"
   - "/images/apartamentos/boho-chic/salon-01.jpg"
   - "/images/apartamentos/boho-chic/salon-02.jpg"
   - "/images/apartamentos/boho-chic/salon-03.jpg"
   - "/images/apartamentos/boho-chic/salon-04.jpg"
   - "/images/apartamentos/boho-chic/salon-05.jpg"
   - "/images/apartamentos/boho-chic/salon-06.jpg"
-
-  - "/images/apartamentos/boho-chic/cocina-01.jpg"
-  - "/images/apartamentos/boho-chic/cocina-02.jpg"
-  - "/images/apartamentos/boho-chic/cocina-03.jpg"
-
-  - "/images/apartamentos/boho-chic/habitacion-01-01.jpg"
-  - "/images/apartamentos/boho-chic/habitacion-01-02.jpg"
-  - "/images/apartamentos/boho-chic/habitacion-01-03.jpg"
-  - "/images/apartamentos/boho-chic/habitacion-01-04.jpg"
-
-  - "/images/apartamentos/boho-chic/habitacion-02-01.jpg"
-  - "/images/apartamentos/boho-chic/habitacion-02-02.jpg"
-  - "/images/apartamentos/boho-chic/habitacion-02-03.jpg"
-
-  - "/images/apartamentos/boho-chic/bano-01.jpg"
-  - "/images/apartamentos/boho-chic/bano-02.jpg"
-
-  - "/images/apartamentos/boho-chic/pasillo-01.jpg"
 
 ---
 
