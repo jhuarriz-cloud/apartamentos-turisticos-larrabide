@@ -1,6 +1,6 @@
 ---
 title: "Apartamento Larrabide Industrial"
-description: "Apartamento de estilo industrial para hasta 5 personas. Espacios amplios, cocina totalmente equipada y una ubicación perfecta para turismo y congresos."
+description: "Apartamento de estilo industrial para hasta 5 personas. Diseño contemporáneo, terraza y excelente ubicación para descubrir Pamplona."
 
 draft: false
 
@@ -17,33 +17,79 @@ camas:
 
 banos: 1
 
-wifi: true
-aire: true
-cocina: true
-lavadora: true
-terraza: true
+servicios:
+  - "Wi-Fi gratuito"
+  - "Aire acondicionado"
+  - "Terraza"
+  - "Cocina totalmente equipada"
+  - "Lavadora"
+  - "Lavavajillas"
+  - "Microondas"
+  - "Horno"
+  - "Nevera"
+  - "Cafetera"
+  - "TV de pantalla plana"
+  - "Ascensor"
+  - "Plancha"
+  - "Cuna bajo petición"
+
+destacados:
+  - "Guarda bicicletas seguro"
+
+perfil_ideal:
+  - "Familias"
+  - "Viajes de trabajo"
+  - "Turismo"
+  - "Cicloturismo"
 
 booking: ""
 airbnb: ""
 
 hero: "/images/apartamentos/industrial/portada.jpg"
 
-gallery: []
-
-distancias:
-  - "Catedral de Pamplona: 1,7 km"
-  - "Plaza del Castillo: 15 minutos a pie"
-  - "Ayuntamiento de Pamplona: muy próximo"
-  - "Parque de la Ciudadela: muy próximo"
-  - "Palacio de Congresos Baluarte: muy próximo"
-  - "Universidad Pública de Navarra: 2,2 km"
-  - "Museo Universidad de Navarra: 2,4 km"
-  - "Aeropuerto de Pamplona: 4 km"
+gallery:
+  - "/images/apartamentos/industrial/bano-01.jpg"
+  - "/images/apartamentos/industrial/bano-02.jpg"
+  - "/images/apartamentos/industrial/bano-03.jpg"
+  - "/images/apartamentos/industrial/bano-04.jpg"
+  - "/images/apartamentos/industrial/cocina-01.jpg"
+  - "/images/apartamentos/industrial/cocina-02.jpg"
+  - "/images/apartamentos/industrial/cocina-03.jpg"
+  - "/images/apartamentos/industrial/cocina-04.jpg"
+  - "/images/apartamentos/industrial/cocina-05.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-01.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-02.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-03.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-04.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-05.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-06.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-07.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-08.jpg"
+  - "/images/apartamentos/industrial/dormitorio-01-09.jpg"
+  - "/images/apartamentos/industrial/dormitorio-02-01.jpg"
+  - "/images/apartamentos/industrial/dormitorio-02-02.jpg"
+  - "/images/apartamentos/industrial/dormitorio-02-03.jpg"
+  - "/images/apartamentos/industrial/dormitorio-02-04.jpg"
+  - "/images/apartamentos/industrial/dormitorio-02-05.jpg"
+  - "/images/apartamentos/industrial/entrada-01.jpg"
+  - "/images/apartamentos/industrial/salon-01.jpg"
+  - "/images/apartamentos/industrial/salon-02.jpg"
+  - "/images/apartamentos/industrial/salon-03.jpg"
+  - "/images/apartamentos/industrial/salon-04.jpg"
+  - "/images/apartamentos/industrial/salon-05.jpg"
+  - "/images/apartamentos/industrial/salon-06.jpg"
+  - "/images/apartamentos/industrial/salon-07.jpg"
+  - "/images/apartamentos/industrial/salon-08.jpg"
+  - "/images/apartamentos/industrial/salon-09.jpg"
+  - "/images/apartamentos/industrial/terraza-01.jpg"
+  - "/images/apartamentos/industrial/terraza-02.jpg"
 
 ---
 
 ## Apartamento Larrabide Industrial
 
-El Apartamento Larrabide Industrial ofrece un diseño contemporáneo inspirado en el estilo industrial, combinando amplitud, funcionalidad y comodidad. Dispone de dos dormitorios, un salón con sofá cama, cocina totalmente equipada, baño completo y terraza, proporcionando un espacio ideal para familias, grupos y viajeros de negocios.
+El Apartamento Larrabide Industrial combina un diseño contemporáneo de inspiración industrial con un espacio amplio, funcional y confortable para disfrutar de Pamplona.
 
-Su excelente ubicación permite acceder fácilmente al centro histórico de Pamplona, al Palacio de Congresos Baluarte, al Parque de la Ciudadela y a las principales universidades de la ciudad, siendo una opción perfecta tanto para turismo como para estancias profesionales.
+Cuenta con dos dormitorios, salón con sofá cama, cocina totalmente equipada, baño completo y una agradable terraza. Está pensado para ofrecer una estancia cómoda tanto a familias como a viajeros de negocios o asistentes a congresos y eventos.
+
+Su excelente ubicación permite llegar fácilmente al centro histórico, al Palacio de Congresos Baluarte, al Navarra Arena, a la Universidad Pública de Navarra y a otros puntos de interés de la ciudad, convirtiéndolo en una opción perfecta para descubrir Pamplona con total comodidad.

@@ -1,5 +1,5 @@
 baseURL = "https://apartamentosturisticoslarrabide.es/"
-languageCode = "es"
+locale = "es-ES"
 title = "Apartamentos Turísticos Larrabide"
 
 disableKinds = ["taxonomy", "term"]

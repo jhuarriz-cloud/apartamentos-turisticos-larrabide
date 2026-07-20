@@ -1,6 +1,6 @@
 ---
 title: "Apartamento Larrabide Boho Chic"
-description: "Amplio apartamento de estilo Boho Chic con capacidad para 6 personas. Ideal para familias, grupos y estancias de trabajo en Pamplona."
+description: "Apartamento turístico de estilo Boho Chic en Pamplona, ideal para familias, grupos y estancias de trabajo."
 
 draft: false
 
@@ -11,16 +11,37 @@ capacidad: 6
 dormitorios: 2
 
 camas:
-  - "1 cama doble grande"
-  - "2 camas individuales"
-  - "2 sofás cama"
+  - "Dormitorio principal: 1 cama doble grande"
+  - "Segundo dormitorio: 2 camas individuales"
+  - "Salón: 2 sofás cama"
 
 banos: 1
 
-wifi: true
-aire: true
-cocina: true
-lavadora: true
+servicios:
+  - "Wi-Fi gratuito"
+  - "Aire acondicionado"
+  - "Terraza"
+  - "Cocina totalmente equipada"
+  - "Lavadora"
+  - "Lavavajillas"
+  - "Microondas"
+  - "Horno"
+  - "Nevera"
+  - "Cafetera"
+  - "TV de pantalla plana"
+  - "Ascensor"
+  - "Plancha"
+  - "Cuna bajo petición"
+
+destacados:
+  - "Guarda bicicletas seguro"
+
+perfil_ideal:
+  - "Familias"
+  - "Grupos"
+  - "Viajes de trabajo"
+  - "Turismo"
+  - "Cicloturismo"
 
 booking: ""
 airbnb: ""
@@ -28,8 +49,12 @@ airbnb: ""
 hero: "/images/apartamentos/boho-chic/portada.jpg"
 
 gallery:
-  - "/images/apartamentos/boho-chic/bano-01.jpg"
-  - "/images/apartamentos/boho-chic/bano-02.jpg"
+  - "/images/apartamentos/boho-chic/salon-01.jpg"
+  - "/images/apartamentos/boho-chic/salon-02.jpg"
+  - "/images/apartamentos/boho-chic/salon-03.jpg"
+  - "/images/apartamentos/boho-chic/salon-04.jpg"
+  - "/images/apartamentos/boho-chic/salon-05.jpg"
+  - "/images/apartamentos/boho-chic/salon-06.jpg"
   - "/images/apartamentos/boho-chic/cocina-01.jpg"
   - "/images/apartamentos/boho-chic/cocina-02.jpg"
   - "/images/apartamentos/boho-chic/cocina-03.jpg"
@@ -40,16 +65,16 @@ gallery:
   - "/images/apartamentos/boho-chic/habitacion-02-01.jpg"
   - "/images/apartamentos/boho-chic/habitacion-02-02.jpg"
   - "/images/apartamentos/boho-chic/habitacion-02-03.jpg"
+  - "/images/apartamentos/boho-chic/bano-01.jpg"
+  - "/images/apartamentos/boho-chic/bano-02.jpg"
   - "/images/apartamentos/boho-chic/pasillo-01.jpg"
-  - "/images/apartamentos/boho-chic/salon-01.jpg"
-  - "/images/apartamentos/boho-chic/salon-02.jpg"
-  - "/images/apartamentos/boho-chic/salon-03.jpg"
-  - "/images/apartamentos/boho-chic/salon-04.jpg"
-  - "/images/apartamentos/boho-chic/salon-05.jpg"
-  - "/images/apartamentos/boho-chic/salon-06.jpg"
 
 ---
 
 ## Apartamento Larrabide Boho Chic
 
-Próximamente.
+El Apartamento Larrabide Boho Chic destaca por su ambiente acogedor y su decoración contemporánea, ofreciendo un espacio amplio y confortable para disfrutar de Pamplona.
+
+Con capacidad para hasta seis personas, dispone de dos dormitorios, un salón con dos sofás cama, cocina completamente equipada, baño completo y terraza. Es una opción ideal para familias, grupos de amigos y estancias profesionales.
+
+Su excelente ubicación permite acceder cómodamente al centro histórico, al Palacio de Congresos Baluarte, al Navarra Arena y a los principales puntos de interés de la ciudad.

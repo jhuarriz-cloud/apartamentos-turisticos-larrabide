@@ -27,19 +27,16 @@
     <div class="info-grid">
 
         <article class="info-card">
-            <span class="icon">👥</span>
             <h3>{{ .Params.capacidad }}</h3>
             <p>Huéspedes</p>
         </article>
 
         <article class="info-card">
-            <span class="icon">🛏</span>
             <h3>{{ .Params.dormitorios }}</h3>
             <p>Dormitorios</p>
         </article>
 
         <article class="info-card">
-            <span class="icon">🚿</span>
             <h3>{{ .Params.banos }}</h3>
             <p>Baño</p>
         </article>
@@ -52,9 +49,7 @@
     <ul class="bed-list">
 
         {{ range .Params.camas }}
-
-        <li>🛌 {{ . }}</li>
-
+        <li>{{ . }}</li>
         {{ end }}
 
     </ul>
@@ -64,23 +59,41 @@
 
     <ul class="services-list">
 
-        {{ if .Params.wifi }}
-        <li>📶 Wi-Fi gratuito</li>
-        {{ end }}
-
-        {{ if .Params.aire }}
-        <li>❄️ Aire acondicionado</li>
-        {{ end }}
-
-        {{ if .Params.cocina }}
-        <li>🍳 Cocina totalmente equipada</li>
-        {{ end }}
-
-        {{ if .Params.lavadora }}
-        <li>🧺 Lavadora</li>
+        {{ range .Params.servicios }}
+        <li>{{ . }}</li>
         {{ end }}
 
     </ul>
+
+
+    {{ with .Params.destacados }}
+
+    <h2>Lo más destacado</h2>
+
+    <ul class="featured-list">
+
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+
+    </ul>
+
+    {{ end }}
+
+
+    {{ with .Params.perfil_ideal }}
+
+    <h2>Ideal para</h2>
+
+    <ul class="profile-list">
+
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+
+    </ul>
+
+    {{ end }}
 
 </section>
 
@@ -93,7 +106,7 @@
 
         {{ range .Params.gallery }}
 
-        <img src="{{ . }}" alt="Apartamento {{ $.Title }}">
+        <img src="{{ . }}" alt="{{ $.Title }}">
 
         {{ end }}
 

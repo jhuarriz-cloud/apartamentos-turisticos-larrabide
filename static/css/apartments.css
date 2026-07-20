@@ -1,0 +1,123 @@
+/* ======================================================
+ *  APARTAMENTOS LARRABIDE
+ *  ====================================================== */
+
+.apartment-hero{
+    padding:4rem 0;
+}
+
+.apartment-hero h1{
+    font-size:3rem;
+    margin-bottom:1rem;
+}
+
+.apartment-subtitle{
+    max-width:800px;
+    color:#666;
+    font-size:1.2rem;
+    line-height:1.7;
+    margin-bottom:2rem;
+}
+
+.hero-image{
+    width:100%;
+    border-radius:18px;
+    display:block;
+}
+
+.apartment-info{
+    padding:4rem 0;
+}
+
+.info-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:1.5rem;
+    margin:2rem 0 3rem;
+}
+
+.info-card{
+    background:#fff;
+    border:1px solid #ececec;
+    border-radius:16px;
+    padding:2rem;
+    text-align:center;
+    box-shadow:0 8px 20px rgba(0,0,0,.05);
+}
+
+.info-card h3{
+    font-size:2rem;
+    margin:0;
+}
+
+.info-card p{
+    margin-top:.5rem;
+    color:#666;
+}
+
+.apartment-info h2{
+    margin-top:3rem;
+    margin-bottom:1rem;
+}
+
+.services-list,
+.bed-list,
+.profile-list,
+.featured-list{
+
+    list-style:none;
+    padding:0;
+    margin:1rem 0 3rem;
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:1rem;
+}
+
+.services-list li,
+.bed-list li,
+.profile-list li,
+.featured-list li{
+
+    background:#f7f7f7;
+    border:1px solid #ececec;
+    border-radius:10px;
+    padding:15px 18px;
+
+    transition:.25s;
+}
+
+.services-list li:hover,
+.bed-list li:hover,
+.profile-list li:hover,
+.featured-list li:hover{
+
+    background:white;
+    transform:translateY(-2px);
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.gallery{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+    gap:1rem;
+
+    margin:2rem 0 5rem;
+}
+
+.gallery img{
+
+    width:100%;
+    display:block;
+    border-radius:12px;
+    transition:.3s;
+}
+
+.gallery img:hover{
+
+    transform:scale(1.02);
+
+}
