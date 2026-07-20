@@ -3,11 +3,14 @@
     <div class="container">
 
         <div class="section-title">
+
             <h2>Nuestros apartamentos</h2>
+
             <p>
                 Tres apartamentos de diseño en Pamplona para disfrutar de una estancia cómoda,
                 elegante y completamente equipada.
             </p>
+
         </div>
 
         <div class="apartments-grid">
@@ -16,7 +19,7 @@
 
             <article class="apartment-card">
 
-                <a href="{{ .RelPermalink }}">
+                <a href="{{ .RelPermalink }}" class="card-image">
 
                     <img
                         src="{{ .Params.hero }}"
@@ -32,18 +35,18 @@
 
                     <div class="apartment-meta">
 
-                        <span>{{ .Params.capacidad }} personas</span>
+                        <span>👥 {{ .Params.capacidad }}</span>
 
-                        <span>{{ .Params.dormitorios }} dormitorios</span>
+                        <span>🛏 {{ .Params.dormitorios }}</span>
 
-                        <span>{{ .Params.banos }} baño{{ if ne .Params.banos 1 }}s{{ end }}</span>
+                        <span>🚿 {{ .Params.banos }}</span>
 
                     </div>
 
                     <a
                         href="{{ .RelPermalink }}"
                         class="button">
-                        Ver apartamento
+                        Descubrir apartamento →
                     </a>
 
                 </div>
