@@ -42,8 +42,9 @@ perfil_ideal:
   - "Turismo"
   - "Cicloturismo"
 
-booking: ""
-airbnb: ""
+booking: "https://www.booking.com/hotel/es/nordico-a.es.html"
+airbnb: "https://www.airbnb.es/pr/apartamentosturisticoslarrabide"
+registro: "UAT01866"
 
 hero: "/images/apartamentos/nordico/portada.jpg"
 

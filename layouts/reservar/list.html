@@ -1,0 +1,115 @@
+{{ define "main" }}
+
+<section class="reservation-page">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <p class="eyebrow">Reserva tu estancia</p>
+
+            <h1>{{ .Title }}</h1>
+
+            <p>
+                Elige el apartamento que mejor se adapte a tu estancia en Pamplona
+                y consulta su disponibilidad a través de nuestros canales oficiales
+                de reserva.
+            </p>
+
+        </div>
+
+        <div class="reservation-grid">
+
+            {{ range where .Site.RegularPages "Section" "apartamentos" }}
+
+            <article class="reservation-card">
+
+                <div class="reservation-image">
+
+                    <img
+                        src="{{ .Params.hero }}"
+                        alt="{{ .Title }}">
+
+                </div>
+
+                <div class="reservation-content">
+
+                    <h2>{{ .Title }}</h2>
+
+                    <p class="reservation-description">
+                        {{ .Description }}
+                    </p>
+
+                    <div class="reservation-meta">
+
+                        <span>
+                            {{ .Params.capacidad }} personas
+                        </span>
+
+                        <span>
+                            {{ .Params.dormitorios }} dormitorios
+                        </span>
+
+                        <span>
+                            Registro turístico: {{ .Params.registro }}
+                        </span>
+
+                    </div>
+
+                    <div class="reservation-buttons">
+
+                        {{ if .Params.booking }}
+
+                        <a
+                            href="{{ .Params.booking }}"
+                            class="button"
+                            target="_blank"
+                            rel="noopener noreferrer">
+
+                            Reservar en Booking
+
+                        </a>
+
+                        {{ end }}
+
+                        {{ if .Params.airbnb }}
+
+                        <a
+                            href="{{ .Params.airbnb }}"
+                            class="button button-secondary"
+                            target="_blank"
+                            rel="noopener noreferrer">
+
+                            Ver en Airbnb
+
+                        </a>
+
+                        {{ end }}
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            {{ end }}
+
+        </div>
+
+        <div class="reservation-note">
+
+            <h2>Canales oficiales de reserva</h2>
+
+            <p>
+                Puedes consultar la disponibilidad y reservar nuestros apartamentos
+                a través de Booking.com o Airbnb. Los botones anteriores te llevarán
+                directamente a nuestros alojamientos en estas plataformas.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+{{ end }}

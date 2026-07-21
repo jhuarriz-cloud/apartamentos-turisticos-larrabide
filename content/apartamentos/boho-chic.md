@@ -43,8 +43,9 @@ perfil_ideal:
   - "Turismo"
   - "Cicloturismo"
 
-booking: ""
-airbnb: ""
+booking: "https://www.booking.com/hotel/es/nordica-boho-chic-c.es.html"
+airbnb: "https://www.airbnb.es/pr/apartamentosturisticoslarrabide"
+registro: "UAT01868"
 
 hero: "/images/apartamentos/boho-chic/portada.jpg"
 
