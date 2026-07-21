@@ -1,0 +1,389 @@
+/* =========================================================
+   SECCIONES DE RUTAS
+   ========================================================= */
+
+.cycling-route-section {
+    margin: 110px 0;
+}
+
+.cycling-route-section:first-child {
+    margin-top: 40px;
+}
+
+.cycling-route-section .eyebrow {
+    margin-bottom: 12px;
+}
+
+.cycling-route-section h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 20px;
+}
+
+.cycling-route-section > p:not(.eyebrow) {
+    max-width: 750px;
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 45px;
+}
+
+/* Separación entre el encabezado de categoría
+   y las tarjetas */
+
+.routes-grid {
+    margin-top: 0;
+}
+
+/* =========================================================
+   TARJETAS DE RUTAS
+   ========================================================= */
+
+.routes-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+}
+
+.route-card {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 30px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.route-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.12);
+}
+
+.route-icon {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.route-card h3 {
+    margin: 0 0 18px;
+    font-family: "Playfair Display", serif;
+    font-size: 1.6rem;
+    line-height: 1.25;
+}
+
+.route-data {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.route-data span {
+    background: #f3f3f1;
+    padding: 7px 11px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: #444;
+}
+
+.route-card p {
+    line-height: 1.7;
+    color: #555;
+}
+
+.route-profile {
+    margin-top: 15px;
+    font-size: 0.95rem;
+}
+
+.route-location {
+    margin-top: auto;
+    padding-top: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.route-button {
+    display: block;
+    margin-top: 22px;
+    padding: 13px 18px;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+}
+
+.route-button:hover {
+    background: #555;
+}
+
+@media (max-width: 900px) {
+
+    .routes-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media (max-width: 600px) {
+
+    .cycling-route-section {
+        margin: 70px 0;
+    }
+
+    .cycling-route-section h2 {
+        font-size: 2.1rem;
+    }
+
+    .cycling-route-section > p:not(.eyebrow) {
+        margin-bottom: 35px;
+    }
+
+    .routes-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .route-card {
+        padding: 25px;
+    }
+
+}
+/* =========================================================
+   ALOJAMIENTO PARA CICLISTAS
+   ========================================================= */
+
+.cycling-stay {
+    margin: 100px 0 0;
+    background: #111;
+    color: #fff;
+}
+
+.cycling-stay-content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 90px 40px;
+    text-align: center;
+}
+
+.cycling-stay-content .eyebrow {
+    color: #aaa;
+    margin-bottom: 15px;
+}
+
+.cycling-stay-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2.8rem;
+    line-height: 1.2;
+    margin: 0 0 25px;
+}
+
+.cycling-stay-content > p:not(.eyebrow) {
+    max-width: 750px;
+    margin: 0 auto 50px;
+    color: #ccc;
+    line-height: 1.8;
+    font-size: 1.05rem;
+}
+
+/* Recuadros de ventajas */
+
+.cycling-benefits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    margin: 45px 0 50px;
+}
+
+.cycling-benefits > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 150px;
+    padding: 25px 20px;
+    background: #1d1d1d;
+    border: 1px solid #333;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.cycling-benefits > div:hover {
+    transform: translateY(-4px);
+    border-color: #666;
+}
+
+.cycling-benefits strong {
+    display: block;
+    margin-bottom: 12px;
+    font-size: 1rem;
+    color: #fff;
+}
+
+.cycling-benefits span {
+    color: #aaa;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Botones */
+
+.cycling-stay-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.cycling-stay-buttons .button {
+    display: inline-block;
+    padding: 14px 26px;
+    border-radius: 6px;
+    text-decoration: none;
+    background: #fff;
+    color: #111;
+    transition: opacity 0.2s ease;
+}
+
+.cycling-stay-buttons .button:hover {
+    opacity: 0.85;
+}
+
+.cycling-stay-buttons .button-secondary {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #666;
+}
+
+.cycling-stay-buttons .button-secondary:hover {
+    background: #fff;
+    color: #111;
+}
+
+/* Responsive */
+
+@media (max-width: 900px) {
+
+    .cycling-benefits {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media (max-width: 600px) {
+
+    .cycling-stay-content {
+        padding: 70px 25px;
+    }
+
+    .cycling-stay-content h2 {
+        font-size: 2.2rem;
+    }
+
+    .cycling-benefits {
+        grid-template-columns: 1fr;
+    }
+
+}
+/* =========================================================
+   MODALIDADES DE CICLOTURISMO
+   ========================================================= */
+
+.cycling-modalities-heading {
+    margin: 60px 0 30px;
+}
+
+.cycling-modalities-heading h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+/* Tarjetas */
+
+.cycling-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.cycling-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+    padding: 35px;
+    background: #fff;
+    border: 1px solid #e5e5e2;
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.cycling-card:hover {
+    transform: translateY(-5px);
+    border-color: #ccc;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+}
+
+.cycling-icon {
+    flex-shrink: 0;
+    font-size: 2.6rem;
+    line-height: 1;
+}
+
+.cycling-card-content {
+    flex: 1;
+}
+
+.cycling-card-label {
+    margin: 0 0 8px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #777;
+}
+
+.cycling-card h3 {
+    margin: 0 0 14px;
+    font-family: "Playfair Display", serif;
+    font-size: 1.7rem;
+    line-height: 1.2;
+}
+
+.cycling-card p:not(.cycling-card-label) {
+    margin: 0;
+    color: #555;
+    line-height: 1.7;
+}
+
+.cycling-card-link {
+    display: inline-block;
+    margin-top: 22px;
+    font-weight: 600;
+    color: #222;
+}
+
+/* Responsive */
+
+@media (max-width: 700px) {
+
+    .cycling-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .cycling-card {
+        padding: 28px;
+    }
+
+    .cycling-modalities-heading {
+        margin-top: 45px;
+    }
+
+}

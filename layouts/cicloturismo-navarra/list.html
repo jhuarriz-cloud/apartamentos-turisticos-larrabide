@@ -1,0 +1,391 @@
+{{ define "main" }}
+
+<section class="cycling-hero">
+
+    <div class="container">
+
+        <p class="eyebrow">
+            Pamplona · Navarra · Ciclismo
+        </p>
+
+        <h1>
+            Cicloturismo en Navarra
+            <span>desde Pamplona</span>
+        </h1>
+
+        <p class="cycling-intro">
+            Descubre Navarra sobre dos ruedas. Rutas de carretera, gravel,
+            BTT, vías verdes y grandes recorridos para disfrutar de una de
+            las regiones más diversas del norte de España.
+        </p>
+
+        <div class="cycling-hero-buttons">
+
+            <a href="#modalidades" class="button">
+                Explorar rutas
+            </a>
+
+            <a href="/apartamentos/" class="button button-secondary">
+                Ver apartamentos
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="modalidades" class="cycling-section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <p class="eyebrow">
+                Navarra en bicicleta
+            </p>
+
+            <h2>
+                Una región para descubrir sobre dos ruedas
+            </h2>
+
+            <p>
+                Desde Pamplona puedes explorar algunos de los paisajes más diversos
+                de Navarra: los valles y bosques del Pirineo, los caminos rurales
+                de la Zona Media, los viñedos y paisajes mediterráneos de la Ribera.
+            </p>
+
+        </div>
+
+
+        <div class="cycling-modalities-heading">
+
+            <h3>
+                Elige tu forma de descubrir Navarra
+            </h3>
+
+        </div>
+
+
+        <div class="cycling-cards">
+
+
+            <a href="#carretera" class="cycling-card">
+
+                <div class="cycling-icon">
+                    🚴
+                </div>
+
+                <div class="cycling-card-content">
+
+                    <p class="cycling-card-label">
+                        Ciclismo
+                    </p>
+
+                    <h3>
+                        Bicicleta de carretera
+                    </h3>
+
+                    <p>
+                        Puertos de montaña, carreteras secundarias y grandes
+                        recorridos para disfrutar de Navarra sobre el asfalto.
+                    </p>
+
+                    <span class="cycling-card-link">
+                        Explorar rutas →
+                    </span>
+
+                </div>
+
+            </a>
+
+
+            <a href="#gravel" class="cycling-card">
+
+                <div class="cycling-icon">
+                    🪨
+                </div>
+
+                <div class="cycling-card-content">
+
+                    <p class="cycling-card-label">
+                        Aventura
+                    </p>
+
+                    <h3>
+                        Gravel
+                    </h3>
+
+                    <p>
+                        Caminos rurales y pistas que conectan pueblos, valles
+                        y paisajes alejados de las rutas convencionales.
+                    </p>
+
+                    <span class="cycling-card-link">
+                        Explorar rutas →
+                    </span>
+
+                </div>
+
+            </a>
+
+
+            <a href="#btt" class="cycling-card">
+
+                <div class="cycling-icon">
+                    🚵
+                </div>
+
+                <div class="cycling-card-content">
+
+                    <p class="cycling-card-label">
+                        Montaña
+                    </p>
+
+                    <h3>
+                        BTT y montaña
+                    </h3>
+
+                    <p>
+                        Senderos, bosques y montaña para quienes buscan
+                        una experiencia más aventurera sobre dos ruedas.
+                    </p>
+
+                    <span class="cycling-card-link">
+                        Explorar rutas →
+                    </span>
+
+                </div>
+
+            </a>
+
+
+            <a href="#vias-verdes" class="cycling-card">
+
+                <div class="cycling-icon">
+                    🌿
+                </div>
+
+                <div class="cycling-card-content">
+
+                    <p class="cycling-card-label">
+                        Naturaleza
+                    </p>
+
+                    <h3>
+                        Vías Verdes
+                    </h3>
+
+                    <p>
+                        Antiguos trazados ferroviarios y recorridos tranquilos
+                        para disfrutar del paisaje a otro ritmo.
+                    </p>
+
+                    <span class="cycling-card-link">
+                        Explorar rutas →
+                    </span>
+
+                </div>
+
+            </a>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<section class="cycling-content">
+
+    <div class="container">
+
+        <div class="cycling-main-content">
+
+            <div class="cycling-routes">
+
+                {{ range $categoria := slice "carretera" "gravel" "btt" "vias-verdes" "grandes-recorridos" }}
+
+                    <section id="{{ $categoria }}" class="cycling-route-section">
+
+                        {{ if eq $categoria "carretera" }}
+                            <p class="eyebrow">🚴 Bicicleta de carretera</p>
+                            <h2>Rutas de carretera</h2>
+                            <p>
+                                Desde rutas cercanas a Pamplona hasta grandes desafíos
+                                en los Pirineos navarros.
+                            </p>
+                        {{ end }}
+
+                        {{ if eq $categoria "gravel" }}
+                            <p class="eyebrow">🪨 Gravel</p>
+                            <h2>Rutas gravel</h2>
+                            <p>
+                                Caminos rurales, paisajes de montaña y recorridos
+                                para descubrir Navarra de una forma diferente.
+                            </p>
+                        {{ end }}
+
+                        {{ if eq $categoria "btt" }}
+                            <p class="eyebrow">🚵 BTT y montaña</p>
+                            <h2>BTT y bicicleta de montaña</h2>
+                            <p>
+                                Senderos, valles y recorridos para disfrutar
+                                de la bicicleta de montaña.
+                            </p>
+                        {{ end }}
+
+                        {{ if eq $categoria "vias-verdes" }}
+                            <p class="eyebrow">🌿 Naturaleza</p>
+                            <h2>Vías Verdes</h2>
+                            <p>
+                                Recorridos tranquilos para disfrutar del paisaje,
+                                la naturaleza y el patrimonio de Navarra.
+                            </p>
+                        {{ end }}
+
+                        {{ if eq $categoria "grandes-recorridos" }}
+                            <p class="eyebrow">🗺️ Cicloturismo</p>
+                            <h2>Grandes recorridos</h2>
+                            <p>
+                                Itinerarios para organizar viajes cicloturistas
+                                de varios días.
+                            </p>
+                        {{ end }}
+
+                        <div class="routes-grid">
+
+                       {{ range where hugo.Data.rutas_cicloturismo.rutas "categoria" $categoria }}
+
+                                <article class="route-card">
+
+                                    <div class="route-icon">
+                                        {{ .icono }}
+                                    </div>
+
+                                    <h3>
+                                        {{ .nombre }}
+                                    </h3>
+
+                                    <div class="route-data">
+
+                                        <span>
+                                            📏 {{ .distancia }}
+                                        </span>
+
+                                        <span>
+                                            ⛰️ {{ .desnivel }}
+                                        </span>
+
+                                        <span>
+                                            🎯 {{ .dificultad }}
+                                        </span>
+
+                                    </div>
+
+                                    <p>
+                                        {{ .descripcion }}
+                                    </p>
+
+                                    <p class="route-profile">
+                                        <strong>
+                                            {{ .ideal }}
+                                        </strong>
+                                    </p>
+
+                                    <div class="route-location">
+                                        {{ .ubicacion }}
+                                    </div>
+
+                                    <a
+                                        href="{{ .url }}"
+                                        class="route-button"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        📥 Ver ruta y descargar GPX →
+                                    </a>
+
+                                </article>
+
+                            {{ end }}
+
+                        </div>
+
+                    </section>
+
+                {{ end }}
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="cycling-stay">
+
+    <div class="container">
+
+        <div class="cycling-stay-content">
+
+            <p class="eyebrow">
+                Alojamiento para ciclistas
+            </p>
+
+            <h2>
+                Tu base para descubrir Navarra en bicicleta
+            </h2>
+
+            <p>
+                Apartamentos Turísticos Larrabide es una opción práctica
+                para quienes quieren combinar una estancia en Pamplona
+                con rutas de carretera, gravel, BTT o cicloturismo por Navarra.
+            </p>
+
+            <div class="cycling-benefits">
+
+                <div>
+                    <strong>🚲 Guarda bicicletas</strong>
+                    <span>Espacio seguro para tu bicicleta.</span>
+                </div>
+
+                <div>
+                    <strong>🏠 Apartamentos completos</strong>
+                    <span>Tu propio espacio durante la estancia.</span>
+                </div>
+
+                <div>
+                    <strong>🧺 Lavadora</strong>
+                    <span>Práctico para viajes de varios días.</span>
+                </div>
+
+                <div>
+                    <strong>📶 Wi-Fi</strong>
+                    <span>Conectividad durante tu estancia.</span>
+                </div>
+
+            </div>
+
+            <div class="cycling-stay-buttons">
+
+                <a href="/apartamentos/" class="button">
+                    Conocer los apartamentos
+                </a>
+
+                <a href="/reservar/" class="button button-secondary">
+                    Consultar opciones de reserva
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+{{ end }}
