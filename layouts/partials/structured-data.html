@@ -1,0 +1,58 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LodgingBusiness",
+  "@id": "{{ .Site.BaseURL }}#lodging",
+  "name": "Apartamentos Turísticos Larrabide",
+  "url": "{{ .Site.BaseURL }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/ Larrabide, 3 bis",
+    "addressLocality": "Pamplona",
+    "addressRegion": "Navarra",
+    "addressCountry": "ES"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Wi-Fi",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Lavadora",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Cocina",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Guarda bicicletas",
+      "value": true
+    }
+  ]
+}
+</script> 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>

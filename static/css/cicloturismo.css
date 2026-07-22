@@ -387,3 +387,207 @@
     }
 
 }
+/* =========================================================
+   EVENTOS CICLISTAS
+   ========================================================= */
+
+.cycling-events {
+    padding: 110px 0;
+    background: #f5f5f2;
+}
+
+.cycling-events .section-title {
+    max-width: 800px;
+    margin: 0 auto 55px;
+    text-align: center;
+}
+
+.cycling-events .section-title h2 {
+    margin-bottom: 20px;
+}
+
+.cycling-events .section-title > p:not(.eyebrow) {
+    color: #555;
+    line-height: 1.7;
+}
+
+/* Evento destacado */
+
+.cycling-event-featured {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 45px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 55px;
+    background: #111;
+    color: #fff;
+    border-radius: 14px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+}
+
+.event-icon {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 5rem;
+}
+
+.event-content {
+    max-width: 750px;
+}
+
+.event-label {
+    margin: 0 0 12px;
+    color: #aaa;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.event-content h3 {
+    margin: 0 0 20px;
+    font-family: "Playfair Display", serif;
+    font-size: 2.8rem;
+}
+
+.event-content > p:not(.event-label):not(.event-note) {
+    color: #ccc;
+    line-height: 1.8;
+}
+
+/* Recorridos */
+
+.event-routes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin: 35px 0;
+}
+
+.event-routes > div {
+    padding: 20px;
+    background: #1d1d1d;
+    border: 1px solid #333;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.event-routes strong {
+    display: block;
+    font-size: 1.4rem;
+    margin-bottom: 7px;
+}
+
+.event-routes span {
+    color: #aaa;
+    font-size: 0.85rem;
+}
+
+.event-note {
+    color: #aaa;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+/* Botones */
+
+.event-buttons {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.event-buttons .button {
+    background: #fff;
+    color: #111;
+}
+
+.event-buttons .button-secondary {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #555;
+}
+
+.event-buttons .button-secondary:hover {
+    background: #fff;
+    color: #111;
+}
+
+/* Responsive */
+
+@media (max-width: 700px) {
+
+    .cycling-events {
+        padding: 75px 0;
+    }
+
+    .cycling-event-featured {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 35px 25px;
+    }
+
+    .event-icon {
+        justify-content: flex-start;
+        font-size: 3.5rem;
+    }
+
+    .event-content h3 {
+        font-size: 2.3rem;
+    }
+
+    .event-routes {
+        grid-template-columns: 1fr;
+    }
+
+    .event-buttons {
+        flex-direction: column;
+    }
+
+    .event-buttons .button {
+        text-align: center;
+    }
+
+}
+/* =========================================================
+   EVENTOS CICLISTAS - GRID
+   ========================================================= */
+
+.cycling-events-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.cycling-events-grid .route-card {
+    width: 100%;
+}
+
+.event-distances {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0;
+}
+
+.event-distances span {
+    padding: 7px 10px;
+    background: #f3f3f1;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    color: #555;
+}
+
+@media (max-width: 900px) {
+
+    .cycling-events-grid {
+        grid-template-columns: 1fr;
+        max-width: 600px;
+    }
+
+}
