@@ -10,6 +10,9 @@ AGENDA_URL = (
     "Subject=pamplona&busq=agenda&idioma=1&subMnuActual=2&tr=TREGISI02"
 )
 
+# Agenda oficial actual de Pamplona
+AGENDA_OFICIAL_URL = "https://www.pamplona.es/actualidad/eventos"
+
 OUTPUT_FILE = Path("content/pamplona/eventos/_index.md")
 
 
@@ -36,7 +39,6 @@ def obtener_eventos():
                 continue
 
             titulo = enlace.get_text(" ", strip=True)
-            url = urljoin(r.url, enlace["href"])
 
             dd = dt.find_next_sibling("dd")
 
@@ -58,7 +60,6 @@ def obtener_eventos():
                 "titulo": titulo,
                 "lugar": lugar,
                 "fecha_fin": fecha_fin,
-                "url": url,
             })
 
         break
@@ -83,25 +84,42 @@ def generar_markdown(eventos):
         "",
         f"*Información actualizada el {fecha_actualizacion}.*",
         "",
+        '<div class="eventos-lista">',
+        "",
     ]
 
     for evento in eventos:
+
+        lineas.append('<article class="evento-card">')
+        lineas.append("")
 
         lineas.append(f"## {evento['titulo']}")
         lineas.append("")
 
         if evento["lugar"]:
-            lineas.append(f"**Lugar:** {evento['lugar']}  ")
+            lineas.append(
+                f'<p class="evento-lugar"><strong>Lugar:</strong> {evento["lugar"]}</p>'
+            )
+            lineas.append("")
 
         if evento["fecha_fin"]:
-            lineas.append(f"**Fecha de finalización:** {evento['fecha_fin']}  ")
-
-        if evento["url"]:
             lineas.append(
-                f"[Consultar información oficial del evento]({evento['url']})"
+                f'<p class="evento-fecha"><strong>Fecha de finalización:</strong> {evento["fecha_fin"]}</p>'
             )
+            lineas.append("")
 
+        lineas.append(
+            f'<a class="evento-boton" href="{AGENDA_OFICIAL_URL}" target="_blank" rel="noopener">'
+        )
+        lineas.append("Consultar agenda oficial")
+        lineas.append("</a>")
         lineas.append("")
+
+        lineas.append("</article>")
+        lineas.append("")
+
+    lineas.append("</div>")
+    lineas.append("")
 
     return "\n".join(lineas)
 
