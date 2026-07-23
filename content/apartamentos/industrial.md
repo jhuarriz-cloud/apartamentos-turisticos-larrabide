@@ -1,6 +1,6 @@
 ---
-title: "Apartamento Larrabide Industrial"
-description: "Apartamento de estilo industrial para hasta 5 personas. Diseño contemporáneo, terraza y excelente ubicación para descubrir Pamplona."
+title: "Apartamento turístico Industrial en Pamplona | Apartamentos Larrabide"
+description: "Apartamento turístico de estilo industrial en Pamplona para hasta 5 personas, con 2 dormitorios, terraza, cocina equipada y guarda bicicletas seguro. Ideal para familias, viajes de trabajo, congresos, eventos y cicloturismo."
 
 draft: false
 
