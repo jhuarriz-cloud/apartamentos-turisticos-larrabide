@@ -56,3 +56,37 @@
   ]
 }
 </script>
+{{ if eq .Section "apartamentos" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Apartment",
+  "@id": "{{ .Permalink }}#apartment",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ .Params.hero | absURL }}",
+  "numberOfBedrooms": {{ .Params.dormitorios }},
+  "occupancy": {
+    "@type": "QuantitativeValue",
+    "maxValue": {{ .Params.capacidad }}
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/ Larrabide, 3 bis",
+    "addressLocality": "Pamplona",
+    "addressRegion": "Navarra",
+    "addressCountry": "ES"
+  },
+  "containedInPlace": {
+    "@type": "LodgingBusiness",
+    "@id": "{{ .Site.BaseURL }}#lodging",
+    "name": "Apartamentos Turísticos Larrabide"
+  },
+  "sameAs": [
+    "{{ .Params.booking }}",
+    "{{ .Params.airbnb }}"
+  ]
+}
+</script>
+{{ end }}
