@@ -317,3 +317,122 @@ footer p {
     }
 
 }
+/* ===========================
+   PÁGINAS DE EVENTOS Y CONGRESOS
+=========================== */
+
+.business-page {
+    padding: 90px 0;
+    background: #faf9f7;
+}
+
+.business-page .section-title {
+    max-width: 850px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+
+.business-page .section-title h1 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    line-height: 1.15;
+    color: #222;
+    margin-bottom: 25px;
+}
+
+.business-page .section-title p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.business-content {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 50px;
+    border-radius: 22px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, .06);
+}
+
+.business-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.business-content p {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.business-content h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem;
+    color: #222;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.business-content a {
+    color: #B58A52;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.business-content a:hover {
+    text-decoration: underline;
+}
+
+.business-cta {
+    max-width: 900px;
+    margin: 50px auto 0 auto;
+    padding: 50px;
+    background: #f5f2ed;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.business-cta h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.business-cta p {
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    color: #666;
+}
+
+.business-cta .button {
+    margin: 5px;
+}
+
+.button-secondary {
+    background: #222;
+}
+
+.button-secondary:hover {
+    background: #444;
+}
+
+@media (max-width: 768px) {
+
+    .business-page {
+        padding: 60px 0;
+    }
+
+    .business-content,
+    .business-cta {
+        padding: 30px 25px;
+    }
+
+    .business-page .section-title h1 {
+        font-size: 2.5rem;
+    }
+
+}

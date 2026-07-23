@@ -1,0 +1,104 @@
+/* =========================================
+   PÁGINA DE EVENTOS
+========================================= */
+
+.page-section {
+    padding: 90px 0;
+}
+
+.page-section > .container > h1:first-child {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    text-align: center;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.page-section > .container > h1:first-child + h1 {
+    display: none;
+}
+
+.page-section > .container > p {
+    max-width: 750px;
+    margin: 0 auto 25px;
+    text-align: center;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+/* =========================================
+   LISTADO DE EVENTOS
+========================================= */
+
+.eventos-lista {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    margin-top: 60px;
+}
+
+/*
+   Cada evento se genera actualmente
+   como h2 + p.
+   Los convertimos visualmente en tarjetas.
+*/
+
+.eventos-lista h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem;
+    line-height: 1.3;
+    color: #222;
+    margin-bottom: 15px;
+}
+
+.eventos-lista p {
+    color: #666;
+    font-size: .98rem;
+}
+
+.eventos-lista a {
+    display: inline-block;
+    margin-top: 18px;
+    padding: 10px 20px;
+    background: #B58A52;
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-size: .9rem;
+    font-weight: 600;
+    transition: all .25s ease;
+}
+
+.eventos-lista a:hover {
+    background: #9F7546;
+    transform: translateY(-2px);
+}
+
+/* =========================================
+   INFORMACIÓN ACTUALIZADA
+========================================= */
+
+.page-section em {
+    display: block;
+    margin-top: 10px;
+    color: #888;
+    font-size: .9rem;
+}
+
+/* =========================================
+   MÓVIL
+========================================= */
+
+@media (max-width: 768px) {
+
+    .page-section {
+        padding: 60px 0;
+    }
+
+    .eventos-lista {
+        grid-template-columns: 1fr;
+        gap: 25px;
+        margin-top: 40px;
+    }
+
+}
