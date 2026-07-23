@@ -1,6 +1,6 @@
 ---
-title: "Apartamento Larrabide Nórdico"
-description: "Luminoso apartamento de estilo nórdico para hasta 5 personas. Diseño moderno, terraza y excelente ubicación cerca del centro de Pamplona."
+title: "Apartamento turístico Nórdico en Pamplona | Apartamentos Larrabide"
+description: "Apartamento turístico de estilo nórdico en Pamplona para hasta 5 personas, con 2 dormitorios, terraza, cocina equipada y guarda bicicletas seguro. Ideal para familias, viajes de trabajo, congresos, eventos y cicloturismo."
 
 draft: false
 
