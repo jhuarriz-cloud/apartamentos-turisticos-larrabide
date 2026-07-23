@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<section class="business-page">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <p class="eyebrow">
+                Pamplona · Congresos · Trabajo
+            </p>
+
+            <h1>
+                {{ .Title }}
+            </h1>
+
+            <p>
+                {{ .Description }}
+            </p>
+
+        </div>
+
+        <div class="business-content">
+
+            {{ .Content }}
+
+        </div>
+
+        <div class="business-cta">
+
+            <a href="/apartamentos/" class="button">
+                Ver apartamentos
+            </a>
+
+            <a href="/reservar/" class="button button-secondary">
+                Consultar opciones de reserva
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+{{ end }}
