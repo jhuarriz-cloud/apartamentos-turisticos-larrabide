@@ -1,6 +1,6 @@
 ---
-title: "Apartamento Larrabide Boho Chic"
-description: "Apartamento turístico de estilo Boho Chic en Pamplona, ideal para familias, grupos y estancias de trabajo."
+title: "Apartamento turístico Boho Chic en Pamplona | Apartamentos Larrabide"
+description: "Apartamento turístico Boho Chic en Pamplona para hasta 6 personas, con 2 dormitorios, terraza, cocina equipada y guarda bicicletas seguro. Ideal para familias, grupos, viajes de trabajo y cicloturismo."
 
 draft: false
 
@@ -13,7 +13,7 @@ dormitorios: 2
 camas:
   - "Dormitorio principal: 1 cama doble grande"
   - "Segundo dormitorio: 2 camas individuales"
-  - "Salón: 2 sofás cama"
+  - "Salón: 1 sofá cama -2 plazas-"
 
 banos: 1
 
