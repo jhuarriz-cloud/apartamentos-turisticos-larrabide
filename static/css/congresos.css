@@ -1,0 +1,160 @@
+/* ===========================
+   PÁGINA DE CONGRESOS
+=========================== */
+
+.business-page {
+    padding: 80px 0 100px;
+    background: #faf9f7;
+}
+
+.business-page .container {
+    max-width: 1100px;
+}
+
+/* ===========================
+   CABECERA DE LA PÁGINA
+=========================== */
+
+.business-page .section-title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.business-page .section-title .eyebrow {
+    color: #B58A52;
+    margin-bottom: 15px;
+}
+
+.business-page .section-title h1 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(2.4rem, 5vw, 4rem);
+    line-height: 1.15;
+    color: #222;
+    margin-bottom: 25px;
+}
+
+.business-page .section-title > p:last-child {
+    max-width: 750px;
+    margin: 0 auto;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+/* ===========================
+   CONTENIDO
+=========================== */
+
+.business-content {
+    background: white;
+    padding: 50px;
+    border-radius: 22px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, .06);
+}
+
+.business-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.business-content > p {
+    color: #666;
+    margin-bottom: 40px;
+}
+
+/* ===========================
+   LISTADO DE CONGRESOS
+=========================== */
+
+.business-content h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem;
+    color: #222;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.business-content a {
+    color: #B58A52;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.business-content a:hover {
+    text-decoration: underline;
+}
+
+/* ===========================
+   CTA ALOJAMIENTO
+=========================== */
+
+.business-cta {
+    margin-top: 60px;
+    padding: 50px;
+    background: #222;
+    color: white;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.business-cta h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+
+.business-cta p {
+    max-width: 750px;
+    margin: 0 auto 30px;
+    color: rgba(255, 255, 255, .8);
+}
+
+.business-cta .button {
+    margin: 5px;
+}
+
+.button-secondary {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, .6);
+}
+
+.button-secondary:hover {
+    background: white;
+    color: #222;
+}
+
+/* ===========================
+   MÓVIL
+=========================== */
+
+@media (max-width: 768px) {
+
+    .business-page {
+        padding: 50px 0 70px;
+    }
+
+    .business-content {
+        padding: 30px 22px;
+        border-radius: 16px;
+    }
+
+    .business-content h2 {
+        font-size: 1.7rem;
+    }
+
+    .business-cta {
+        padding: 35px 22px;
+        border-radius: 16px;
+    }
+
+    .business-cta h2 {
+        font-size: 1.8rem;
+    }
+
+    .business-cta .button {
+        display: block;
+        margin: 10px 0;
+    }
+
+}
