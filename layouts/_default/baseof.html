@@ -1,26 +1,26 @@
 <!DOCTYPE html>
-
 <html lang="es">
 
 <head>
 
-{{ partial "head.html" . }}
+    {{ partial "head.html" . }}
+
+    <link rel="stylesheet" href="/css/style.css">
 
 </head>
 
 <body>
 
-{{ partial "header.html" . }}
+    {{ partial "header.html" . }}
 
-<main>
+    <main>
 
-{{ block "main" . }}
+        {{ block "main" . }}
+        {{ end }}
 
-{{ end }}
+    </main>
 
-</main>
-
-{{ partial "footer.html" . }}
+    {{ partial "footer.html" . }}
 
 </body>
 
