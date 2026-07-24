@@ -47,21 +47,39 @@
 
             </ul>
 
-            <a class="button" href="{{ .RelPermalink }}">
+            <a
+                class="button"
+                href="{{ .RelPermalink }}">
                 Ver apartamento
             </a>
 
-            {{ with .Params.airbnb }}
+            <div class="apartment-booking-buttons">
 
-            <a
-                class="button button-airbnb"
-                href="{{ . }}"
-                target="_blank"
-                rel="noopener noreferrer">
-                Ver en Airbnb
-            </a>
+                {{ with .Params.airbnb }}
 
-            {{ end }}
+                <a
+                    class="button button-airbnb"
+                    href="{{ . }}"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Ver en Airbnb
+                </a>
+
+                {{ end }}
+
+                {{ with .Params.booking }}
+
+                <a
+                    class="button button-booking"
+                    href="{{ . }}"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Ver en Booking
+                </a>
+
+                {{ end }}
+
+            </div>
 
         </div>
 
