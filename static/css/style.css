@@ -436,3 +436,244 @@ footer p {
     }
 
 }
+/* =========================================================
+   AJUSTES RESERVAS Y APARTAMENTOS
+========================================================= */
+
+
+/* ===========================
+   BOTÓN RESERVAR DEL MENÚ
+=========================== */
+
+nav .button-nav {
+    display: inline-block;
+    margin-left: 4px;
+    padding: 10px 22px;
+    background: #B58A52;
+    color: white;
+    border-radius: 999px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+nav .button-nav:hover {
+    background: #9F7546;
+    color: white;
+    transform: translateY(-1px);
+}
+
+
+/* ===========================
+   IMÁGENES DE LAS TARJETAS
+=========================== */
+
+.card-image {
+    display: block;
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+}
+
+.card-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* ===========================
+   BOTONES BOOKING Y AIRBNB
+=========================== */
+
+.booking-buttons,
+.reservation-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.booking-buttons .button,
+.reservation-buttons .button {
+    flex: 1 1 200px;
+    text-align: center;
+}
+
+
+/* BOTÓN BOOKING */
+
+.button-booking {
+    background: #003580;
+    color: white;
+}
+
+.button-booking:hover {
+    background: #00224f;
+    color: white;
+}
+
+
+/* BOTÓN AIRBNB */
+
+.button-airbnb,
+.button-secondary {
+    background: #222;
+    color: white;
+}
+
+.button-airbnb:hover,
+.button-secondary:hover {
+    background: #444;
+    color: white;
+}
+
+
+/* ===========================
+   PÁGINA DE RESERVAS
+=========================== */
+
+.reservation-page {
+    padding: 90px 0;
+}
+
+.reservation-grid {
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fit, minmax(320px, 1fr));
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.reservation-card {
+    background: white;
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow:
+        0 15px 40px rgba(0,0,0,.08);
+}
+
+.reservation-image {
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+}
+
+.reservation-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.reservation-content {
+    padding: 30px;
+}
+
+.reservation-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.reservation-description {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.reservation-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.reservation-meta span {
+    background: #f5f2ed;
+    color: #555;
+    border-radius: 999px;
+    padding: 7px 12px;
+    font-size: .9rem;
+    font-weight: 600;
+}
+
+.reservation-note {
+    max-width: 800px;
+    margin: 70px auto 0;
+    padding: 35px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.06);
+}
+
+
+/* ===========================
+   MÓVIL
+=========================== */
+
+@media (max-width: 600px) {
+
+    .reservation-page {
+        padding: 60px 0;
+    }
+
+    .reservation-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .reservation-content {
+        padding: 25px;
+    }
+
+    .reservation-buttons,
+    .booking-buttons {
+        flex-direction: column;
+    }
+
+    .booking-buttons .button,
+    .reservation-buttons .button {
+        width: 100%;
+    }
+
+    .reservation-image,
+    .card-image {
+        height: 230px;
+    }
+
+}
+/* PRUEBA BOTONES RESERVA */
+
+.reservation-buttons {
+    display: flex !important;
+    gap: 20px !important;
+    margin-top: 25px !important;
+}
+
+.reservation-buttons .button {
+    display: inline-block !important;
+    width: auto !important;
+    flex: 1 !important;
+    text-align: center !important;
+    padding: 16px 20px !important;
+}
+
+.reservation-buttons .button-secondary {
+    display: inline-block !important;
+    background: #222 !important;
+    color: white !important;
+}
+
+@media (max-width: 600px) {
+    .reservation-buttons {
+        flex-direction: column !important;
+    }
+
+    .reservation-buttons .button {
+        width: 100% !important;
+    }
+}

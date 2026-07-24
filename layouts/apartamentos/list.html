@@ -2,59 +2,75 @@
 
 <section class="page-header">
 
-    <div class="container">
+```
+<div class="container">
 
-        <h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
 
-        <p>{{ .Description }}</p>
+    <p>{{ .Description }}</p>
 
-    </div>
+</div>
+```
 
 </section>
 
 <section class="container apartments-list">
 
-    <div class="apartments-grid">
+```
+<div class="apartments-grid">
 
-        {{ range .Pages.ByTitle }}
+    {{ range .Pages.ByTitle }}
 
-        <article class="apartment-card">
+    <article class="apartment-card">
 
-            <a href="{{ .RelPermalink }}">
+        <a class="card-image" href="{{ .RelPermalink }}">
 
-                <img
-                    src="{{ .Params.hero }}"
-                    alt="{{ .Title }}">
+            <img
+                src="{{ .Params.hero }}"
+                alt="{{ .Title }}">
 
+        </a>
+
+        <div class="card-content">
+
+            <h2>{{ .Title }}</h2>
+
+            <p>{{ .Description }}</p>
+
+            <ul class="card-features">
+
+                <li>👥 Hasta {{ .Params.capacidad }} huéspedes</li>
+
+                <li>🛏 {{ .Params.dormitorios }} dormitorios</li>
+
+                <li>🚿 {{ .Params.banos }} baño</li>
+
+            </ul>
+
+            <a class="button" href="{{ .RelPermalink }}">
+                Ver apartamento
             </a>
 
-            <div class="card-content">
+            {{ with .Params.airbnb }}
 
-                <h2>{{ .Title }}</h2>
+            <a
+                class="button button-airbnb"
+                href="{{ . }}"
+                target="_blank"
+                rel="noopener noreferrer">
+                Ver en Airbnb
+            </a>
 
-                <p>{{ .Description }}</p>
+            {{ end }}
 
-                <ul class="card-features">
+        </div>
 
-                    <li>👥 Hasta {{ .Params.capacidad }} huéspedes</li>
+    </article>
 
-                    <li>🛏 {{ .Params.dormitorios }} dormitorios</li>
+    {{ end }}
 
-                    <li>🚿 {{ .Params.banos }} baño</li>
-
-                </ul>
-
-                <a class="button" href="{{ .RelPermalink }}">
-                    Ver apartamento
-                </a>
-
-            </div>
-
-        </article>
-
-        {{ end }}
-
-    </div>
+</div>
+```
 
 </section>
 
