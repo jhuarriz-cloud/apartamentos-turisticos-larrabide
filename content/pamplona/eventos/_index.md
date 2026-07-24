@@ -8,17 +8,15 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 23/07/2026 22:54.*
+*Información actualizada el 24/07/2026 08:26.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## San Fermín 2026 - Cierre de la Ciudadela
+## XL Vuelta Ciclista a la Comarca de Pamplona
 
-<p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -28,9 +26,39 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XL Vuelta Ciclista a la Comarca de Pamplona
+## Exposición - Damaris Pan - La Ciudadela
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/24</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Horno de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Naia del Castillo - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Polvorín de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Fiestas de Santiago - Lar Gallego - 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Parque Antoniutti</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -115,34 +143,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/21</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Los otros Sanfermines / Beste Sanferminak - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Hemingway los vio - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 2.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
