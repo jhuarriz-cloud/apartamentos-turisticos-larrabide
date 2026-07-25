@@ -1,43 +1,151 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+>
 
 <title>
 {{ if .IsHome }}
-Apartamentos Turísticos Larrabide | Pamplona
+    Apartamentos Turísticos Larrabide | Pamplona
 {{ else }}
-{{ .Title }} | Apartamentos Turísticos Larrabide
+    {{ .Title }} | Apartamentos Turísticos Larrabide
 {{ end }}
 </title>
 
+
 {{ with .Description }}
-<meta name="description" content="{{ . }}">
+
+<meta
+    name="description"
+    content="{{ . }}"
+>
+
 {{ else }}
-<meta name="description" content="Apartamentos Turísticos Larrabide en Pamplona. Alojamiento para turismo, congresos, viajes profesionales y estancias de varios días.">
+
+<meta
+    name="description"
+    content="Apartamentos Turísticos Larrabide en Pamplona. Alojamiento para turismo, congresos, viajes profesionales y estancias de varios días."
+>
+
 {{ end }}
 
-<link rel="canonical" href="{{ .Permalink }}">
 
-<!-- Open Graph -->
-<meta property="og:title" content="{{ .Title }} | Apartamentos Turísticos Larrabide">
-<meta property="og:description" content="{{ .Description }}">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Apartamentos Turísticos Larrabide">
-<meta property="og:locale" content="es_ES">
+<link
+    rel="canonical"
+    href="{{ .Permalink }}"
+>
 
-<!-- Twitter / X -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ .Title }} | Apartamentos Turísticos Larrabide">
-<meta name="twitter:description" content="{{ .Description }}">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- =====================================================
+     OPEN GRAPH
+===================================================== -->
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<meta
+    property="og:title"
+    content="{{ .Title }} | Apartamentos Turísticos Larrabide"
+>
 
-<link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/apartments.css">
-<link rel="stylesheet" href="/css/cicloturismo.css">
-<link rel="stylesheet" href="/css/eventos.css">
-<link rel="stylesheet" href="/css/congresos.css">
+<meta
+    property="og:description"
+    content="{{ .Description }}"
+>
+
+<meta
+    property="og:url"
+    content="{{ .Permalink }}"
+>
+
+<meta
+    property="og:type"
+    content="website"
+>
+
+<meta
+    property="og:site_name"
+    content="Apartamentos Turísticos Larrabide"
+>
+
+<meta
+    property="og:locale"
+    content="es_ES"
+>
+
+
+<!-- =====================================================
+     TWITTER / X
+===================================================== -->
+
+<meta
+    name="twitter:card"
+    content="summary"
+>
+
+<meta
+    name="twitter:title"
+    content="{{ .Title }} | Apartamentos Turísticos Larrabide"
+>
+
+<meta
+    name="twitter:description"
+    content="{{ .Description }}"
+>
+
+
+<!-- =====================================================
+     FUENTES
+===================================================== -->
+
+<link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+>
+
+<link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+>
+
+<link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet"
+>
+
+
+<!-- =====================================================
+     CSS PRINCIPAL
+===================================================== -->
+
+<link
+    rel="stylesheet"
+    href="{{ "css/style.css" | relURL }}"
+>
+
+<link
+    rel="stylesheet"
+    href="{{ "css/apartments.css" | relURL }}"
+>
+
+<link
+    rel="stylesheet"
+    href="{{ "css/cicloturismo.css" | relURL }}"
+>
+
+<link
+    rel="stylesheet"
+    href="{{ "css/eventos.css" | relURL }}"
+>
+
+<link
+    rel="stylesheet"
+    href="{{ "css/congresos.css" | relURL }}"
+>
+
+<link
+    rel="stylesheet"
+    href="{{ "css/reservar.css" | relURL }}"
+>
+
+
 {{ partial "structured-data.html" . }}
