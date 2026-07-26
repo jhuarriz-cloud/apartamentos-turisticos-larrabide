@@ -2,93 +2,135 @@
 
 <section class="page-header">
 
-```
-<div class="container">
+    <div class="container">
 
-    <h1>{{ .Title }}</h1>
+        <h1>{{ .Title }}</h1>
 
-    <p>{{ .Description }}</p>
+        <p>{{ .Description }}</p>
 
-</div>
-```
+    </div>
 
 </section>
 
+
 <section class="container apartments-list">
 
-```
-<div class="apartments-grid">
+    <div class="apartments-grid">
 
-    {{ range .Pages.ByTitle }}
+        {{ range .Pages.ByTitle }}
 
-    <article class="apartment-card">
+        <article class="apartment-card">
 
-        <a class="card-image" href="{{ .RelPermalink }}">
+            <a class="card-image" href="{{ .RelPermalink }}">
 
-            <img
-                src="{{ .Params.hero }}"
-                alt="{{ .Title }}">
+                <img
+                    src="{{ .Params.hero }}"
+                    alt="{{ .Title }}">
 
-        </a>
-
-        <div class="card-content">
-
-            <h2>{{ .Title }}</h2>
-
-            <p>{{ .Description }}</p>
-
-            <ul class="card-features">
-
-                <li>👥 Hasta {{ .Params.capacidad }} huéspedes</li>
-
-                <li>🛏 {{ .Params.dormitorios }} dormitorios</li>
-
-                <li>🚿 {{ .Params.banos }} baño</li>
-
-            </ul>
-
-            <a
-                class="button"
-                href="{{ .RelPermalink }}">
-                Ver apartamento
             </a>
 
-            <div class="apartment-booking-buttons">
+            <div class="card-content">
 
-                {{ with .Params.airbnb }}
+                <h2>{{ .Title }}</h2>
+
+                <p>{{ .Description }}</p>
+
+                <ul class="card-features">
+
+                    <li>👥 Hasta {{ .Params.capacidad }} huéspedes</li>
+
+                    <li>🛏 {{ .Params.dormitorios }} dormitorios</li>
+
+                    <li>🚿 {{ .Params.banos }} baño</li>
+
+                </ul>
 
                 <a
-                    class="button button-airbnb"
-                    href="{{ . }}"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Ver en Airbnb
+                    class="button"
+                    href="{{ .RelPermalink }}">
+                    Ver apartamento
                 </a>
 
-                {{ end }}
+                <div class="apartment-booking-buttons">
 
-                {{ with .Params.booking }}
+                    {{ with .Params.airbnb }}
+
+                    <a
+                        class="button button-airbnb"
+                        href="{{ . }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Ver en Airbnb
+                    </a>
+
+                    {{ end }}
+
+                    {{ with .Params.booking }}
+
+                    <a
+                        class="button button-booking"
+                        href="{{ . }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Ver en Booking
+                    </a>
+
+                    {{ end }}
+
+                </div>
+
+            </div>
+
+        </article>
+
+        {{ end }}
+
+    </div>
+
+</section>
+
+
+<section class="cicloturismo-apartamentos">
+
+    <div class="container">
+
+        <div class="cicloturismo-apartamentos-content">
+
+            <div class="cicloturismo-apartamentos-text">
+
+                <span class="section-eyebrow">🚴 Alojamiento bike-friendly en Pamplona</span>
+
+                <h2>Alojamiento para ciclistas en Pamplona</h2>
+
+                <p>
+                    Si buscas un <strong>alojamiento para ciclistas en Pamplona</strong>,
+                    Apartamentos Turísticos Larrabide es una opción práctica para descubrir
+                    Navarra en bicicleta.
+                </p>
+
+                <p>
+                    Disponemos de <strong>guarda bicicletas seguro</strong>, una prestación
+                    pensada para quienes viajan con su propia bicicleta y quieren alojarse
+                    con tranquilidad durante su viaje cicloturista.
+                </p>
+
+                <p>
+                    Pamplona es un excelente punto de partida para disfrutar de rutas de
+                    carretera, gravel y BTT, además de descubrir las Vías Verdes y otros
+                    grandes recorridos cicloturistas de Navarra.
+                </p>
 
                 <a
-                    class="button button-booking"
-                    href="{{ . }}"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Ver en Booking
+                    class="button"
+                    href="/cicloturismo-navarra/">
+                    🚴 Descubrir el cicloturismo en Navarra
                 </a>
-
-                {{ end }}
 
             </div>
 
         </div>
 
-    </article>
-
-    {{ end }}
-
-</div>
-```
+    </div>
 
 </section>
 
