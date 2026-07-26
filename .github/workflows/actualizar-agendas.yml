@@ -29,3 +29,11 @@ jobs:
 
       - name: Actualizar congresos de Baluarte
         run: python scripts/actualizar_congresos_baluarte.py
+
+      - name: Comprobar cambios generados
+        run: |
+          echo "=== ARCHIVOS MODIFICADOS ==="
+          git status --short
+          echo ""
+          echo "=== DIFERENCIAS ==="
+          git diff --stat
