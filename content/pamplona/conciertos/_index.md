@@ -1,8 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-draft: false
-lastmod: "2026-07-25T17:35:59.981372"
+lastmod: "2026-07-26T20:16:27.995313"
 ---
 
 <div class="page-section">
@@ -22,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 25/07/2026 17:35
+Última actualización: 26/07/2026 20:16
 </p>
 
 
