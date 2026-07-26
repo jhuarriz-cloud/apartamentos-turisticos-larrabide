@@ -1,0 +1,31 @@
+name: Actualizar agendas
+
+on:
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Actualizar eventos
+        run: python scripts/actualizar_eventos.py
+
+      - name: Actualizar conciertos de Baluarte
+        run: python scripts/actualizar_conciertos_baluarte.py
+
+      - name: Actualizar congresos de Baluarte
+        run: python scripts/actualizar_congresos_baluarte.py
