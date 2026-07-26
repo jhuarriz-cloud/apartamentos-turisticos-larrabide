@@ -195,3 +195,48 @@ Consulta nuestras guías y agendas para organizar tu visita y encuentra el aloja
 </div>
 
 </div>
+<section>
+
+<h2>Recursos para organizar tu visita a Pamplona</h2>
+
+<p>
+Si estás preparando tu viaje, estos recursos oficiales pueden ayudarte a
+organizar tu estancia y descubrir todo lo que Pamplona y Navarra tienen
+para ofrecer.
+</p>
+
+<ul>
+
+<li>
+<a href="https://www.visitnavarra.es/es/pamplona/">
+Turismo de Navarra: Pamplona
+</a>
+</li>
+
+<li>
+<a href="https://www.visitnavarra.es/es/-/pamplona-imprescindible-historia-tradicion-vida-local">
+Pamplona imprescindible: historia, tradición y vida local
+</a>
+</li>
+
+<li>
+<a href="https://www.visitnavarra.es/es/info-practica-desde-aeropuerto-de-pamplona">
+Qué ver y hacer en Pamplona
+</a>
+</li>
+
+<li>
+<a href="https://www.visitnavarra.es/es/planifica-viaje/">
+Organiza tu viaje por Navarra
+</a>
+</li>
+
+<li>
+<a href="https://www.pamplona.es/temas/cultura/ciudadela">
+Ciudadela de Pamplona
+</a>
+</li>
+
+</ul>
+
+</section>
