@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   actualizar-agendas:
@@ -41,7 +42,9 @@ jobs:
         run: |
           python scripts/actualizar_congresos_baluarte.py
 
-      - name: Guardar cambios
+      - name: Guardar cambios y publicar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -55,4 +58,7 @@ jobs:
 
             git commit -m "Actualiza agendas de Pamplona"
             git push
+
+            echo "Cambios enviados. Lanzando despliegue Hugo..."
+            gh workflow run hugo.yml --ref main
           fi
