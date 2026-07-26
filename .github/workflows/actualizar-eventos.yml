@@ -1,4 +1,4 @@
-name: Actualizar eventos de Pamplona
+name: Actualizar agendas de Pamplona
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  actualizar-eventos:
+  actualizar-agendas:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,15 +33,26 @@ jobs:
         run: |
           python scripts/actualizar_eventos.py
 
+      - name: Actualizar conciertos de Baluarte
+        run: |
+          python scripts/actualizar_conciertos_baluarte.py
+
+      - name: Actualizar congresos de Baluarte
+        run: |
+          python scripts/actualizar_congresos_baluarte.py
+
       - name: Guardar cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if git diff --quiet; then
-            echo "No hay cambios en los eventos."
+            echo "No hay cambios en las agendas."
           else
             git add content/pamplona/eventos/
-            git commit -m "Actualiza eventos de Pamplona"
+            git add content/pamplona/conciertos/
+            git add content/pamplona/congresos/
+
+            git commit -m "Actualiza agendas de Pamplona"
             git push
           fi
