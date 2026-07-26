@@ -1,0 +1,221 @@
+---
+title: "Gastronomía de Pamplona: qué comer y qué probar en Navarra"
+description: "Descubre la gastronomía de Pamplona y Navarra: pintxos, verduras de la huerta navarra, productos locales y platos tradicionales que probar durante tu visita."
+draft: false
+---
+
+<div class="page-section">
+
+<div class="container">
+
+<h1>Gastronomía de Pamplona: qué comer durante tu visita</h1>
+
+<p class="intro">
+Visitar Pamplona también significa descubrir la gastronomía de Navarra. La ciudad ofrece una amplia variedad de restaurantes, bares de pintxos y establecimientos donde disfrutar de productos locales y de una cocina basada en la calidad de sus ingredientes.
+</p>
+
+<p>
+La gastronomía es una parte importante de la experiencia de viajar por Navarra. Desde los pintxos del Casco Viejo hasta los productos de la huerta y las recetas tradicionales, Pamplona es un buen punto de partida para conocer los sabores de la Comunidad Foral.
+</p>
+
+<section>
+
+<h2>Los pintxos del Casco Viejo</h2>
+
+<p>
+Una de las mejores formas de descubrir la gastronomía de Pamplona es recorrer los bares del Casco Viejo y disfrutar de sus pintxos.
+</p>
+
+<p>
+El centro histórico concentra numerosos bares y establecimientos donde puedes probar pequeñas elaboraciones acompañadas de una bebida. Es una opción especialmente recomendable para recorrer diferentes zonas de la ciudad y descubrir distintos sabores en una misma salida.
+</p>
+
+<p>
+La cultura del pintxo forma parte de la vida cotidiana de Pamplona y ofrece una forma informal y agradable de conocer la gastronomía local.
+</p>
+
+</section>
+
+<section>
+
+<h2>Las verduras de la huerta navarra</h2>
+
+<p>
+Navarra cuenta con una importante tradición agrícola y una huerta reconocida por la calidad de sus productos. Las verduras tienen un papel destacado en la gastronomía de la región.
+</p>
+
+<p>
+Entre los productos más conocidos se encuentran los espárragos, las alcachofas, los pimientos y diferentes variedades de verduras de temporada.
+</p>
+
+<p>
+Dependiendo de la época del año, los restaurantes de Pamplona incorporan estos productos a sus cartas y ofrecen diferentes formas de prepararlos.
+</p>
+
+</section>
+
+<section>
+
+<h2>El espárrago de Navarra</h2>
+
+<p>
+El espárrago es uno de los productos más representativos de la gastronomía navarra y cuenta con Denominación de Origen Protegida.
+</p>
+
+<p>
+Su temporada es especialmente interesante para quienes visitan Navarra durante los meses de primavera, cuando puede encontrarse en restaurantes y mercados de la zona.
+</p>
+
+</section>
+
+<section>
+
+<h2>La alcachofa de Tudela</h2>
+
+<p>
+La alcachofa de Tudela es otro de los productos emblemáticos de la huerta navarra. Se caracteriza por su calidad y por su presencia en numerosos platos de la cocina tradicional.
+</p>
+
+<p>
+Durante su temporada es habitual encontrarla en diferentes preparaciones en restaurantes de Pamplona y Navarra.
+</p>
+
+</section>
+
+<section>
+
+<h2>La chistorra y otros productos tradicionales</h2>
+
+<p>
+La chistorra es uno de los productos más conocidos de Navarra y forma parte de la gastronomía tradicional de la comunidad.
+</p>
+
+<p>
+También puedes encontrar otros productos y elaboraciones vinculados a la cocina navarra, como carnes, quesos, embutidos y diferentes recetas tradicionales.
+</p>
+
+</section>
+
+<section>
+
+<h2>El queso de Navarra</h2>
+
+<p>
+Navarra cuenta con una importante tradición quesera. Entre sus productos más reconocidos se encuentra el queso Roncal, elaborado en el valle del Roncal y protegido por Denominación de Origen.
+</p>
+
+<p>
+El queso es una buena opción para descubrir parte de la gastronomía de Navarra y puede encontrarse en restaurantes, tiendas especializadas y establecimientos de productos locales.
+</p>
+
+</section>
+
+<section>
+
+<h2>Vinos de Navarra</h2>
+
+<p>
+La gastronomía navarra también está vinculada a una importante tradición vitivinícola. Los vinos de Navarra acompañan habitualmente a la cocina local y ofrecen una buena oportunidad para conocer diferentes zonas productoras de la comunidad.
+</p>
+
+<p>
+Si te interesa el enoturismo, desde Pamplona puedes organizar visitas a diferentes bodegas y zonas vitivinícolas de Navarra.
+</p>
+
+</section>
+
+<section>
+
+<h2>Dónde disfrutar de la gastronomía en Pamplona</h2>
+
+<p>
+El Casco Viejo es una de las zonas más populares para disfrutar de bares de pintxos y restaurantes. También encontrarás propuestas gastronómicas en otras zonas del centro y en diferentes barrios de la ciudad.
+</p>
+
+<p>
+Una buena opción es combinar una visita turística con una ruta gastronómica por la ciudad. Puedes comenzar el recorrido por la Plaza del Castillo y continuar por las calles del Casco Viejo.
+</p>
+
+</section>
+
+<section>
+
+<h2>Mercados y productos locales</h2>
+
+<p>
+Los mercados de Pamplona son otra opción interesante para conocer los productos de Navarra y acercarse a la vida cotidiana de la ciudad.
+</p>
+
+<p>
+Además de encontrar productos frescos, visitar un mercado puede ser una buena forma de descubrir ingredientes y productos locales que forman parte de la cocina navarra.
+</p>
+
+</section>
+
+<section>
+
+<h2>Gastronomía y turismo en Pamplona</h2>
+
+<p>
+La gastronomía puede combinarse fácilmente con otras actividades durante una estancia en Pamplona. Después de recorrer el <a href="/pamplona/que-ver/">Casco Viejo y los principales lugares de interés de Pamplona</a>, puedes disfrutar de una ruta de pintxos o conocer alguno de los restaurantes de la ciudad.
+</p>
+
+<p>
+Durante las fiestas de <a href="/pamplona/san-fermin/">San Fermín</a>, la gastronomía adquiere además un protagonismo especial y las calles del centro se llenan de visitantes y ambiente festivo.
+</p>
+
+<p>
+También puedes consultar nuestra agenda de <a href="/pamplona/eventos/">eventos en Pamplona</a> y nuestra selección de <a href="/pamplona/conciertos/">conciertos y espectáculos musicales</a>.
+</p>
+
+</section>
+
+<section>
+
+<h2>Información sobre gastronomía de Navarra</h2>
+
+<p>
+Para conocer más sobre los productos y la gastronomía de Navarra, puedes consultar estos recursos:
+</p>
+
+<ul>
+
+<li>
+<a href="https://www.visitnavarra.es/" target="_blank" rel="noopener noreferrer">
+Turismo de Navarra
+</a>
+</li>
+
+<li>
+<a href="https://www.navarra.es/" target="_blank" rel="noopener noreferrer">
+Gobierno de Navarra
+</a>
+</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Dónde alojarse para disfrutar de Pamplona</h2>
+
+<p>
+Si quieres descubrir la gastronomía de Pamplona y disfrutar de la ciudad durante varios días, los <strong>Apartamentos Turísticos Larrabide</strong> ofrecen una opción de alojamiento con la comodidad y la independencia de un apartamento.
+</p>
+
+<p>
+Puedes combinar tu estancia con visitas culturales, rutas gastronómicas, conciertos, congresos y otros eventos que se celebran durante todo el año en Pamplona.
+</p>
+
+<p>
+<a class="evento-boton" href="/apartamentos/">
+Ver nuestros apartamentos turísticos en Pamplona
+</a>
+</p>
+
+</section>
+
+</div>
+
+</div>

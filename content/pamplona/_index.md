@@ -197,6 +197,7 @@ Consulta nuestras guías y agendas para organizar tu visita y encuentra el aloja
 </div>
 <section>
 
+
 <h2>Recursos para organizar tu visita a Pamplona</h2>
 
 <p>

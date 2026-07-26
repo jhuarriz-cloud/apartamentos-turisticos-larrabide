@@ -330,3 +330,75 @@
     }
 
 }
+/* =========================================================
+   TARJETAS GUÍA DE PAMPLONA
+   ========================================================= */
+
+.pamplona-guia {
+    padding: 60px 0;
+}
+
+.pamplona-guia h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.pamplona-guia > .intro {
+    max-width: 750px;
+    margin: 0 auto 40px;
+    text-align: center;
+}
+
+.pamplona-guia-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.pamplona-guia-card {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 12px;
+    background: #ffffff;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pamplona-guia-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.14);
+}
+
+.pamplona-guia-icon {
+    font-size: 2.2rem;
+    margin-bottom: 15px;
+}
+
+.pamplona-guia-card h3 {
+    margin: 0 0 12px;
+}
+
+.pamplona-guia-card p {
+    margin: 0 0 20px;
+    line-height: 1.6;
+}
+
+.pamplona-guia-link {
+    margin-top: auto;
+    font-weight: 600;
+}
+
+@media (max-width: 900px) {
+    .pamplona-guia-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .pamplona-guia-grid {
+        grid-template-columns: 1fr;
+    }
+}
