@@ -10,7 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 26/07/2026 20:16.*
+*Información actualizada el 27/07/2026 09:52.*
 
 ## sept 24 - 25 59º Congreso Internacional AEDIPE Sala de Cámara 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
 
