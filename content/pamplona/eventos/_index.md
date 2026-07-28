@@ -8,7 +8,7 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 27/07/2026 09:51.*
+*Información actualizada el 28/07/2026 08:33.*
 
 <div class="eventos-lista">
 
