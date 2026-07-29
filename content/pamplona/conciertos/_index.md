@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-07-28T08:33:55.199668"
+lastmod: "2026-07-29T07:10:42.828341"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 28/07/2026 08:33
+Última actualización: 29/07/2026 07:10
 </p>
 
 
@@ -641,6 +641,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/anastacia-gira-ntktour-25-octubre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Federico Albanese</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+30 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/federico-albanese-concierto-the-blue-hour-30-octubre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >
