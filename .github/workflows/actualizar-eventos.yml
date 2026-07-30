@@ -58,6 +58,8 @@ jobs:
 
             git commit -m "Actualiza agendas de Pamplona"
             git push
+
+
  echo "Cambios enviados. Lanzando despliegue Hugo..."
             gh workflow run hugo.yml --ref main
 
