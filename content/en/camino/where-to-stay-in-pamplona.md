@@ -87,3 +87,11 @@ Many pilgrims, couples, cyclists and senior travellers prefer apartments because
 - Secure indoor bicycle storage.
 
 After several days on the Camino, many travellers appreciate having their own private space to recover properly before continuing their journey.
+
+## Travelling by bicycle?
+
+Many international visitors cycle the Camino de Santiago or continue exploring Navarra by bike.
+
+If you are looking for secure bicycle storage and comfortable accommodation, read our guide:
+
+👉 **[Bike-Friendly Apartments in Pamplona](/en/bike/)**
