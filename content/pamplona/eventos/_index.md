@@ -4,41 +4,11 @@ description: "Eventos, exposiciones, actividades y propuestas culturales en Pamp
 draft: false
 ---
 
-# Eventos en Pamplona
-
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 30/07/2026 22:26.*
+*Información actualizada el 31/07/2026 09:26.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## Concierto solidario - Normandía canta en Navarra - Catedral de Pamplona
-
-<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - Refectorio.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cine - Zinema Beach -  Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de exposiciones.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -145,6 +115,32 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## VII Edición Ciclo de Actividades Artísticas - 9 Soles - Museo de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Mirador.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/26</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Noches de Cine
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

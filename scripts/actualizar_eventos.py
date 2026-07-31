@@ -4,13 +4,14 @@ from pathlib import Path
 from urllib.parse import urljoin
 from datetime import datetime
 
+from lib_agendas import guardar_si_cambia, resumen
+
 AGENDA_URL = (
     "https://sedeelectronica.pamplona.es/srv/Agenda/"
     "lista_p_agenda.aspx?"
     "Subject=pamplona&busq=agenda&idioma=1&subMnuActual=2&tr=TREGISI02"
 )
 
-# Agenda oficial actual de Pamplona
 AGENDA_OFICIAL_URL = "https://www.pamplona.es/actualidad/eventos"
 
 OUTPUT_FILE = Path("content/pamplona/eventos/_index.md")
@@ -78,8 +79,6 @@ def generar_markdown(eventos):
         "draft: false",
         "---",
         "",
-        "# Eventos en Pamplona",
-        "",
         "Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.",
         "",
         f"*Información actualizada el {fecha_actualizacion}.*",
@@ -114,7 +113,6 @@ def generar_markdown(eventos):
         lineas.append("Consultar agenda oficial")
         lineas.append("</a>")
         lineas.append("")
-
         lineas.append("</article>")
         lineas.append("")
 
@@ -128,21 +126,24 @@ def main():
 
     eventos = obtener_eventos()
 
-    print()
-    print(f"Eventos encontrados: {len(eventos)}")
-    print()
-
     if not eventos:
         print("No se han encontrado eventos.")
         return
 
     markdown = generar_markdown(eventos)
 
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    actualizado = guardar_si_cambia(OUTPUT_FILE, markdown)
 
-    OUTPUT_FILE.write_text(markdown, encoding="utf-8")
+    resumen(
+        "EVENTOS",
+        encontrados=len(eventos)
+    )
 
-    print(f"Archivo generado: {OUTPUT_FILE}")
+    if actualizado:
+        print("Se ha actualizado el fichero de eventos.")
+    else:
+        print("No había cambios que guardar.")
+
     print()
     print("Primeros eventos encontrados:")
 
