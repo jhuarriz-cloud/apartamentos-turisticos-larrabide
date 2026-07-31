@@ -5,6 +5,7 @@ from datetime import datetime
 from urllib.parse import urljoin
 import re
 
+from lib_agendas import guardar_si_cambia, resumen
 
 URL = "https://baluarte.com/es/agenda"
 
@@ -68,9 +69,6 @@ def extraer_congresos():
         if not titulo:
             continue
 
-        # Solo consideramos eventos cuyo
-        # título contiene claramente
-        # términos relacionados con congresos.
         titulo_lower = titulo.lower()
 
         palabras_congreso = [
@@ -98,11 +96,9 @@ def extraer_congresos():
             }
         )
 
-    # Eliminar duplicados
     unicos = {}
 
     for congreso in congresos:
-
         unicos[
             congreso["url"]
         ] = congreso
@@ -112,15 +108,11 @@ def extraer_congresos():
     )
 
 
-def generar_markdown(
-    congresos
-):
+def generar_markdown(congresos):
 
     fecha_actualizacion = (
         datetime.now()
-        .strftime(
-            "%d/%m/%Y %H:%M"
-        )
+        .strftime("%d/%m/%Y %H:%M")
     )
 
     lineas = [
@@ -154,17 +146,14 @@ def generar_markdown(
         "",
     ]
 
-
     if not congresos:
 
         lineas.extend(
             [
                 "Actualmente no se han encontrado próximos congresos publicados en la agenda oficial.",
-
                 "",
             ]
         )
-
 
     else:
 
@@ -172,109 +161,72 @@ def generar_markdown(
 
             lineas.extend(
                 [
-
                     f"## {congreso['titulo']}",
-
                     "",
-
                     f"[Ver información oficial del evento]({congreso['url']})",
-
                     "",
-
                 ]
             )
 
-
     lineas.extend(
         [
-
             "## Alojamiento para congresos en Pamplona",
-
             "",
-
             "Si necesitas alojamiento durante un congreso en Baluarte, Apartamentos Turísticos Larrabide ofrece apartamentos completos en Pamplona para estancias profesionales y de varios días.",
-
             "",
-
             "Consulta nuestros apartamentos y encuentra la opción que mejor se adapte a tu estancia.",
-
             "",
-
             "[Ver apartamentos](/apartamentos/)",
-
             "",
-
             "[Consultar opciones de reserva](/reservar/)",
-
             "",
-
         ]
     )
 
-
-    return "\n".join(
-        lineas
-    )
+    return "\n".join(lineas)
 
 
 def main():
 
-    congresos = (
-        extraer_congresos()
-    )
+    congresos = extraer_congresos()
 
-    print()
+    if not congresos:
+        print("No se han encontrado congresos.")
+        return
 
-    print(
-        "Congresos encontrados:",
-        len(congresos)
-    )
-
-    print()
-
-    for congreso in congresos:
-
-        print(
-            "-",
-            congreso[
-                "titulo"
-            ]
-        )
-
+    contenido = generar_markdown(congresos)
 
     OUTPUT.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
-
-    contenido = (
-        generar_markdown(
-            congresos
-        )
+    actualizado = guardar_si_cambia(
+        OUTPUT,
+        contenido
     )
 
-
-    OUTPUT.write_text(
-        contenido,
-        encoding="utf-8"
+    resumen(
+        "CONGRESOS",
+        encontrados=len(congresos)
     )
 
+    if actualizado:
+        print("Se ha actualizado el fichero de congresos.")
+    else:
+        print("No había cambios que guardar.")
 
     print()
 
-    print(
-        "Archivo generado:",
-        OUTPUT
-    )
+    print("Primeros congresos encontrados:")
+
+    for congreso in congresos[:5]:
+        print("-", congreso["titulo"])
 
     print()
 
-    print(
-        "Proceso terminado correctamente."
-    )
+    print("Proceso terminado correctamente.")
 
 
 if __name__ == "__main__":
-
     main()
