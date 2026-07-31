@@ -1,0 +1,41 @@
+.contenido-camino{
+    max-width:1100px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.camino-card{
+    background:#fff;
+    border-radius:12px;
+    padding:30px;
+    margin-bottom:30px;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+.camino-card h2{
+    margin-top:0;
+}
+
+.camino-boton{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#0b6efd;
+    color:#fff;
+    text-decoration:none;
+    border-radius:6px;
+}
+
+.lead{
+    font-size:1.2rem;
+    line-height:1.8;
+    color:#444;
+}
+
+.camino-card ul{
+    padding-left:20px;
+}
+
+.camino-card li{
+    margin-bottom:10px;
+}
