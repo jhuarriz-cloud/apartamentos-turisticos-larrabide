@@ -8,15 +8,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 29/07/2026 07:09.*
+*Información actualizada el 30/07/2026 22:26.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Noches de Cine
+## Concierto solidario - Normandía canta en Navarra - Catedral de Pamplona
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - Refectorio.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/07/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
