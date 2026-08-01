@@ -5,8 +5,6 @@ description: Discover why Pamplona is one of the best places to stay on
 title: Where to Stay in Pamplona on the Camino de Santiago
 ---
 
-# Where to Stay in Pamplona on the Camino de Santiago
-
 Every year, thousands of pilgrims arrive in Pamplona after crossing the
 Pyrenees. For many, this is the first major city on the French Way and
 the perfect place to recover before continuing towards Puente la Reina.
