@@ -20,11 +20,10 @@ More information about cycling services and routes in Navarra will be added soon
 
 ---
 
-
 ## Walking the Camino de Santiago?
 
 Many pilgrims spend one or two nights in Pamplona before continuing their journey towards Puente la Reina.
 
-Read our complete guide:
+If you are planning your pilgrimage on foot, you may also find our complete accommodation guide useful.
 
 👉 **[Where to Stay in Pamplona on the Camino de Santiago](/en/camino/where-to-stay-in-pamplona/)**

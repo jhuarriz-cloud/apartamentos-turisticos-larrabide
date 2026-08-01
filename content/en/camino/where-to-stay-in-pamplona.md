@@ -83,3 +83,13 @@ Yes, the building has lift access.
 Whether you are walking or cycling the Camino de Santiago, Pamplona is
 an excellent place to pause, recover and enjoy one of northern Spain's
 most beautiful cities.
+
+---
+
+## Travelling by bicycle?
+
+Many international visitors cycle the Camino de Santiago or continue exploring Navarra by bike.
+
+If you are looking for secure bicycle storage and accommodation designed for cycle tourists, read our dedicated guide.
+
+👉 **[Bike-Friendly Apartments in Pamplona](/en/bike/)**
