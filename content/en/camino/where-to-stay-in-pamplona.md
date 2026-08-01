@@ -1,97 +1,87 @@
 ---
-title: "Where to Stay in Pamplona on the Camino de Santiago"
-description: "Comfortable apartments in Pamplona for Camino de Santiago pilgrims, with secure bicycle storage, private kitchen and everything you need for a perfect rest day."
-draft: false
+description: Discover why Pamplona is one of the best places to stay on
+  the Camino de Santiago, with comfortable apartments, secure bicycle
+  storage and everything pilgrims need.
+title: Where to Stay in Pamplona on the Camino de Santiago
 ---
-<div class="contenido-camino">
 
-<section class="camino-card">
+# Where to Stay in Pamplona on the Camino de Santiago
 
+Every year, thousands of pilgrims arrive in Pamplona after crossing the
+Pyrenees. For many, this is the first major city on the French Way and
+the perfect place to recover before continuing towards Puente la Reina.
 
-<p class="lead">
-Pamplona is one of the most important stops on the French Way of the Camino de Santiago. Every year, thousands of pilgrims arrive here after crossing the Pyrenees, looking for a comfortable place to rest before continuing towards Puente la Reina.
-</p>
+## Why Pamplona is an important stop
 
-<p>
-Whether you are walking the Camino, travelling by bicycle or simply exploring Northern Spain, choosing the right accommodation can make a real difference to your journey.
-</p>
+Pamplona combines history, excellent food, green spaces and every
+service a pilgrim may need. Many travellers choose to stay one or two
+nights to rest, explore the old town and prepare for the next stages.
 
-<p>
-Our apartments offer a peaceful alternative to traditional hostels, providing privacy, comfort and everything you need to recover after a demanding stage.
-</p>
+## Why many pilgrims choose an apartment
 
-<a class="camino-boton" href="/reservar/">
-Book your stay
-</a>
+Hostels are an essential part of the Camino experience, but after
+several days of walking many travellers appreciate:
 
-</section>
+-   Privacy
+-   Comfortable beds
+-   A fully equipped kitchen
+-   Washing machine
+-   Fast Wi‑Fi
+-   Air conditioning throughout the apartment
+-   Blackout shutters for better sleep
+-   Lift (elevator) access
+-   Secure indoor bicycle storage
 
-<section class="camino-card">
+These small comforts often make the difference between simply sleeping
+and genuinely recovering.
 
-<h2>Why Stay in Pamplona?</h2>
+## Should you stay one or two nights?
 
-<p>
-Pamplona is much more than the city of the Running of the Bulls. It is one of the oldest cities on the Camino de Santiago and has welcomed pilgrims for centuries.
-</p>
+If your schedule allows it, spending two nights in Pamplona lets you:
 
-<ul>
+-   Recover after the Pyrenees
+-   Visit the old town
+-   Enjoy local gastronomy
+-   Wash clothes
+-   Prepare your backpack or bicycle
+-   Explore the city without rushing
 
-<li>Historic medieval city centre.</li>
+## A quiet place close to everything
 
-<li>Excellent restaurants and local cuisine.</li>
+Our apartments are located in a peaceful residential area with easy
+access to the historic centre, supermarkets, restaurants and public
+transport.
 
-<li>Large supermarkets and pharmacies.</li>
+## Bike-friendly accommodation
 
-<li>Bike shops and repair services.</li>
+Cyclists particularly appreciate the secure indoor bicycle storage,
+spacious apartments and washing facilities after a long day on the road.
 
-<li>Parks and quiet areas to relax.</li>
+## Frequently Asked Questions
 
-<li>Perfect place for a rest day.</li>
+### Is Pamplona worth a rest day?
 
-</ul>
+Yes. Many pilgrims consider it one of the best places on the Camino to
+recover before continuing.
 
-</section>
+### Are the apartments suitable for cyclists?
 
-Every year, thousands of pilgrims arrive in Pamplona after completing one of the most memorable stages of the Camino de Santiago.
+Yes. They include secure indoor bicycle storage.
 
-For many travellers, Pamplona is much more than a stop along the pilgrimage. It is the first major historic city on the French Way, offering excellent gastronomy, beautiful parks, impressive medieval streets and every service a pilgrim may need.
+### Do the apartments have air conditioning?
 
-Whether you are walking the Camino, travelling by bicycle or completing only part of the route, choosing comfortable accommodation can make a significant difference to your journey.
+Yes. Every apartment has air conditioning throughout.
 
-## Why Stay in Pamplona?
+### Is there a washing machine?
 
-Pamplona is one of the most popular places to enjoy a rest day before continuing towards Puente la Reina.
+Yes, every apartment includes one.
 
-A stay here allows you to:
+### Is there a lift?
 
-- Recover after crossing the Pyrenees.
-- Sleep peacefully in a private apartment.
-- Wash and dry your clothes.
-- Prepare your own meals.
-- Visit the historic old town.
-- Enjoy local gastronomy.
-- Prepare your equipment for the next stage.
+Yes, the building has lift access.
 
-## A Comfortable Alternative to Hostels
+## Book your stay
 
-Hostels are an important part of the Camino experience, but they are not always the best option for everyone.
-
-Many pilgrims, couples, cyclists and senior travellers prefer apartments because they offer:
-
-- Complete privacy.
-- A fully equipped kitchen.
-- Washing machine.
-- Comfortable beds.
-- Quiet surroundings.
-- More space to relax.
-- Secure indoor bicycle storage.
-
-After several days on the Camino, many travellers appreciate having their own private space to recover properly before continuing their journey.
-
-## Travelling by bicycle?
-
-Many international visitors cycle the Camino de Santiago or continue exploring Navarra by bike.
-
-If you are looking for secure bicycle storage and comfortable accommodation, read our guide:
-
-👉 **[Bike-Friendly Apartments in Pamplona](/en/bike/)**
+Whether you are walking or cycling the Camino de Santiago, Pamplona is
+an excellent place to pause, recover and enjoy one of northern Spain's
+most beautiful cities.
