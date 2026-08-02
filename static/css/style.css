@@ -685,3 +685,27 @@ nav .button-nav:hover {
     text-align:center;
     margin-bottom:20px;
 }
+.apartments-intro{
+    max-width:900px;
+    margin:0 auto 60px auto;
+    padding:35px 40px;
+    background:#fafafa;
+    border-radius:12px;
+    box-shadow:0 2px 12px rgba(0,0,0,.06);
+    line-height:1.8;
+}
+
+.apartments-intro h2{
+    margin-top:0;
+    margin-bottom:20px;
+    color:#1d3557;
+}
+
+.apartments-intro ul{
+    margin:20px 0;
+    padding-left:25px;
+}
+
+.apartments-intro li{
+    margin-bottom:10px;
+}
