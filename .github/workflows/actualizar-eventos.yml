@@ -41,7 +41,7 @@ jobs:
         run: |
           python scripts/actualizar_congresos_baluarte.py
 
-      - name: Guardar cambios y publicar
+       - name: Guardar cambios y publicar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -54,5 +54,9 @@ jobs:
             git add content/pamplona/congresos/
 
             git commit -m "Actualiza agendas de Pamplona"
-            git push
+
+            git fetch origin
+            git rebase origin/main
+
+            git push origin HEAD:main
           fi
