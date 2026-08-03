@@ -41,7 +41,7 @@ jobs:
         run: |
           python scripts/actualizar_congresos_baluarte.py
 
-       - name: Guardar cambios y publicar
+      - name: Guardar cambios y publicar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
