@@ -7,6 +7,12 @@ on:
 
   workflow_dispatch:
 
+  workflow_run:
+    workflows:
+      - "Actualizar agendas de Pamplona"
+    types:
+      - completed
+
 permissions:
   contents: read
   pages: write
