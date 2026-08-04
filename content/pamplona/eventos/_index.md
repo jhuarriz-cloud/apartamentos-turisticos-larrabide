@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 03/08/2026 09:30.*
+*Información actualizada el 04/08/2026 08:49.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Versionando - Concierto - The Rock Drill
+## Festival de las Murallas - Cinco Puntas - Espectáculo - 1 er KM - Ciudadela
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza de San José.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/03</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concierto - Las Migas - Civican
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Plaza</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/03</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,9 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Programa - En verano muévete / Udan Mugitu
+## Ezpeleta en Juego - Juegos - Palacio Ezpeleta
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Palacio Ezpeleta (C/Mayor, 65).</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -139,6 +127,20 @@ Consultar agenda oficial
 ## Exposición - Hemingway los vio - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 2.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Fiesta 100 años - Civivox Condestable
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
 
