@@ -147,3 +147,26 @@ body{
 .international-card .camino-boton:hover{
     background:#154b86;
 }
+.article-image {
+    max-width: 700px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.article-image img {
+    width: 450px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.15);
+
+}
+
+.article-image figcaption {
+    margin-top: .75rem;
+    font-size: .9rem;
+    color: #666;
+    font-style: italic;
+}

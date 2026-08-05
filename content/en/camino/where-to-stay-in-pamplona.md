@@ -10,9 +10,17 @@ After one of the most demanding stages of the Camino, choosing the right accommo
 
 Whether you are walking the Camino or travelling by bicycle, Pamplona offers the perfect balance between history, culture, gastronomy and relaxation.
 
-![Evening view of San Lorenzo Church in Pamplona, a popular stop on the Camino de Santiago for pilgrims.](/images/pamplona/where-to-stay-pamplona-camino-de-santiago.webp "Where to Stay in Pamplona on the Camino de Santiago")
-
-*Evening in Pamplona's historic centre, one of the most popular overnight stops on the Camino de Santiago before continuing towards Puente la Reina.*
+<figure class="article-image">
+  <img
+    src="/images/pamplona/where-to-stay-pamplona-camino-de-santiago.webp"
+    alt="Evening view of San Lorenzo Church in Pamplona"
+    loading="lazy"
+    width="450"
+    height="800">
+  <figcaption>
+    Evening in Pamplona's historic centre, one of the most popular overnight stops on the Camino de Santiago before continuing towards Puente la Reina.
+  </figcaption>
+</figure>
 
 ---
 
