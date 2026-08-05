@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 04/08/2026 08:49.*
+*Información actualizada el 05/08/2026 05:44.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Cinco Puntas - Espectáculo - 1 er KM - Ciudadela
+## Festival de las Murallas - Cinco Puntas - Espectáculo - En ruta - Ciudadela
 
 <p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/04</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/05</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ezpeleta en Juego - Juegos - Palacio Ezpeleta
+## Ciclo Kultura Plazaz Plaza - Teatro y Música
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Palacio Ezpeleta (C/Mayor, 65).</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/20</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/28</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -43,20 +41,6 @@ Consultar agenda oficial
 ## Verano 2026 - Campamentos Urbanos Ciencieando - UNA
 
 <p class="evento-lugar"><strong>Lugar:</strong> Museo de Ciencias de la Universidad de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Verano 2026 - Talleres Infantiles - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
 
@@ -87,6 +71,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN), - Sala planta 0.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ezpeleta en Juego - Juegos - Palacio Ezpeleta
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Palacio Ezpeleta (C/Mayor, 65).</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
