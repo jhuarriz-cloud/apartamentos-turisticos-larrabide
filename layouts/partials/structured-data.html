@@ -89,4 +89,74 @@
   ]
 }
 </script>
+{{ if eq .Section "bike" }}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"Is the accommodation suitable for road cyclists?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. Our apartments are ideal for road cyclists and include secure indoor bicycle storage."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Can I safely store an expensive bicycle?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. We provide secure indoor bicycle storage for road bikes, gravel bikes, mountain bikes and e-bikes."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Is there a washing machine?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. Every apartment includes a private washing machine."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Do the apartments have air conditioning?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. All apartments are fully air conditioned."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Can I prepare my own meals?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. Every apartment has a fully equipped kitchen."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Is the accommodation close to the Camino de Santiago?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes. Our apartments are conveniently located for pilgrims and cyclists travelling along the Camino."
+      }
+    }
+  ]
+}
+</script>
+{{ if eq .Section "bike" }}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ImageObject",
+  "contentUrl":"{{ "/images/bike/bike-friendly-pamplona.webp" | absURL }}",
+  "name":"Bike Friendly Accommodation in Pamplona",
+  "description":"Secure indoor bicycle storage at Apartamentos Turísticos Larrabide in Pamplona.",
+  "license":"{{ .Site.BaseURL }}"
+}
+</script>
+{{ end }}
+{{ end }}
 {{ end }}
