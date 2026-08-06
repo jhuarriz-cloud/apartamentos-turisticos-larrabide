@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 05/08/2026 05:44.*
+*Información actualizada el 06/08/2026 05:26.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Cinco Puntas - Espectáculo - En ruta - Ciudadela
+## Festival de las Murallas - Cinco Puntas - Espectáculo - Aske - Ciudadela
 
 <p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/05</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/06</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,9 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Kultura Plazaz Plaza - Teatro y Música
+## Ciclo escena - Concierto - Bea Asurmendi - Civican
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/28</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Plaza Civican.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/06</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
