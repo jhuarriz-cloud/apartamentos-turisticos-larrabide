@@ -7,7 +7,7 @@
 
 <title>
 {{ if .IsHome }}
-    Apartamentos Turísticos Larrabide | Pamplona
+    Apartamentos Turísticos en Pamplona | Apartamentos Larrabide
 {{ else }}
     {{ .Title }} | Apartamentos Turísticos Larrabide
 {{ end }}
@@ -30,12 +30,25 @@
 
 {{ end }}
 
+<meta
+    name="robots"
+    content="index,follow"
+>
+
+<meta
+    name="author"
+    content="Apartamentos Turísticos Larrabide"
+>
+
+<meta
+    name="theme-color"
+    content="#0f4c81"
+>
 
 <link
     rel="canonical"
     href="{{ .Permalink }}"
 >
-
 
 <!-- =====================================================
      OPEN GRAPH
@@ -48,7 +61,7 @@
 
 <meta
     property="og:description"
-    content="{{ .Description }}"
+    content="{{ with .Description }}{{ . }}{{ else }}Apartamentos Turísticos Larrabide en Pamplona.{{ end }}"
 >
 
 <meta
@@ -68,17 +81,39 @@
 
 <meta
     property="og:locale"
-    content="es_ES"
+    content="{{ if in .RelPermalink "/en/" }}en_GB{{ else }}es_ES{{ end }}"
 >
 
+<meta
+    property="og:image"
+    content="{{ with .Params.hero }}{{ . | absURL }}{{ else }}{{ "/images/hero.jpg" | absURL }}{{ end }}"
+>
 
+<meta
+    property="og:image:width"
+    content="1200"
+>
+
+<meta
+    property="og:image:height"
+    content="630"
+>
+
+<meta
+    property="og:image:alt"
+    content="{{ .Title }}"
+>
+
+<!-- =====================================================
+     TWITTER / X
+===================================================== -->
 <!-- =====================================================
      TWITTER / X
 ===================================================== -->
 
 <meta
     name="twitter:card"
-    content="summary"
+    content="summary_large_image"
 >
 
 <meta
@@ -88,9 +123,18 @@
 
 <meta
     name="twitter:description"
-    content="{{ .Description }}"
+    content="{{ with .Description }}{{ . }}{{ else }}Apartamentos Turísticos Larrabide en Pamplona.{{ end }}"
 >
 
+<meta
+    name="twitter:image"
+    content="{{ with .Params.hero }}{{ . | absURL }}{{ else }}{{ "/images/hero.jpg" | absURL }}{{ end }}"
+>
+
+<meta
+    name="twitter:image:alt"
+    content="{{ .Title }}"
+>
 
 <!-- =====================================================
      FUENTES
