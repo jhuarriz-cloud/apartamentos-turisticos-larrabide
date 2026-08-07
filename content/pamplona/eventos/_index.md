@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 06/08/2026 05:26.*
+*Información actualizada el 07/08/2026 07:27.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Cinco Puntas - Espectáculo - Aske - Ciudadela
+## Festival de las Murallas - Ciclo Atardecer - 07/08/25
 
-<p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza Virgen de la O.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/06</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo escena - Concierto - Bea Asurmendi - Civican
+## Ciclo de monólogos feministas - Mi cuerpo no pidió tu opinión - Casa de las mujeres
 
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Plaza Civican.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/06</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -45,6 +45,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Museo de Ciencias de la Universidad de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición colectiva - Colores de Verano
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galeria Michel Menéndez (Antigua Galería San Antón)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -127,20 +141,6 @@ Consultar agenda oficial
 ## Exposición - Hemingway los vio - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 2.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Fiesta 100 años - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
 
