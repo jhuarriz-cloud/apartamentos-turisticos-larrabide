@@ -78,7 +78,7 @@ Si dispones de más tiempo, también puedes combinar tu estancia profesional con
 
 ## También puede interesarte
 
-Si vas a viajar a Pamplona por motivos profesionales, puedes consultar nuestra guía sobre **[congresos y viajes de trabajo en Pamplona](/congresos-y-viajes-trabajo/)**, donde encontrarás información útil para organizar tu estancia.
+Si vas a viajar a Pamplona por motivos profesionales, puedes consultar nuestra página sobre **[congresos en Baluarte y eventos profesionales en Pamplona](/pamplona/congresos/)**, donde encontrarás información sobre próximos congresos y eventos.
 
 Si quieres conocer nuestros alojamientos, puedes ver todos los **[apartamentos turísticos en Pamplona](/apartamentos/)** y elegir el que mejor se adapte a tu viaje.
 
