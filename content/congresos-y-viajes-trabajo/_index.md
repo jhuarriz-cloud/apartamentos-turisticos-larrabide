@@ -22,6 +22,8 @@ La ubicación de los apartamentos permite acceder con facilidad a algunos de los
 
 El Palacio de Congresos y Auditorio de Navarra, Baluarte, es uno de los principales espacios para congresos, reuniones profesionales y eventos culturales de Pamplona.
 
+Si buscas **alojamiento cerca de Baluarte**, puedes consultar nuestra guía sobre **[apartamentos cerca del Palacio de Congresos Baluarte en Pamplona](/pamplona/baluarte/)**, donde encontrarás información sobre la ubicación, los desplazamientos y las características de nuestros apartamentos.
+
 Alojarse en un apartamento permite disponer de un espacio propio durante la estancia y organizar el día con mayor flexibilidad.
 
 ### Navarra Arena
