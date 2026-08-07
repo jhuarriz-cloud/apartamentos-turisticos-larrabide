@@ -273,8 +273,7 @@ Whether you are walking or cycling the Camino de Santiago, our apartments provid
 If you are planning to spend more time in the city, you may also find these guides useful:
 
 - 👉 [Bike-Friendly Apartments in Pamplona](/en/bike/)
-- 👉 [/en/pamplona/what-to-see/](/en/pamplona/what-to-see/) *(adjust the link if your URL is different)*
-- 👉 [/en/reservar/](/en/reservar/) *(or the correct English booking page)*
+- 👉 [Accommodation near Baluarte Congress Centre in Pamplona](/en/baluarte/accommodation-near-baluarte-pamplona/)
 
 ---
 
