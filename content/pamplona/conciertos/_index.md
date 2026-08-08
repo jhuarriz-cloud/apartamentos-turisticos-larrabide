@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-08-07T07:28:10.228836"
+lastmod: "2026-08-08T07:04:43.817527"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 07/08/2026 07:28
+Última actualización: 08/08/2026 07:04
 </p>
 
 
@@ -1967,6 +1967,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/izaro-nueva-gira-arkitektura-20-febrero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>La Bella Durmiente</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+21 de febrero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+18:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/la-bella-durmiente-imperial-heritage-ballet-21-febrero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >

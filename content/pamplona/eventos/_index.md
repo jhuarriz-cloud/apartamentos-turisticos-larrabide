@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 07/08/2026 07:27.*
+*Información actualizada el 08/08/2026 07:03.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Ciclo Atardecer - 07/08/25
+## Festival de las Murallas - Danzad, danzad malditos - 08/08/26
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza Virgen de la O.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Caballo Blanco.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Ciclo de monólogos feministas - Mi cuerpo no pidió tu opinión - Casa de las mujeres
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/08</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Verano 2026 - Campamentos Urbanos Ciencieando - UNA
+## Feria de Producto Local Artesano 2026 - Basotxoa / Bosquecillo
 
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Ciencias de la Universidad de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Calle Bosquecillo.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/08</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,11 +40,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Exposición colectiva - Colores de Verano
+## Festival de las Murallas - Malditos Night - 08/08/26
 
-<p class="evento-lugar"><strong>Lugar:</strong> Galeria Michel Menéndez (Antigua Galería San Antón)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Jito Alai.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/08</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Jornada actividades lúdicas deportivas - Aquavox San Jorge
+
+<p class="evento-lugar"><strong>Lugar:</strong> Complejo Deportivo Aquavox San Jorge</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

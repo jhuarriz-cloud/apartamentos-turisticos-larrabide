@@ -8,11 +8,9 @@ draft: false
 
 Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Palacio de Congresos y Auditorio de Navarra, encontrar alojamiento cercano puede hacer tu estancia en Pamplona más cómoda.
 
-Si estás buscando **apartamentos cerca del Palacio de Congresos Baluarte en Pamplona**, puedes consultar nuestra guía específica sobre [alojamiento cerca de Baluarte](/pamplona/baluarte/), con información sobre la ubicación, desplazamientos, servicios y opciones de estancia.
-
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 31/07/2026 08:40.*
+*Información actualizada el 08/08/2026 07:04.*
 
 ## sept 24 - 25 59º Congreso Internacional AEDIPE Sala de Cámara 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
 
