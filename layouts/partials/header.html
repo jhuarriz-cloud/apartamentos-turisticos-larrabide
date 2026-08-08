@@ -1,6 +1,6 @@
 <div class="container">
 
-    <a class="logo" href="{{ if eq .Lang "en" }}/en/{{ else }}/{{ end }}">
+    <a class="logo" href="{{ if hasPrefix .RelPermalink "/en/" }}/en/{{ else }}/{{ end }}">
         Apartamentos Turísticos Larrabide
     </a>
 
