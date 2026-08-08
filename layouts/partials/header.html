@@ -1,12 +1,22 @@
-<header>
+<div class="container">
 
-    <div class="container">
+    <a class="logo" href="{{ if eq .Lang "en" }}/en/{{ else }}/{{ end }}">
+        Apartamentos Turísticos Larrabide
+    </a>
 
-        <a class="logo" href="/">
-            Apartamentos Turísticos Larrabide
-        </a>
+    <nav>
 
-        <nav>
+        {{ if hasPrefix .RelPermalink "/en/" }}
+
+            <a href="/en/book/">Book</a>
+
+            <a href="/en/bike/">Bike-Friendly</a>
+
+            <a href="/en/baluarte/accommodation-near-baluarte-pamplona/">
+                Baluarte
+            </a>
+
+        {{ else }}
 
             <a href="/apartamentos/">Apartamentos</a>
 
@@ -20,9 +30,8 @@
 
             <a href="/cicloturismo-navarra/">Cicloturismo</a>
 
+        {{ end }}
 
-        </nav>
+    </nav>
 
-    </div>
-
-</header>
+</div>

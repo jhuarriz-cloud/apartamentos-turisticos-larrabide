@@ -4,7 +4,6 @@ description: "Próximos congresos, simposios y jornadas profesionales en Baluart
 draft: false
 ---
 
-# Congresos en Baluarte, Pamplona
 
 Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Palacio de Congresos y Auditorio de Navarra, encontrar alojamiento cercano puede hacer tu estancia en Pamplona más cómoda.
 
