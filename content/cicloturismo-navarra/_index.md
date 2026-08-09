@@ -10,15 +10,15 @@ draft: false
 
 Navarra es un destino privilegiado para disfrutar del cicloturismo. Sus paisajes cambian en pocos kilómetros: valles pirenaicos, bosques, caminos rurales, pueblos, viñedos y paisajes mediterráneos.
 
-Pamplona es un excelente punto de partida para descubrir Navarra en bicicleta. Desde la ciudad puedes acceder a rutas de carretera, gravel y BTT, mientras que las Vías Verdes y los grandes itinerarios permiten organizar escapadas de uno o varios días.
+Pamplona es un excelente punto de partida para descubrir **Navarra en bici**. Desde la ciudad puedes acceder a rutas de carretera, gravel y BTT, mientras que las Vías Verdes y los grandes itinerarios permiten organizar escapadas de uno o varios días. Además, alojarse en Pamplona permite combinar fácilmente las rutas ciclistas con el patrimonio, la gastronomía y la vida de la ciudad.
 
 Hemos seleccionado algunas de las rutas y experiencias ciclistas más interesantes para quienes quieren descubrir Navarra sobre dos ruedas.
 
 ---
 
-# 🚴 Rutas de carretera
+## 🚴 Rutas de carretera
 
-## ⭐ Ultzama y Basaburua
+### ⭐ Ultzama y Basaburua
 
 **68,1 km · +907 m · Dificultad media**
 
@@ -32,7 +32,7 @@ Una de las mejores opciones para una salida de un día desde Pamplona. La ruta r
 
 ---
 
-## ⭐ Ultzama y Esteribar
+### ⭐ Ultzama y Esteribar
 
 **70,4 km · +1.041 m · Dificultad media**
 
@@ -46,7 +46,7 @@ Una ruta de media distancia que combina los paisajes de Ultzama y Esteribar. Una
 
 ---
 
-## 🏔️ La montaña navarra – Ochagavía
+### 🏔️ La montaña navarra – Ochagavía
 
 **122,95 km · Dificultad alta**
 
@@ -60,7 +60,7 @@ Una propuesta para descubrir el Pirineo navarro y el entorno de Ochagavía. Una 
 
 ---
 
-## 🔥 Larrau
+### 🔥 Larrau
 
 **141,7 km · +3.820 m · Dificultad muy alta**
 
@@ -74,9 +74,9 @@ Una de las grandes experiencias para los amantes de la bicicleta de carretera. E
 
 ---
 
-# 🪨 Rutas gravel
+## 🪨 Rutas gravel
 
-## ⭐ Valle de Aranguren
+### ⭐ Valle de Aranguren
 
 **41,5 km · +385 m · Dificultad baja**
 
@@ -90,7 +90,7 @@ Una excelente puerta de entrada al gravel en Navarra. Su proximidad a Pamplona p
 
 ---
 
-## 🏔️ Espinal, Burguete y Orbaizeta
+### 🏔️ Espinal, Burguete y Orbaizeta
 
 **40,5 km · +954 m · Dificultad media**
 
@@ -104,7 +104,7 @@ Una propuesta de gravel en el Pirineo navarro que permite descubrir los paisajes
 
 ---
 
-## 🏜️ Bardenas
+### 🏜️ Bardenas
 
 **102,9 km · +715 m · Dificultad media-alta**
 
@@ -118,9 +118,9 @@ Una de las experiencias ciclistas más singulares de Navarra. El paisaje semides
 
 ---
 
-# 🚵 BTT y montaña
+## 🚵 BTT y montaña
 
-## ⛰️ Ruta del Estraperlo – Auritz/Burguete
+### ⛰️ Ruta del Estraperlo – Auritz/Burguete
 
 **38,85 km · Dificultad media**
 
@@ -134,7 +134,7 @@ Una propuesta de bicicleta de montaña en el Pirineo navarro. El recorrido permi
 
 ---
 
-## ⚡ Eremua Zubiri
+### ⚡ Eremua Zubiri
 
 **26,18 km · Dificultad alta**
 
@@ -148,9 +148,9 @@ Una opción para ciclistas que buscan una experiencia más técnica y exigente. 
 
 ---
 
-# 🌿 Vías Verdes
+## 🌿 Vías Verdes
 
-## ⭐ Vía Verde del Plazaola
+### ⭐ Vía Verde del Plazaola
 
 **51 km · Dificultad baja · Recorrido lineal**
 
@@ -166,7 +166,7 @@ Una opción especialmente atractiva para quienes prefieren combinar bicicleta, n
 
 ---
 
-## 🌳 Vía Verde del Bidasoa
+### 🌳 Vía Verde del Bidasoa
 
 **34 km · +290 m · Dificultad baja · Recorrido lineal**
 
@@ -180,9 +180,9 @@ Un recorrido junto al río Bidasoa que atraviesa paisajes verdes y pueblos del n
 
 ---
 
-# 🗺️ Grandes recorridos
+### 🗺️ Grandes recorridos
 
-## ⭐ EuroVelo 1 – La Ruta Atlántica
+### ⭐ EuroVelo 1 – La Ruta Atlántica
 
 EuroVelo 1 atraviesa Navarra como parte de un gran itinerario cicloturista europeo.
 
@@ -198,9 +198,9 @@ Es una propuesta especialmente interesante para organizar un viaje cicloturista 
 
 ---
 
-# 🚲 ¿Qué tipo de experiencia buscas?
+## 🚲 ¿Qué tipo de experiencia buscas?
 
-## 🚴 Una salida desde Pamplona
+### 🚴 Una salida desde Pamplona
 
 Si quieres salir directamente desde Pamplona, las rutas de Ultzama y Basaburua y Ultzama y Esteribar son dos de las mejores opciones para disfrutar de una jornada de carretera.
 
@@ -208,25 +208,25 @@ También puedes descubrir el entorno del Valle de Aranguren en bicicleta gravel.
 
 ---
 
-## 🪨 Una aventura gravel
+### 🪨 Una aventura gravel
 
 Navarra ofrece una gran diversidad de paisajes para el gravel. Desde los caminos próximos a Pamplona hasta los paisajes pirenaicos y las Bardenas Reales.
 
 ---
 
-## 🏔️ Un reto de montaña
+### 🏔️ Un reto de montaña
 
 Los Pirineos navarros ofrecen grandes posibilidades para ciclistas de carretera y BTT. Las rutas de Ochagavía, Larrau y el entorno de Roncesvalles permiten disfrutar de recorridos exigentes.
 
 ---
 
-## 🌿 Una ruta tranquila
+### 🌿 Una ruta tranquila
 
 Las Vías Verdes ofrecen una forma diferente de descubrir Navarra. Son una buena opción para quienes prefieren disfrutar del paisaje, la naturaleza y el patrimonio.
 
 ---
 
-## 🗺️ Un viaje de varios días
+### 🗺️ Un viaje de varios días
 
 Navarra también forma parte de grandes itinerarios cicloturistas europeos como EuroVelo 1.
 
@@ -234,19 +234,25 @@ Puedes combinar diferentes etapas y utilizar Pamplona como punto de partida, lle
 
 ---
 
-# 🚲 Alojamiento para ciclistas en Pamplona
+## 🚲 Alojamiento para ciclistas en Pamplona
 
-## Apartamentos Turísticos Larrabide
+### Apartamentos Turísticos Larrabide
 
 Apartamentos Turísticos Larrabide ofrece tres apartamentos turísticos en Pamplona para quienes quieren descubrir Navarra en bicicleta.
 
-Los apartamentos son una opción especialmente interesante para estancias de varios días y disponen de cocina, lavadora, Wi-Fi y espacio propio.
+Son una opción especialmente interesante para estancias de varios días y disponen de:
 
-Además, contamos con **guarda bicicletas seguro**, una prestación especialmente pensada para quienes viajan con su propia bicicleta.
+- 🚲 **Guarda bicicletas seguro**
+- 🍳 **Cocina propia**
+- 🧺 **Lavadora**
+- 📶 **Wi-Fi**
+- 🏠 **Apartamento completo y espacio propio**
+
+El guarda bicicletas seguro está especialmente pensado para quienes viajan con su propia bicicleta y quieren disponer de un lugar adecuado durante su estancia.
 
 Pamplona puede ser una excelente base para combinar el turismo urbano con rutas de carretera, gravel, BTT, Vías Verdes y grandes recorridos por Navarra.
 
-### Tu base para descubrir Navarra sobre dos ruedas
+#### Tu base para descubrir Navarra sobre dos ruedas
 
 Si estás planificando una escapada ciclista, un viaje de varios días o una ruta por Navarra, puedes consultar nuestros apartamentos y elegir el alojamiento que mejor se adapte a tu estancia.
 
