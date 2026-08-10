@@ -42,7 +42,7 @@ jobs:
         run: |
           python scripts/actualizar_congresos_baluarte.py
 
-      - name: Guardar cambios y publicar
+            - name: Guardar cambios y publicar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,7 +57,17 @@ jobs:
             git commit -m "Actualiza agendas de Pamplona"
 
             git fetch origin
-            git rebase origin/main
+            
+            # Intentar rebase con resolución automática de conflictos
+            if ! git rebase origin/main; then
+              echo "Se detectó conflicto de rebase. Resolviendo..."
+              # Mantener nuestra versión de los archivos en conflicto
+              git checkout --ours content/pamplona/congresos/_index.md
+              git checkout --ours content/pamplona/eventos/_index.md
+              git add content/pamplona/congresos/_index.md
+              git add content/pamplona/eventos/_index.md
+              git rebase --continue
+            fi
 
             git push origin HEAD:main
           fi
