@@ -1,4 +1,3 @@
-
 name: Actualizar agendas de Pamplona
 
 on:
@@ -19,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -42,32 +42,30 @@ jobs:
         run: |
           python scripts/actualizar_congresos_baluarte.py
 
-            - name: Guardar cambios y publicar
+      - name: Guardar cambios y publicar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if git diff --quiet; then
             echo "No hay cambios en las agendas."
+            exit 0
+          fi
+
+          git add content/pamplona/eventos/ content/pamplona/conciertos/ content/pamplona/congresos/
+          git commit -m "Actualiza agendas de Pamplona" || echo "No se creó ningún commit (quizá ya estaba todo commiteado)"
+
+          # Asegurarse de traer la rama main remota
+          git fetch origin main
+
+          # Intentar rebase; si falla, abortar y hacer merge prefiriendo nuestra versión
+          if git rebase origin/main; then
+            git push origin HEAD:main
           else
-            git add content/pamplona/eventos/
-            git add content/pamplona/conciertos/
-            git add content/pamplona/congresos/
-
-            git commit -m "Actualiza agendas de Pamplona"
-
-            git fetch origin
-            
-            # Intentar rebase con resolución automática de conflictos
-            if ! git rebase origin/main; then
-              echo "Se detectó conflicto de rebase. Resolviendo..."
-              # Mantener nuestra versión de los archivos en conflicto
-              git checkout --ours content/pamplona/congresos/_index.md
-              git checkout --ours content/pamplona/eventos/_index.md
-              git add content/pamplona/congresos/_index.md
-              git add content/pamplona/eventos/_index.md
-              git rebase --continue
-            fi
-
+            echo "Se detectó conflicto de rebase. Aborto y hago merge prefiriendo nuestra versión..."
+            git rebase --abort || true
+            git merge -s ours origin/main -m "Fusionar origin/main prefiriendo cambios locales"
             git push origin HEAD:main
           fi
