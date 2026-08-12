@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 11/08/2026 05:34.*
+*Información actualizada el 12/08/2026 07:41.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Cinco Puntas - 11/08/26
+## V Copa Sentimiento - Sentimendu Kopa
 
-<p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Club Atlético Osasuna - Instalaciones de Tajonar                          (TAJONAR / TAXOARE (ARANGUREN))</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/11</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
