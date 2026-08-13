@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-08-12T07:42:51.527165"
+lastmod: "2026-08-13T07:44:05.068203"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 12/08/2026 07:42
+Última actualización: 13/08/2026 07:44
 </p>
 
 
@@ -2162,6 +2162,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/euskadiko-orkestra-t2627-concierto7-amerika-12-marzo-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Café Quijano</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+13 de marzo de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/cafe-quijano-miami-1990-tour-concierto-13marzo-2027"
 target="_blank"
 rel="noopener noreferrer"
 >

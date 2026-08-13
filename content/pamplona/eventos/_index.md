@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 12/08/2026 07:41.*
+*Información actualizada el 13/08/2026 07:43.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## V Copa Sentimiento - Sentimendu Kopa
+## Ciclo escena - Concierto - Ede - Civican
 
-<p class="evento-lugar"><strong>Lugar:</strong> Club Atlético Osasuna - Instalaciones de Tajonar                          (TAJONAR / TAXOARE (ARANGUREN))</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Plaza Civican.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/12</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
