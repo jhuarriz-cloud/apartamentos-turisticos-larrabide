@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 17/08/2026 07:06.*
+*Información actualizada el 18/08/2026 06:53.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Versionando - Concierto - Yabalia
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza de San José.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/17</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival de las Murallas - Cinco Puntas - 17/08/26
+## Festival de las Murallas - Cinco Puntas - 18/08/26
 
 <p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/18</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo escena - Concierto - Judit Neddermann - Civican
+## Concierto - Judas Priest - Navarra Arena
 
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Plaza Civican.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/18</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -59,20 +45,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> - Palacio Ezpeleta (C/Mayor, 65).</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/20</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Verano 2026 - Campamentos Hi Artist!
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/21</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +113,32 @@ Consultar agenda oficial
 ## Noches de Cine
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Kultura Plazaz Plaza - Teatro y Música
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/28</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Jornada actividades lúdicas deportivas - Aquavox San Jorge
+
+<p class="evento-lugar"><strong>Lugar:</strong> Complejo Deportivo Aquavox San Jorge</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
