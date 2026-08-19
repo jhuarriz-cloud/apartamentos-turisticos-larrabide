@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 18/08/2026 06:53.*
+*Información actualizada el 19/08/2026 06:53.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival de las Murallas - Cinco Puntas - 18/08/26
+## Festival de las Murallas - Cinco Puntas - 19/08/26
 
 <p class="evento-lugar"><strong>Lugar:</strong> La Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/18</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concierto - Judas Priest - Navarra Arena
-
-<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/18</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -139,6 +125,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Complejo Deportivo Aquavox San Jorge</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Por la Cuenca del Ebro - Civivox Condestable
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
