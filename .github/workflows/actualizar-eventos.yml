@@ -57,23 +57,33 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Evitar añadir por error archivos de workflows
+          git reset -- .github/workflows || true
+
+          # Si no hay cambios en el working tree, salir
           if git diff --quiet; then
             echo "No hay cambios en las agendas."
             exit 0
           fi
 
-          git add content/pamplona/eventos/ content/pamplona/conciertos/ content/pamplona/congresos/
+          # Añadir solo las rutas que queremos publicar
+          git add content/pamplona/eventos/ content/pamplona/conciertos/ content/pamplona/congresos/ || true
+
+          # Si tras añadir no hay nada staged, salir
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commitear"
+            exit 0
+          fi
+
           git commit -m "Actualiza agendas de Pamplona" || echo "No se creó ningún commit (quizá ya estaba todo commiteado)"
 
-          # Asegurarse de traer la rama main remota
+          # Traer main remoto y rebase; si hay conflicto, abortar y fallar para que lo resuelvas localmente
           git fetch origin main
 
-          # Intentar rebase; si falla, abortar y hacer merge prefiriendo nuestra versión
-          if git rebase origin/main; then
+          if git pull --rebase origin main; then
             git push origin HEAD:main
           else
-            echo "Se detectó conflicto de rebase. Aborto y hago merge prefiriendo nuestra versión..."
+            echo "Conflicto durante rebase. Aborto — no intento resolver automáticamente en CI. Resuélvelo localmente."
             git rebase --abort || true
-            git merge -s ours origin/main -m "Fusionar origin/main prefiriendo cambios locales"
-            git push origin HEAD:main
+            exit 1
           fi
