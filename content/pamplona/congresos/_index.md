@@ -10,9 +10,9 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 09/08/2026 07:07.*
+*Información actualizada el 22/08/2026 20:08.*
 
-## sept 24 - 25 59º Congreso Internacional AEDIPE Sala de Cámara 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
+## sept 24 - 25 59º Congreso Internacional AEDIPE 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
 
 [Ver información oficial del evento](https://baluarte.com/es/agenda/evento/59o-congreso-internacional-aedipe)
 
@@ -24,7 +24,7 @@ En esta página recopilamos automáticamente los próximos congresos y eventos p
 
 [Ver información oficial del evento](https://baluarte.com/es/agenda/evento/xviii-congreso-patologia-aparato-respiratorio-6-noviembre-2026)
 
-## nov 6 - 7 XLVIII Congreso Regional de la Sociedad Vasco-Navarra de Patología Digestiva (SVNPD) Sala de Cámara 06/11: 16:00 - 20:00 07/11: 9:30 - 13:15 Ver evento
+## nov 6 - 7 XLVIII Congreso Regional de la Sociedad Vasco-Navarra de Patología Digestiva (SVNPD) 06/11: 16:00 - 20:00 07/11: 9:30 - 13:15 Ver evento
 
 [Ver información oficial del evento](https://baluarte.com/es/agenda/evento/congreso-regional-sdad-vasco-navarra-patologia-digestiva-6-7-noviembre-2026)
 
