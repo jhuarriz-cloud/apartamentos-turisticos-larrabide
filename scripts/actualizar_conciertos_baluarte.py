@@ -7,6 +7,12 @@ from pathlib import Path
 from datetime import datetime
 import re
 import unicodedata
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+import time
 
 
 URL_AGENDA = "https://baluarte.com/es/agenda"
@@ -665,80 +671,190 @@ def obtener_fecha_orden(evento):
 
 
 # =========================================================
-# OBTENER ENLACES DE LA AGENDA
+# OBTENER ENLACES DE LA AGENDA CON SELENIUM
 # =========================================================
 
 def obtener_enlaces_agenda():
 
     print(
-        "Consultando agenda de Baluarte..."
+        "Consultando agenda de Baluarte con Selenium..."
     )
 
     print(
         URL_AGENDA
     )
 
-    respuesta = requests.get(
+    # Configurar Selenium para headless (sin interfaz gráfica)
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument(f"user-agent={HEADERS['User-Agent']}")
 
-        URL_AGENDA,
+    driver = None
 
-        headers=HEADERS,
+    try:
 
-        timeout=30
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.get(URL_AGENDA)
 
-    )
-
-    respuesta.raise_for_status()
-
-    soup = BeautifulSoup(
-
-        respuesta.text,
-
-        "html.parser"
-
-    )
-
-    enlaces = []
-
-    vistos = set()
-
-    for enlace in soup.find_all(
-
-        "a",
-
-        href=True
-
-    ):
-
-        href = enlace.get(
-            "href"
+        # Esperar a que carguen los eventos (máximo 15 segundos)
+        print("  Esperando que carguen los eventos...")
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_all_elements_located(
+                (By.TAG_NAME, "a")
+            )
         )
 
-        if "/es/agenda/evento/" not in href:
-
-            continue
-
-        url = urljoin(
-
-            BASE_URL,
-
-            href
-
+        # Hacer scroll para cargar más eventos si es lazy loading
+        print("  Haciendo scroll para cargar eventos...")
+        last_height = driver.execute_script(
+            "return document.body.scrollHeight"
         )
 
-        if url in vistos:
+        while True:
 
-            continue
+            driver.execute_script(
+                "window.scrollTo(0, document.body.scrollHeight);"
+            )
 
-        vistos.add(
-            url
+            time.sleep(2)
+
+            new_height = driver.execute_script(
+                "return document.body.scrollHeight"
+            )
+
+            if new_height == last_height:
+                break
+
+            last_height = new_height
+
+        # Obtener el HTML renderizado
+        html_renderizado = driver.page_source
+
+        # Parsear con BeautifulSoup
+        soup = BeautifulSoup(
+            html_renderizado,
+            "html.parser"
         )
 
-        enlaces.append(
-            url
+        enlaces = []
+
+        vistos = set()
+
+        for enlace in soup.find_all(
+            "a",
+            href=True
+        ):
+
+            href = enlace.get(
+                "href"
+            )
+
+            if "/es/agenda/evento/" not in href:
+
+                continue
+
+            url = urljoin(
+                BASE_URL,
+                href
+            )
+
+            if url in vistos:
+
+                continue
+
+            vistos.add(
+                url
+            )
+
+            enlaces.append(
+                url
+            )
+
+        print(f"  Encontrados {len(enlaces)} eventos en la agenda")
+
+        return enlaces
+
+    except Exception as e:
+
+        print(
+            "  ERROR con Selenium:",
+            e
         )
 
-    return enlaces
+        print(
+            "  Intentando fallback con requests..."
+        )
+
+        # Fallback a requests si Selenium falla
+        try:
+
+            respuesta = requests.get(
+                URL_AGENDA,
+                headers=HEADERS,
+                timeout=30
+            )
+
+            respuesta.raise_for_status()
+
+            soup = BeautifulSoup(
+                respuesta.text,
+                "html.parser"
+            )
+
+            enlaces = []
+
+            vistos = set()
+
+            for enlace in soup.find_all(
+                "a",
+                href=True
+            ):
+
+                href = enlace.get(
+                    "href"
+                )
+
+                if "/es/agenda/evento/" not in href:
+
+                    continue
+
+                url = urljoin(
+                    BASE_URL,
+                    href
+                )
+
+                if url in vistos:
+
+                    continue
+
+                vistos.add(
+                    url
+                )
+
+                enlaces.append(
+                    url
+                )
+
+            print(f"  Encontrados {len(enlaces)} eventos (fallback)")
+
+            return enlaces
+
+        except Exception as e2:
+
+            print(
+                "  ERROR en fallback:",
+                e2
+            )
+
+            return []
+
+    finally:
+
+        if driver:
+
+            driver.quit()
 
 
 # =========================================================
