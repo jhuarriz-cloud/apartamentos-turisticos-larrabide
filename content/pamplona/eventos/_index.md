@@ -6,45 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 23/08/2026 06:52.*
+*Información actualizada el 24/08/2026 07:10.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Exposición - Los otros Sanfermines / Beste Sanferminak - Civivox Condestable
+## Ciclo Versionando - Concierto - Spirit
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 1.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza de San José.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Hemingway los vio - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala 2.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Fiesta 100 años - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -137,6 +109,34 @@ Consultar agenda oficial
 ## Exposición - La amenaza de las especies invasoras en la Cuenca del Ebro - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Alfonso Ascunce Izuriaga - Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Pabellón de Mixtos de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Verano 2026 - Visitas acompañadas  - Museo de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
 
