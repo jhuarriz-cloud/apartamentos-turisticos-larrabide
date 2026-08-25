@@ -1,0 +1,711 @@
+/* ===========================
+   RESET
+=========================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background: #faf9f7;
+    color: #2d2d2d;
+    line-height: 1.7;
+}
+
+/* ===========================
+   CONTENEDOR
+=========================== */
+
+.container {
+    width: min(1200px, 92%);
+    margin: 0 auto;
+}
+
+/* ===========================
+   CABECERA
+=========================== */
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: white;
+    border-bottom: 1px solid #ececec;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px 0;
+}
+
+.logo {
+    text-decoration: none;
+    color: #222;
+    font-family: "Playfair Display", serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+nav a {
+    margin-left: 28px;
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    transition: color .25s ease;
+}
+
+nav a:hover {
+    color: #B58A52;
+}
+
+/* ===========================
+   HERO
+=========================== */
+
+.hero {
+    min-height: calc(100vh - 80px);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    padding: 40px;
+
+    background:
+        linear-gradient(rgba(20,20,20,.45), rgba(20,20,20,.45)),
+        url("/images/hero.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-content {
+    max-width: 850px;
+}
+
+.eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: .9rem;
+    color: #E9D8A6;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(3rem, 6vw, 5rem);
+    line-height: 1.1;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.subtitle {
+    font-size: 1.3rem;
+    color: rgba(255,255,255,.92);
+    max-width: 720px;
+    margin: 0 auto 45px auto;
+}
+
+.button {
+    display: inline-block;
+    padding: 16px 36px;
+    background: #B58A52;
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-weight: 600;
+    transition: all .25s ease;
+}
+
+.button:hover {
+    background: #9F7546;
+    transform: translateY(-2px);
+}
+/* ===========================
+ *  APARTAMENTOS
+ = *========================== */
+
+.apartments{
+    padding:100px 0;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.section-title h2{
+    font-family:"Playfair Display",serif;
+    font-size:2.8rem;
+    margin-bottom:15px;
+    color:#222;
+}
+
+.section-title p{
+    max-width:700px;
+    margin:auto;
+    color:#666;
+    font-size:1.1rem;
+}
+
+.apartments-grid{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(340px,1fr));
+
+    gap:40px;
+
+}
+
+.apartment-card{
+
+    background:white;
+
+    border-radius:22px;
+
+    overflow:hidden;
+
+    box-shadow:
+    0 15px 40px rgba(0,0,0,.08);
+
+    transition:
+    transform .35s ease,
+    box-shadow .35s ease;
+
+}
+
+.apartment-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:
+    0 25px 60px rgba(0,0,0,.12);
+
+}
+
+.card-image{
+
+    display:block;
+
+    overflow:hidden;
+
+}
+
+.card-image img{
+
+    width:100%;
+
+    aspect-ratio:16/10;
+
+    object-fit:cover;
+
+    transition:transform .6s ease;
+
+}
+
+.apartment-card:hover img{
+
+    transform:scale(1.06);
+
+}
+
+.card-content{
+
+    padding:30px;
+
+}
+
+.card-content h3{
+
+    font-family:"Playfair Display",serif;
+
+    font-size:1.8rem;
+
+    margin-bottom:15px;
+
+}
+
+.card-content p{
+
+    color:#666;
+
+    margin-bottom:25px;
+
+}
+
+.apartment-meta{
+
+    display:flex;
+
+    gap:12px;
+
+    flex-wrap:wrap;
+
+    margin-bottom:30px;
+
+}
+
+.apartment-meta span{
+
+    background:#f5f2ed;
+
+    color:#555;
+
+    border-radius:999px;
+
+    padding:8px 14px;
+
+    font-size:.92rem;
+
+    font-weight:600;
+
+}
+
+.card-content .button{
+
+    width:100%;
+
+    text-align:center;
+
+}
+/* ===========================
+   FOOTER
+=========================== */
+
+footer {
+    background: #222;
+    color: white;
+    padding: 40px 0;
+}
+
+footer p {
+    text-align: center;
+}
+
+/* ===========================
+   MÓVIL
+=========================== */
+
+@media (max-width: 768px) {
+
+    header .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav a {
+        margin: 0 10px;
+    }
+
+    .hero {
+        min-height: 80vh;
+        padding: 25px;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+    }
+
+}
+/* ===========================
+   PÁGINAS DE EVENTOS Y CONGRESOS
+=========================== */
+
+.business-page {
+    padding: 90px 0;
+    background: #faf9f7;
+}
+
+.business-page .section-title {
+    max-width: 850px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+
+.business-page .section-title h1 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    line-height: 1.15;
+    color: #222;
+    margin-bottom: 25px;
+}
+
+.business-page .section-title p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.business-content {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 50px;
+    border-radius: 22px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, .06);
+}
+
+.business-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.business-content p {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.business-content h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem;
+    color: #222;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.business-content a {
+    color: #B58A52;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.business-content a:hover {
+    text-decoration: underline;
+}
+
+.business-cta {
+    max-width: 900px;
+    margin: 50px auto 0 auto;
+    padding: 50px;
+    background: #f5f2ed;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.business-cta h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.business-cta p {
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    color: #666;
+}
+
+.business-cta .button {
+    margin: 5px;
+}
+
+.button-secondary {
+    background: #222;
+}
+
+.button-secondary:hover {
+    background: #444;
+}
+
+@media (max-width: 768px) {
+
+    .business-page {
+        padding: 60px 0;
+    }
+
+    .business-content,
+    .business-cta {
+        padding: 30px 25px;
+    }
+
+    .business-page .section-title h1 {
+        font-size: 2.5rem;
+    }
+
+}
+/* =========================================================
+   AJUSTES RESERVAS Y APARTAMENTOS
+========================================================= */
+
+
+/* ===========================
+   BOTÓN RESERVAR DEL MENÚ
+=========================== */
+
+nav .button-nav {
+    display: inline-block;
+    margin-left: 4px;
+    padding: 10px 22px;
+    background: #B58A52;
+    color: white;
+    border-radius: 999px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+nav .button-nav:hover {
+    background: #9F7546;
+    color: white;
+    transform: translateY(-1px);
+}
+
+
+/* ===========================
+   IMÁGENES DE LAS TARJETAS
+=========================== */
+
+.card-image {
+    display: block;
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+}
+
+.card-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* ===========================
+   BOTONES BOOKING Y AIRBNB
+=========================== */
+
+.booking-buttons,
+.reservation-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.booking-buttons .button,
+.reservation-buttons .button {
+    flex: 1 1 200px;
+    text-align: center;
+}
+
+
+/* BOTÓN BOOKING */
+
+.button-booking {
+    background: #003580;
+    color: white;
+}
+
+.button-booking:hover {
+    background: #00224f;
+    color: white;
+}
+
+
+/* BOTÓN AIRBNB */
+
+.button-airbnb,
+.button-secondary {
+    background: #222;
+    color: white;
+}
+
+.button-airbnb:hover,
+.button-secondary:hover {
+    background: #444;
+    color: white;
+}
+
+
+/* ===========================
+   PÁGINA DE RESERVAS
+=========================== */
+
+.reservation-page {
+    padding: 90px 0;
+}
+
+.reservation-grid {
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fit, minmax(320px, 1fr));
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.reservation-card {
+    background: white;
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow:
+        0 15px 40px rgba(0,0,0,.08);
+}
+
+.reservation-image {
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+}
+
+.reservation-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.reservation-content {
+    padding: 30px;
+}
+
+.reservation-content h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.reservation-description {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.reservation-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.reservation-meta span {
+    background: #f5f2ed;
+    color: #555;
+    border-radius: 999px;
+    padding: 7px 12px;
+    font-size: .9rem;
+    font-weight: 600;
+}
+
+.reservation-note {
+    max-width: 800px;
+    margin: 70px auto 0;
+    padding: 35px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.06);
+}
+
+
+/* ===========================
+   MÓVIL
+=========================== */
+
+@media (max-width: 600px) {
+
+    .reservation-page {
+        padding: 60px 0;
+    }
+
+    .reservation-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .reservation-content {
+        padding: 25px;
+    }
+
+    .reservation-buttons,
+    .booking-buttons {
+        flex-direction: column;
+    }
+
+    .booking-buttons .button,
+    .reservation-buttons .button {
+        width: 100%;
+    }
+
+    .reservation-image,
+    .card-image {
+        height: 230px;
+    }
+
+}
+/* PRUEBA BOTONES RESERVA */
+
+.reservation-buttons {
+    display: flex !important;
+    gap: 20px !important;
+    margin-top: 25px !important;
+}
+
+.reservation-buttons .button {
+    display: inline-block !important;
+    width: auto !important;
+    flex: 1 !important;
+    text-align: center !important;
+    padding: 16px 20px !important;
+}
+
+.reservation-buttons .button-secondary {
+    display: inline-block !important;
+    background: #222 !important;
+    color: white !important;
+}
+
+@media (max-width: 600px) {
+    .reservation-buttons {
+        flex-direction: column !important;
+    }
+
+    .reservation-buttons .button {
+        width: 100% !important;
+    }
+}
+.why-us{
+    padding:70px 0;
+}
+
+.why-us h2{
+    text-align:center;
+    margin-bottom:20px;
+}
+.apartments-intro{
+    max-width:900px;
+    margin:0 auto 60px auto;
+    padding:35px 40px;
+    background:#fafafa;
+    border-radius:12px;
+    box-shadow:0 2px 12px rgba(0,0,0,.06);
+    line-height:1.8;
+}
+
+.apartments-intro h2{
+    margin-top:0;
+    margin-bottom:20px;
+    color:#1d3557;
+}
+
+.apartments-intro ul{
+    margin:20px 0;
+    padding-left:25px;
+}
+
+.apartments-intro li{
+    margin-bottom:10px;
+}

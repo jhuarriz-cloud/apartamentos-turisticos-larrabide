@@ -1,0 +1,172 @@
+body{
+    font-family:"Inter",sans-serif;
+}
+
+.contenido-camino{
+    font-family:"Inter",sans-serif;
+}
+
+.camino-card h1{
+    font-size:2.6rem;
+    margin-bottom:30px;
+    font-weight:700;
+}
+
+.camino-card h2{
+    font-size:2rem;
+    margin-bottom:20px;
+    font-weight:700;
+}
+
+.camino-card p,
+.camino-card li{
+    font-size:1.08rem;
+}
+.contenido-camino{
+    max-width:1100px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.camino-card{
+    background:#fff;
+    border-radius:12px;
+    padding:30px;
+    margin-bottom:30px;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+.camino-card h2{
+    margin-top:0;
+}
+
+.camino-boton{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#0b6efd;
+    color:#fff;
+    text-decoration:none;
+    border-radius:6px;
+}
+
+.lead{
+    font-size:1.2rem;
+    line-height:1.8;
+    color:#444;
+}
+
+.camino-card ul{
+    padding-left:20px;
+}
+
+.camino-card li{
+    margin-bottom:10px;
+}
+/* ===============================
+   INTERNATIONAL HOME
+================================= */
+
+.international{
+    padding:80px 0;
+    background:#f7f7f7;
+}
+
+.international h2{
+    text-align:center;
+    font-size:2.3rem;
+    margin-bottom:15px;
+}
+
+.international-intro{
+    max-width:760px;
+    margin:0 auto 50px;
+    text-align:center;
+    font-size:1.1rem;
+    color:#555;
+}
+
+.international-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:30px;
+}
+
+.international-card{
+    background:#fff;
+    border-radius:14px;
+    overflow:hidden;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+    display:flex;
+    flex-direction:column;
+}
+
+.international-card img{
+    width:100%;
+    height:220px;
+    object-fit:cover;
+}
+
+.international-card h3{
+    padding:25px 25px 10px;
+    font-size:1.5rem;
+}
+
+.international-card p{
+    padding:0 25px 25px;
+    flex:1;
+}
+
+.international-card .camino-boton{
+    margin:0 25px 25px;
+    text-align:center;
+}
+
+.coming-soon{
+    margin:0 25px 25px;
+    padding:14px;
+    text-align:center;
+    border-radius:8px;
+    background:#ececec;
+    color:#666;
+    font-weight:600;
+}
+.international-card .camino-boton{
+    display:inline-block;
+    margin:0 25px 25px;
+    padding:14px 24px;
+    background:#1d5fa7;
+    color:#fff;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:600;
+    text-align:center;
+    transition:.25s ease;
+}
+
+.international-card .camino-boton:hover{
+    background:#154b86;
+}
+.article-image {
+    max-width: 700px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.article-image img {
+    width: 450px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.15);
+
+}
+
+.article-image figcaption {
+    margin-top: .75rem;
+    font-size: .9rem;
+    color: #666;
+    font-style: italic;
+}
