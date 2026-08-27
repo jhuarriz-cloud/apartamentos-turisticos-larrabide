@@ -6,17 +6,45 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 26/08/2026 06:59.*
+*Información actualizada el 27/08/2026 17:33.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## XIII Festival de Flamenco On Fire - Ciclo Nocturno - Concierto - Fabiola Pérez "La Fabi"
+## XIII Festival de Flamenco On Fire - Grandes conciertos - José Mercé - Baluarte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Met Ópera - La Gioconda
+
+<p class="evento-lugar"><strong>Lugar:</strong> Cine Golem Baiona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XIII Festival de Flamenco On Fire - Ciclo Nocturno - Concierto - Águeda Saavedra
 
 <p class="evento-lugar"><strong>Lugar:</strong> Hotel Tres Reyes Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XIII Festival de Flamenco On Fire - Escenario Siglo XXI - Concierto - Rafael Riqueni et Tim Ries - Teatro Gayarre
+## Espectáculo - Welcome & Sorry - Teatro Gayarre
 
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre, - Frente a la fachada del Teatro.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/26</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## VII Edición Ciclo de Actividades Artísticas - 9 Soles - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Mirador.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,23 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Capital de la Pelota Vasca 2026 - Eventos
+## XIII Festival de Flamenco On Fire - Escenario Siglo XXI - Concierto - Cervatana
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Zentral Café Teatro</p>
 
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XIII Festival de Flamenco On Fire - Calles, balcones y patios
-
-<p class="evento-lugar"><strong>Lugar:</strong> Ayuntamiento de Pamplona, - Balcón., Gran Hotel La Perla, - Balcón., Civivox Condestable, - Escenario Sabicas.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -106,6 +108,18 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
+## Fiestas del barrio de Mendillorri 2026
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
 ## Ciclo Kultura Plazaz Plaza - Teatro y Música
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/28</p>
@@ -123,20 +137,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Complejo Deportivo Aquavox San Jorge</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/29</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Por la Cuenca del Ebro - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
