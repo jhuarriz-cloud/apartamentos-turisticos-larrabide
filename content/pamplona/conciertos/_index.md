@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-08-27T17:34:00.967052"
+lastmod: "2026-08-28T18:30:41.372301"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 27/08/2026 17:34
+Última actualización: 28/08/2026 18:30
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>José Mercé – Canta a Manuel Alejandro</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-27 de agosto de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-21:15
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/jose-merce-flamenco-on-fire-27-agosto-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
