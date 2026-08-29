@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-08-28T18:30:41.372301"
+lastmod: "2026-08-29T12:37:02.717145"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 28/08/2026 18:30
+Última actualización: 29/08/2026 12:37
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Manuel Liñán – Muerta de Amor</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-28 de agosto de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-21:15
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/manuel-linan-flamenco-on-fire-28-agosto-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
