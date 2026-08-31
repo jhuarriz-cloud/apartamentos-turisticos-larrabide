@@ -6,91 +6,9 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 30/08/2026 11:43.*
+*Información actualizada el 31/08/2026 13:20.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## Exposición - Por la Cuenca del Ebro - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - La amenaza de las especies invasoras en la Cuenca del Ebro - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Alfonso Ascunce Izuriaga - Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala del Pabellón de Mixtos de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Fiestas del barrio de Mendillorri 2026
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Verano 2026 - Visitas acompañadas  - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Ficcionar el presente - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/08/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -141,6 +59,90 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso"</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Verano 2026 - Campus Fundación Osasuna
+
+<p class="evento-lugar"><strong>Lugar:</strong> Club Atlético Osasuna - Instalaciones de Tajonar                          (TAJONAR / TAXOARE (ARANGUREN))</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición colectiva - Colores de Verano
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galeria Michel Menéndez (Antigua Galería San Antón)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Verano 2026 - Campamento urbano - Playrooms
+
+<p class="evento-lugar"><strong>Lugar:</strong> Playrooms - Escape Room</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conciertos - Mesón del Caballo Blanco
+
+<p class="evento-lugar"><strong>Lugar:</strong> Mesón Caballo Blanco</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - La Celada de Tafalla: un tesoro de la Edad de Bronce - Museo de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Sala 2.10.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Espacio de encuentro y juegos - R-KONEKTA
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Parque el Bosquecillo.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
