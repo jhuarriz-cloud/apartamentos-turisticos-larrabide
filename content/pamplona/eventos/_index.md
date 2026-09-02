@@ -6,65 +6,9 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 01/09/2026 11:28.*
+*Información actualizada el 02/09/2026 11:03.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## Lectura dialógica - Cosita Linda - Biblioteca Txantrea
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/01</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Miradas de Pamplona en la colección de arte municipal - Civivox Pompelo
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/01</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Programa Pamplona Bizilabe
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Educación Ambiental del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/06/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Alumnado pintura Civivox  - Civivox Milagrosa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Milagrosa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -73,6 +17,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> - Calle Bosquecillo.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/02</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival Beltza Weekend 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Zentral Café Teatro, Civivox Condestable, Mesón Caballo Blanco, Cine Golem Baiona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +101,46 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> - Parque el Bosquecillo.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Programa - En verano muévete / Udan Mugitu
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Cimasub Tour - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
