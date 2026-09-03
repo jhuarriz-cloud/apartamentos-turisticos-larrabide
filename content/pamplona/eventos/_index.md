@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 02/09/2026 11:03.*
+*Información actualizada el 03/09/2026 11:01.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Conciertos al aire libre - Salas de música en la calle
+## Mesa redonda - Mujeres referentes de la arqueología en el siglo XX - Museo de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Calle Bosquecillo.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/02</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/03</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,95 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival Beltza Weekend 2026
+## Privilegio de la Unión - Visitas guiadas - Casa Consistorial - 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Zentral Café Teatro, Civivox Condestable, Mesón Caballo Blanco, Cine Golem Baiona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival de Música Contemporánea Nak 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, Civivox Pompelo, Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, Baluarte - Palacio de Congresos y Auditorio de Navarra, Conservatorio Superior de Música de Navarra, Escuela Especial de Música Municipal Joaquín Maya,...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Privilegio de la Unión - Programa de Actos - 603 aniversario de la Carta Fundacional de Pamplona por el rey Carlos III el Noble
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo, Catedral de Santa María de Pamplona, Civivox Condestable, Estación de autobuses, Ayuntamiento de Pamplona, - Plaza del Castillo.  - Plaza Consistorial.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/08</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Belén Arévalo Rodríguez
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Eduardo Lacoma
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Navarra LAN Party
+
+<p class="evento-lugar"><strong>Lugar:</strong> Universidad Pública de Navarra (UPNA)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Internacional de Cine Submarino de San Sebastián - Cimasub Tour 2026 Pamplona-Iruña - Cine
+
+<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -59,88 +143,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Playrooms - Escape Room</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conciertos - Mesón del Caballo Blanco
-
-<p class="evento-lugar"><strong>Lugar:</strong> Mesón Caballo Blanco</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - La Celada de Tafalla: un tesoro de la Edad de Bronce - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Sala 2.10.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Espacio de encuentro y juegos - R-KONEKTA
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Parque el Bosquecillo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Programa - En verano muévete / Udan Mugitu
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Cimasub Tour - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
