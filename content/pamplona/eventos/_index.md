@@ -6,107 +6,9 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 03/09/2026 11:01.*
+*Información actualizada el 04/09/2026 11:01.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## Mesa redonda - Mujeres referentes de la arqueología en el siglo XX - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/03</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Privilegio de la Unión - Visitas guiadas - Casa Consistorial - 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival de Música Contemporánea Nak 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, Civivox Pompelo, Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, Baluarte - Palacio de Congresos y Auditorio de Navarra, Conservatorio Superior de Música de Navarra, Escuela Especial de Música Municipal Joaquín Maya,...</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Privilegio de la Unión - Programa de Actos - 603 aniversario de la Carta Fundacional de Pamplona por el rey Carlos III el Noble
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo, Catedral de Santa María de Pamplona, Civivox Condestable, Estación de autobuses, Ayuntamiento de Pamplona, - Plaza del Castillo.  - Plaza Consistorial.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Belén Arévalo Rodríguez
-
-<p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Eduardo Lacoma
-
-<p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Navarra LAN Party
-
-<p class="evento-lugar"><strong>Lugar:</strong> Universidad Pública de Navarra (UPNA)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -143,6 +45,104 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Playrooms - Escape Room</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Privilegio de la Unión - Mercado Medieval - 603 aniversario del otorgamiento del Privilegio de la Unión de los Burgos
+
+<p class="evento-lugar"><strong>Lugar:</strong> - CASCO ANTIGUO: c/ San Saturnino, c/ Mercaderes, Plaza Consistorial, c/ Nueva, Plaza del Consejo, Plaza de San Francisco, c/ Eslava y c/ Mayor.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## IV Torneo Slowpitch Burlada
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Campo Municipal de béisbol y sófbol, El Soto de Burlada.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XVII Salón Internacional del Cómic de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, Biblioteca Pública de Yamaguchi, Mercado del II Ensanche - Aula de Usos Múltiples, Civivox Pompelo, Librería Restaurante Katakrak, Librería TBO, Librería Chundarata, Museo del Carlismo                    (ESTELLA / LIZARRA), Catedr...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Campeonato del Mundo de Gimnasia Aeróbica - Navarra Arena
+
+<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Los ladrones del tiempo - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conciertos - Festival Beltza Weekend 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Zentral Café Teatro</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conciertos - Mesón del Caballo Blanco
+
+<p class="evento-lugar"><strong>Lugar:</strong> Mesón Caballo Blanco</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/05</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
