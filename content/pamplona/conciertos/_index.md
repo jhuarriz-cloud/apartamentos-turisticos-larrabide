@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-09-06T10:45:06.367908"
+lastmod: "2026-09-07T12:11:41.724179"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 06/09/2026 10:45
+Última actualización: 07/09/2026 12:11
 </p>
 
 
@@ -148,6 +148,84 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>Otras maneras de habitar el mundo</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+02 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+18:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-otras-maneras-de-habitar-el-mundo-2octubre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>El lenguaje y la vida</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+03 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-el-lenguaje-y-la-vida-3octubre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>Euskadiko Orkestra</h2>
 
 <div class="evento-datos">
@@ -173,6 +251,84 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/euskadiko-orkestra-t2627-concierto1-mahler-berpizkundea-3-octubre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Magia y espejos de sonidos y voces</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+04 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-magia-y-espejos-de-sonidos-y-voces-4octubre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Susurro y fragmento: cuando el tiempo canta</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+05 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-susurro-y-fragmento-5octubre"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -226,6 +382,45 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>La voz del pasado: entre el ectoplasma y el fetiche</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+07 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-la-voz-del-pasado-7octubre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>aSH, A piece by Aurélien Bory for Shantala Shivalingappa</h2>
 
 <div class="evento-datos">
@@ -251,6 +446,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/ash-encuentros-de-pamplona-10-octubre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Pasolini, Petróleo. Una ficción documental</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+12 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-pasolini-petroleo-una-ficcion-documental-12octubre"
 target="_blank"
 rel="noopener noreferrer"
 >

@@ -6,73 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 06/09/2026 10:43.*
+*Información actualizada el 07/09/2026 12:10.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Privilegio de la Unión - Mercado Medieval - 603 aniversario del otorgamiento del Privilegio de la Unión de los Burgos
+## VIII Festival Internacional de Cine de Navarra (NIFF)
 
-<p class="evento-lugar"><strong>Lugar:</strong> - CASCO ANTIGUO: c/ San Saturnino, c/ Mercaderes, Plaza Consistorial, c/ Nueva, Plaza del Consejo, Plaza de San Francisco, c/ Eslava y c/ Mayor.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## IV Torneo Slowpitch Burlada
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Campo Municipal de béisbol y sófbol, El Soto de Burlada.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Final Mundialito 3x3 Fútbol Plaza + Torneo de penaltis - 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Comercial La Morea          (CORDOVILLA (GALAR)), - Parking exterior.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - La Celada de Tafalla: un tesoro de la Edad de Bronce - Museo de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Sala 2.10.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Navarra LAN Party
-
-<p class="evento-lugar"><strong>Lugar:</strong> Universidad Pública de Navarra (UPNA)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/06</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +87,60 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Programa - En verano muévete / Udan Mugitu
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Internacional de Cine Submarino de San Sebastián - Cimasub Tour - Exposición - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Damaris Pan - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Horno de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
