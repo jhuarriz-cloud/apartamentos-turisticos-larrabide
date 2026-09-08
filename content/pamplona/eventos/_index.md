@@ -6,23 +6,9 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 07/09/2026 12:10.*
+*Información actualizada el 08/09/2026 11:01.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## VIII Festival Internacional de Cine de Navarra (NIFF)
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -57,6 +43,20 @@ Consultar agenda oficial
 ## Privilegio de la Unión - Visitas guiadas - Casa Consistorial - 2026
 
 <p class="evento-lugar"><strong>Lugar:</strong> Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## VIII Festival Internacional de Cine de Navarra (NIFF)
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
 

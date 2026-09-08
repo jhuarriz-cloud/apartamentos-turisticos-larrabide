@@ -10,7 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 31/08/2026 13:21.*
+*Información actualizada el 08/09/2026 11:03.*
 
 ## sept 24 - 25 59º Congreso Internacional AEDIPE Sala de Cámara 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
 
@@ -19,6 +19,10 @@ En esta página recopilamos automáticamente los próximos congresos y eventos p
 ## oct 26 - 28 Jornadas de Ayudas Directas de la PAC Sala Ciudadela 26/10: 15:30 - 18:30 27/10: 15:30 - 19:30 28/10: 9:00 - 14:00 Ver evento
 
 [Ver información oficial del evento](https://baluarte.com/es/agenda/evento/jornadas-ayudas-directas-de-la-pac-26-27-28-octubre-2026)
+
+## oct 27 - 28 II Congreso Nacional Red de Líderes Sala Luneta 27/10: 11:00 - 18:00 28/10: 9:30 - 13:45 Ver evento
+
+[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/ii-congreso-nacional-red-de-lideres-27-28-octubre-2026)
 
 ## nov 6 XVIII Congreso anual de Sociedad Vasco Navarra de Patología del Aparato Respiratorio 8:30 - 19:30 Ver evento
 
