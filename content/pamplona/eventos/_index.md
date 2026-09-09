@@ -6,17 +6,31 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 08/09/2026 11:01.*
+*Información actualizada el 09/09/2026 11:06.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Privilegio de la Unión - Programa de Actos - 603 aniversario de la Carta Fundacional de Pamplona por el rey Carlos III el Noble
+## Recital poético - Versos y edades - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo, Catedral de Santa María de Pamplona, Civivox Condestable, Estación de autobuses, Ayuntamiento de Pamplona, - Plaza del Castillo.  - Plaza Consistorial.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/09</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Inmatriculaciones. Oh, my God! - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -125,20 +139,6 @@ Consultar agenda oficial
 ## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
 
 <p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Damaris Pan - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala del Horno de la Ciudadela - Sala de Exposiciones Municipal</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
