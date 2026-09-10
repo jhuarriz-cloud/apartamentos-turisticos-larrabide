@@ -6,17 +6,15 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 09/09/2026 11:06.*
+*Información actualizada el 10/09/2026 11:02.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Recital poético - Versos y edades - Biblioteca de Navarra
+## Día Mundial para la Prevención del Suicidio
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/09</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +24,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Teatro - Inmatriculaciones. Oh, my God! - Teatro Gayarre
+## Presentación de libro - Diario del ángel caído - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/10</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Espectáculo - Stage on the road - Teatro Gayarre
 
 <p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/09</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -127,20 +139,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
