@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 11/09/2026 11:00.*
+*Información actualizada el 12/09/2026 10:29.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Proyectando Reinserción VI - Cine -  Mass - Filmoteca de Navarra
+## Semana Europea de la Movilidad 2026 - Bizifest - Festival de música sobre ruedas
 
-<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - SALIDA: en el Bosquecillo.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Espacio de encuentro y juegos - R-KONEKTA
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Parque el Bosquecillo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,23 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## VIII Festival Internacional de Cine de Navarra (NIFF)
+## Ciclo CineTag - Cine - Los domingos - Casa de la Juventud
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## II Concurso de Ensaladilla de Navarra
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -66,11 +40,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Fiestas del Barrio de Ermitagaña - Mendebaldea
+## Día de Jarauta - Jarauta Eguna
 
-<p class="evento-lugar"><strong>Lugar:</strong> Centro de Educación Básica de Personas Adultas José María Iribarren, - Patios.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -80,11 +52,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XX Edición Mapamundistas 2026
+## Día Mundial de los Primeros Auxilios
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama, Civivox Condestable, Museo de Navarra, La Ciudadela, Centro de Información y Educación Ambiental - Batán de Villava  (VILLAVA / ATARRABIA), Centro de Arte Contemporáneo - Arte Garaikideko Zentroa          (HUARTE / UHARTE)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -94,11 +64,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Proyectando Reinserción VI - Cine -  Condenados - Filmoteca de Navarra
+## III Feria del Libro del Paseo de los Enamorados
 
-<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Parque de los Enamorados</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -127,6 +97,34 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Feria del Libro Antiguo y de Ocasión
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Fiestas del Barrio de Ermitagaña - Mendebaldea
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro de Educación Básica de Personas Adultas José María Iribarren, - Patios.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
