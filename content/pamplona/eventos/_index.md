@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 13/09/2026 11:32.*
+*Información actualizada el 14/09/2026 12:26.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Carrera Ciclista - Baztan Race 2026
+## Proyección - 1956-1990-2026 / 70 aniversario del Museo de Navarra - Museo de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> - SALIDA: Bayona.  - LLEGADA: Pamplona.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Fiestas del Barrio de Ermitagaña - Mendebaldea
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro de Educación Básica de Personas Adultas José María Iribarren, - Patios.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Campeonato del Mundo de Gimnasia Aeróbica - Navarra Arena
+## Exposición - El Camino de Santiago
 
-<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -139,6 +125,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Proyectando Reinserción VI - Cine -  Condenados - Filmoteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
