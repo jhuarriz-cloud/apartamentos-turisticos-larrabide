@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 14/09/2026 12:26.*
+*Información actualizada el 15/09/2026 11:31.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Proyección - 1956-1990-2026 / 70 aniversario del Museo de Navarra - Museo de Navarra
+## Taller - Haiku - Biblioteca de Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi, - Sala Infantil.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - El Camino de Santiago
-
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -139,6 +125,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XVII Salón Internacional del Cómic de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, Biblioteca Pública de Yamaguchi, Mercado del II Ensanche - Aula de Usos Múltiples, Civivox Pompelo, Librería Restaurante Katakrak, Librería TBO, Librería Chundarata, Museo del Carlismo                    (ESTELLA / LIZARRA), Catedr...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
