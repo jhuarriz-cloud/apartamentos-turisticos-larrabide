@@ -6,17 +6,59 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 15/09/2026 11:31.*
+*Información actualizada el 16/09/2026 11:19.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Taller - Haiku - Biblioteca de Yamaguchi
+## Taller - Stop Sole: frenando la soledad no deseada - Biblioteca Iturrama
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi, - Sala Infantil.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Iturrama</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/15</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Cuentacuentos - La hora del cuento- Biblioteca de San Pedro
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Cuentacuentos en inglés - Once upon a time, that`s the story time - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conferencia - Transfórmate en el lobo que llevas dentro
+
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/16</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -97,48 +139,6 @@ Consultar agenda oficial
 ## II Concurso de Ensaladilla de Navarra
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Programa de Música de Txistu y Gaita en la Plaza del Castillo - 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/24</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Ciclo Proyectando Reinserción VI - Cine -  Condenados - Filmoteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XVII Salón Internacional del Cómic de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, Biblioteca Pública de Yamaguchi, Mercado del II Ensanche - Aula de Usos Múltiples, Civivox Pompelo, Librería Restaurante Katakrak, Librería TBO, Librería Chundarata, Museo del Carlismo                    (ESTELLA / LIZARRA), Catedr...</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
