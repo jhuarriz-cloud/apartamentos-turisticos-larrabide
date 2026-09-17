@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-09-16T11:21:09.146949"
+lastmod: "2026-09-17T11:26:53.089441"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 16/09/2026 11:21
+Última actualización: 17/09/2026 11:26
 </p>
 
 
@@ -1201,6 +1201,45 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>Únicos</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+21 de noviembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-unicos-compania-date-danza-21-noviembre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>Rafa Sánchez - Biografía</h2>
 
 <div class="evento-datos">
@@ -1655,6 +1694,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/orquesta-sinfonica-de-navarra-t2627-abono4-idilios"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Anónima</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+19 de diciembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-anonima-compania-vaiven-circo-19-diciembre"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -2254,6 +2332,45 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>Carnaval de la vida</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+20 de febrero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-carnaval-de-la-vida-compania-canti-vaganti-20-febrero"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>Izaro - Arkitektura</h2>
 
 <div class="evento-datos">
@@ -2552,6 +2669,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/orquesta-sinfonica-de-navarra-t2627-abono8-fuerzas-poderosas"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Molto Barroco</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+20 de marzo de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-molto-barroco-piscore-teatro-20-marzo"
 target="_blank"
 rel="noopener noreferrer"
 >
