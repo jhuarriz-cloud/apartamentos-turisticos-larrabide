@@ -10,7 +10,11 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 08/09/2026 11:03.*
+*Información actualizada el 18/09/2026 11:00.*
+
+## sept 21 - 22 Jornadas de la profesión farmacéutica 21/09: 10:00 - 21:00 22/09: 10:00 - 13:00 Ver evento
+
+[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/jornadas-profesion-farmaceutica-21-22-septiembre-2026)
 
 ## sept 24 - 25 59º Congreso Internacional AEDIPE Sala de Cámara 24/09: 9:00 - 17:00 25/09: 9:00 - 14:00 Ver evento
 
