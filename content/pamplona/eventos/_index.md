@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 19/09/2026 10:42.*
+*Información actualizada el 20/09/2026 11:05.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Jornada - Coser alternativas - Moda sostenible Navarra
+## Concierto -  Homenaje a Pablo Sarasate - Ayuntamiento de Pamplona
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Cementerio Municipal de San José</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cata de actividades deportivas - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Concierto - Helix Trío - Civivox Condestable
+## Concierto - El canto popular al concierto - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival Muak - Monólogo - Yunez Chaib - Baluarte
+## Festival Muak - Monólogo - Miguel Noguera - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala Cámara.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de Cámara.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## IV Edición de la Fiesta del Tren
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro de Interpretación del Ferrocarril y de las Vías Verdes de Trinitarios</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -82,39 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival MUAK - Presentación de libro - Corderito
+## Festival Muak - Monólogo - Wilbur-  Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Librería Elkar Megadenda (antigua librería Xalbador)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala Principal.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival Muak - Conferencia - Ignatius Farray
-
-<p class="evento-lugar"><strong>Lugar:</strong> Mancomunidad de la Comarca de Pamplona (MCP), - Sala Pinaquy (c/ San Francisco 5, zona Salesas).</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Teatro - Carles Sans ¡Por fin me voy! - Teatro Gayarre
-
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +85,58 @@ Consultar agenda oficial
 ## Exposición - Programa de Ayudas a las Artes Plásticas y Visuales del año 2025 - La Ciudadela
 
 <p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Damaris Pan - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Horno de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Naia del Castillo - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala del Polvorín de la Ciudadela - Sala de Exposiciones Municipal</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## II Concurso de Ensaladilla de Navarra
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Fiestas del Barrio de Buztintxuri 2026
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/20</p>
 
