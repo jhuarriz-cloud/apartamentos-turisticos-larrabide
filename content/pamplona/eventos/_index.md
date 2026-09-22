@@ -6,29 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 21/09/2026 12:35.*
+*Información actualizada el 22/09/2026 11:21.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Día Mundial del Alzheimer
+## Taller - Stop Sole: frenando la soledad no deseada - Biblioteca Txantrea
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/21</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
 
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Taller en euskera - Misterio en el laboratorio - Civivox San Jorge
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox San Jorge</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -38,39 +26,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Conferencia - Puentes y camino
+## Festival Muak - Charla - Jordi Moltó - Civivox Pompelo
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/22</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Presentación de libro - Cartas desde la otra orilla
 
 <p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/21</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Semana del pensamiento 2026 - Civican
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/24</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XXXIV Jornadas sobre la enfermadad del Alzheimer 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Parlamento de Navarra - Oficinas Generales, Civivox Condestable, Universidad Nacional de Educación a Distancia (UNED) - Centro Asociado   (TUDELA), Civivox Iturrama, - Plaza del Castillo de Pamplona (mesa informativa y exhibición de ajedrez).  - Calles...</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -94,11 +68,39 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
+## Semana del pensamiento 2026 - Civican
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
 ## Ciclo Proyectando Reinserción VI - Cine -  Condenados - Filmoteca de Navarra
 
 <p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XXXIV Jornadas sobre la enfermadad del Alzheimer 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Parlamento de Navarra - Oficinas Generales, Civivox Condestable, Universidad Nacional de Educación a Distancia (UNED) - Centro Asociado   (TUDELA), Civivox Iturrama, - Plaza del Castillo de Pamplona (mesa informativa y exhibición de ajedrez).  - Calles...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-09-21T12:36:21.320987"
+lastmod: "2026-09-22T11:22:43.436797"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 21/09/2026 12:36
+Última actualización: 22/09/2026 11:22
 </p>
 
 
@@ -3371,6 +3371,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/novena-sinfonia-beethoven-orfeon-pamplones-y-osn-11-junio-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Deacon Blue</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+17 de septiembre de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/deacon-blue-raintown-40-anniversary-17-septiembre-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
