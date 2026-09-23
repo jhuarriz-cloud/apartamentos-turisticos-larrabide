@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-09-22T11:22:43.436797"
+lastmod: "2026-09-23T11:17:22.454053"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 22/09/2026 11:22
+Última actualización: 23/09/2026 11:17
 </p>
 
 
@@ -1967,6 +1967,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/alabama-gospel-choir-29-diciembre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Ene Kantak - Amagoia Dragoia eta Txantreako Erraldoiak</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+02 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/ene-kantak-amagoia-dragoia-txantreako-erraldoiak-2-enero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
