@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-09-24T11:32:05.836106"
+lastmod: "2026-09-25T11:38:20.216512"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 24/09/2026 11:32
+Última actualización: 25/09/2026 11:38
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Zucchero</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-24 de septiembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-20:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/zucchero-24-septiembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -3332,6 +3293,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/euskadiko-orkestra-t2627-concierto10-bartok-shostakovich-31-mayo-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Federico Albanese</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+05 de junio de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/federico-albanese-concierto-the-blue-hour-5-junio-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
