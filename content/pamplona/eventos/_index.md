@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 25/09/2026 11:36.*
+*Información actualizada el 26/09/2026 11:11.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Mapamundistas 2026 - Visita guiada - Exposición y taller - La Ciudadela
+## Ciclo CineTag - Cine - La chica zurda  - Casa de la Juventud
 
-<p class="evento-lugar"><strong>Lugar:</strong> Sala del Pabellón de Mixtos de la Ciudadela - Sala de Exposiciones Municipal</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival Muak - Monólogo - David Puerto - Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de Principal.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller - Danza Comunitaria - Baobab Dantza - Biblioteca de Mendillorri
+## Día Internacional de las Personas Sordas
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Carlos III (junto al Monumento al Encierro).</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cuentacuentos - Under the sea
-
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival Muak - Presentación del libro - Hacer reir
+## Día Internacional de las Personas Sordas - Actividades infantiles
 
-<p class="evento-lugar"><strong>Lugar:</strong> Librería Restaurante Katakrak</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Junto al monumento del encierro.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Ciclo Proyectando Reinserción VI - Cine -  Condenados - Filmoteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,11 +54,65 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Torneo de pelota San Fermín Txikito con herramienta 2026
+## Festival Muak - Monólogos - Mentes Peligrosas 3 - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala Principal.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XXXIV Jornadas sobre la enfermadad del Alzheimer 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Parlamento de Navarra - Oficinas Generales, Civivox Condestable, Universidad Nacional de Educación a Distancia (UNED) - Centro Asociado   (TUDELA), Civivox Iturrama, - Plaza del Castillo de Pamplona (mesa informativa y exhibición de ajedrez).  - Calles...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/26</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## San Fermín de Aldapa 2026 - Comparsa de Gigantes y Cabezudos de Pamplona
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## San Fermín de Aldapa 2026 - Programa Ayuntamiento de Pamplona
+
+<p class="evento-lugar"><strong>Lugar:</strong> - En las calles del Casco Antiguo.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Visita Guiada - Torre Barbazana
+
+<p class="evento-lugar"><strong>Lugar:</strong> Ronda Barbazana</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/03</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -129,20 +141,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> - En las calles del Casco Antiguo.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/27</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Paisajes deshabitados de Navarra - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
