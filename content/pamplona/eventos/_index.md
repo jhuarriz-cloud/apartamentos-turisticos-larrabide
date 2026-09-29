@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 28/09/2026 13:32.*
+*Información actualizada el 29/09/2026 12:34.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Conferencia - Cultureando en la vejez - Biblioteca Yamaguchi
+## Cafeteando - Actividad creativa - Casa de la Juventud
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - La guerra por la energía - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Sala de Proyecciones.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo de Cine Ruso - El amor y las palomas - Civivox Condestable
+## Taller infantil - Stop sole, frenando la soledad no deseada - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - Amatxi maitia
-
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +115,34 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Eduardo Lacoma
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galería Ormolu</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Ciencia nómada: el nitrógeno en nuestras vidas - Museo de Educación Ambiental
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Educación Ambiental del Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/01</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
