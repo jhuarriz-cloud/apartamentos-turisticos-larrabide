@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 29/09/2026 12:34.*
+*Información actualizada el 30/09/2026 12:20.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cafeteando - Actividad creativa - Casa de la Juventud
+## Conferencia - Murciélagos de Navarra, esos desconocidos - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller infantil - Stop sole, frenando la soledad no deseada - Biblioteca de Navarra
+## Conferencia - El método para perder el miedo a invertir
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/09/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +138,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Exposición - Ciencia nómada: el nitrógeno en nuestras vidas - Museo de Educación Ambiental
+## Exposición - Escuela de los encuentros / Topaketen Eskola - Civivox Condestable
 
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Educación Ambiental del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - En el patio del Palacio Condestable.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/01</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
