@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-03T11:29:36.816730"
+lastmod: "2026-10-04T12:10:26.370881"
 ---
 
 <div class="page-section">
@@ -21,89 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 03/10/2026 11:29
+Última actualización: 04/10/2026 12:10
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>El lenguaje y la vida</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-03 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-19:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala de Cámara
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-el-lenguaje-y-la-vida-3octubre"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Euskadiko Orkestra</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-03 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-19:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/euskadiko-orkestra-t2627-concierto1-mahler-berpizkundea-3-octubre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
