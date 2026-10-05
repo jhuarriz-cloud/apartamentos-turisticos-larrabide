@@ -6,17 +6,15 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 04/10/2026 12:09.*
+*Información actualizada el 05/10/2026 14:15.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## VI Festival Narices / Sudurrak 2026 - ¡Cocina! - ENT
+## Civivox Octubre 2026 / Enero 2027 - Inscripciones
 
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/04</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/01/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,23 +24,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Fiestas de Nuestra Señora de Guadalupe en el Hogar Extremeño de Navarra
+## Exposición - Mural colaborativo del poyecto Sokatira Migratoria - Biblioteca de Navarra
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/04</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
 
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## X Feria de la edición de Navarra - Libro Navarro - Basotxoa / Bosquecillo
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Calle Bosquecillo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/04</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -52,25 +38,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Jornadas Europeas de Patrimonio 2026
+## Exposición - El viaje de tu camiseta vintage - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Fundación Miguel Echauri, Ronda Barbazana, Museo de Navarra, Biblioteca de Navarra, Archivo Real y General de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de exposiciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/04</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## X Feria Navarra de la Edición
-
-<p class="evento-lugar"><strong>Lugar:</strong> Parque - El Bosquecillo</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/04</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -80,11 +52,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Actuaciones musicales - Mercadillo de Landaben
+## Semana Mundial de la Arquitectura 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Mercadillo de Landaben</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Colegio Oficial de Arquitectos Vasco-Navarro: Delegación de Navarra (COAVN Navarra)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/06</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +113,34 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, - Planta baja.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Encuentros de Pamplona 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, Teatro Gayarre, Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, Parroquia San Saturnino, La Ciudadela</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Actividades Escuela Piragüismo - Iniciación al Kayak para adultos
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso", - Tramos de ríos cercanos a Pamplona.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

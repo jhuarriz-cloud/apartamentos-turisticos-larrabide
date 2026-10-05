@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-04T12:10:26.370881"
+lastmod: "2026-10-05T14:17:05.195851"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 04/10/2026 12:10
+Última actualización: 05/10/2026 14:17
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Magia y espejos de sonidos y voces</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-04 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-17:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala de Cámara
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-magia-y-espejos-de-sonidos-y-voces-4octubre"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
