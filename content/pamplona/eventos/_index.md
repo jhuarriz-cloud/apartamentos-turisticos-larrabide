@@ -6,29 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 05/10/2026 14:15.*
+*Información actualizada el 06/10/2026 13:10.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Civivox Octubre 2026 / Enero 2027 - Inscripciones
+## Danza - 13 y 14 - Baluarte
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/01/30</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
 
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Mural colaborativo del poyecto Sokatira Migratoria - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/06</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -38,11 +26,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Exposición - El viaje de tu camiseta vintage - Biblioteca de Navarra
+## Proyección - Clara Campoamor, la mujer olvidada - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de exposiciones.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/06</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Campaña de natación infantil - Octubre 2026 /Enero 2027
+
+<p class="evento-lugar"><strong>Lugar:</strong> Complejo Deportivo Aquavox San Jorge, Complejo Deportivo Aranzadi, Centro Recreativo Guelbenzu (Educación y Descanso)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/02/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -108,6 +110,20 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
+## XI Feria del Producto Local - Mercado de productos locales
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
 ## Encuentros de Pamplona - Exposición - Fontana Nº3 - La Ciudadela
 
 <p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, - Planta baja.</p>
@@ -127,20 +143,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, Teatro Gayarre, Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, Parroquia San Saturnino, La Ciudadela</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Actividades Escuela Piragüismo - Iniciación al Kayak para adultos
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso", - Tramos de ríos cercanos a Pamplona.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

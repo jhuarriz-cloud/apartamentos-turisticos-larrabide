@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-05T14:17:05.195851"
+lastmod: "2026-10-06T13:11:23.326137"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 05/10/2026 14:17
+Última actualización: 06/10/2026 13:11
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Susurro y fragmento: cuando el tiempo canta</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-05 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-17:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala de Cámara
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-susurro-y-fragmento-5octubre"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
