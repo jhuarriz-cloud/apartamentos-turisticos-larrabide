@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-06T13:11:23.326137"
+lastmod: "2026-10-07T13:07:04.503807"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 06/10/2026 13:11
+Última actualización: 07/10/2026 13:07
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>TAO Dance Theater: 13 y 14</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-06 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-20:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/tao-dance-theater-temporada-2627-fb-6-octubre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -2474,6 +2435,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/orquesta-sinfonica-de-navarra-t2627-abono8-fuerzas-poderosas"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Pablo Ibarburu y Sergio Bezos</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+19 de marzo de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+21:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/pablo-ibarburu-y-sergio-bezos-tiempos-tiernos-19-marzo-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
