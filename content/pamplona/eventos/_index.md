@@ -6,17 +6,31 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 08/10/2026 13:13.*
+*Información actualizada el 09/10/2026 12:59.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos - Biblioteca Milagrosa
+## Ciclo Harizko Zubiak Ehuntzen - Concierto - Thierry Biscary y Oreka TX
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Laba (Plaza del Castillo, 2).</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Club de cine - La ola - Biblioteca milagrosa
 
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Milagrosa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Club de lectura - El mundo según Garp - Biblioteca San Jorge
+## Día mundial de la Salud Mental
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Carlos III (frente a la plaza del Castillo).</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - Responsabilidad civil y penal en montaña: accidentes y rescates
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - Guillaume de Machaut - Biblioteca de Navarra
+## Taller - Aprovechamiento de excedentes de la huerta - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Planta 1.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala polivalente</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - Reconstrucción humanista del orden mundial: posibilidades y perspectivas - Civivox Pompelo
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -82,11 +68,53 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - Los que caminan conmigo (CANCELADO)
+## III Ciclo Pompaelo Antiqua - Concierto - El Salón de Navascués
 
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala Ámbito Cultural.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - El Refectorio.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival - Rock@rena - Navarra Arena
+
+<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Cantando bajo las balas - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Cantando bajo las balas - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,37 +138,7 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Actividades Escuela Piragüismo - Iniciación al Kayak para niños/as
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso"</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/10</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - José Ortiz Echagüe
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN), - Sala planta -1 (Espacio Ortiz Echagüe)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentros de Pamplona - Exposición - Taxio Ardanaz y Andrea Ganuza
-
-<p class="evento-lugar"><strong>Lugar:</strong> - En las calles del casco viejo.</p>
+## Fiestas del barrio de Etxabakoitz 2026
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
 
