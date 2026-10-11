@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-10T12:17:26.935768"
+lastmod: "2026-10-11T12:33:03.456785"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 10/10/2026 12:17
+Última actualización: 11/10/2026 12:33
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>aSH, A piece by Aurélien Bory for Shantala Shivalingappa</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-10 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-21:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/ash-encuentros-de-pamplona-10-octubre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 

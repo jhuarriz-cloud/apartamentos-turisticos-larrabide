@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 10/10/2026 12:16.*
+*Información actualizada el 11/10/2026 12:31.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo CineTag - Cine - La pianista - Casa de la Juventud
+## XIII Carrera Solidaria Navarra Anfas
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Bosquecillo.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/10</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Día mundial de la Salud Mental - Acto conjunto asociaciones
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Carlos III (frente a la plaza del Castillo).</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/10</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,53 +26,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Actividades Escuela Piragüismo - Iniciación al Kayak para niños/as
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso"</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/10</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - La ciudad de mañana. Fragmentos de utopía - Civivox Iturrama
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/10</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Taller - BASH: Pamplona en movimiento - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Taller de escritura - Hitzen Mintegia - Civivox Condestable
+## Recital María Luisa en VERSOS - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Danza - Ultimatum
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +101,46 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, - Planta baja.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Fiestas del barrio de Etxabakoitz 2026
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Encuentros de Pamplona 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, Teatro Gayarre, Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, Parroquia San Saturnino, La Ciudadela</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Mural colaborativo del poyecto Sokatira Migratoria - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
