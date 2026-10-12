@@ -6,59 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 11/10/2026 12:31.*
+*Información actualizada el 12/10/2026 15:04.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## XIII Carrera Solidaria Navarra Anfas
+## Teatro música - The crazy Mozarts - Teatro Gayarre
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Bosquecillo.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Recital María Luisa en VERSOS - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Danza - Ultimatum
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - José Ortiz Echagüe
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN), - Sala planta -1 (Espacio Ortiz Echagüe)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/11</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +99,48 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Jornadas participativas - Civivox Condestable
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Actividades Escuela Piragüismo - Iniciación al Kayak para adultos
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso", - Tramos de ríos cercanos a Pamplona.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Alumnado pintura Civivox  - Civivox Milagrosa
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Milagrosa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
