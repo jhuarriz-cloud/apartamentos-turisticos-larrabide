@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-12T15:05:04.699407"
+lastmod: "2026-10-13T14:00:06.200092"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 12/10/2026 15:05
+Última actualización: 13/10/2026 14:00
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Pasolini, Petróleo. Una ficción documental</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-12 de octubre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-19:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala de Cámara
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/encuentros-pamplona-2026-pasolini-petroleo-una-ficcion-documental-12octubre"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -134,6 +95,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/gran-misa-mozart-orfeon-pamplones-y-osn-16-octubre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Go!azen 13 Preestreno</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+17 de octubre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+17:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/goazen-13-preestreno-17-octubre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -1460,6 +1460,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/luz-casal-me-voy-a-permitir-26-diciembre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>La Gran Zarzuela y nuestra Jota</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+27 de diciembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+18:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/la-gran-zazuela-y-nuestra-jota-27-diciembre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >

@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 12/10/2026 15:04.*
+*Información actualizada el 13/10/2026 13:58.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Teatro música - The crazy Mozarts - Teatro Gayarre
+## Ciclo Escritoras en el Cine - Proyección - Almudena - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentros de Pamplona - Exposición - Taxio Ardanaz y Andrea Ganuza
-
-<p class="evento-lugar"><strong>Lugar:</strong> - En las calles del casco viejo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,51 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XI Feria del Producto Local - Mercado de productos locales
+## Encuentro poético en euskera - REC - Civivox Condestable
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala de actos.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentros de Pamplona - Exposición - Fontana Nº3 - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, - Planta baja.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Fiestas del barrio de Etxabakoitz 2026
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentros de Pamplona 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, Teatro Gayarre, Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, Parroquia San Saturnino, La Ciudadela</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/12</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -99,6 +45,20 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Casa de las Mujeres - Octubre 2026 / Febrero 2027 - Sin inscripción
+
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/02/28</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +101,46 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Milagrosa</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Escuela de los encuentros / Topaketen Eskola - Civivox Condestable
+
+<p class="evento-lugar"><strong>Lugar:</strong> - En el patio del Palacio Condestable.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Capital de la Pelota Vasca 2026 - Eventos
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XX Aniversario Biblioteca Mendillorri
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
