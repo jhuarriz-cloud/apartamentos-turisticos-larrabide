@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 13/10/2026 13:58.*
+*Información actualizada el 14/10/2026 11:36.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Escritoras en el Cine - Proyección - Almudena - Biblioteca de Navarra
+## Cuentacuentos en euskera - Behin munduan, ipuinak liburutegian- Krokodiloa- Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentro poético en euskera - REC - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala de actos.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Exposición - Mural colaborativo del poyecto Sokatira Migratoria - Biblioteca de Navarra
+## Cuentacuentos y taller infantil - El lobo no feroz - Biblioteca Iturrama
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Iturrama</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/13</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,11 +40,81 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Casa de las Mujeres - Octubre 2026 / Febrero 2027 - Sin inscripción
+## Antzerki Aroa 2026 - Teatro en euskera - Zanbuila - ENT
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/02/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Autobús informativo - Cambia el filtro
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza Manuel Turrillas.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conferencia - Meditaciones activas y gestión de emociones - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Conferencia - Los caminos del derecho a la educación
+
+<p class="evento-lugar"><strong>Lugar:</strong> Espacio de Memoria y Convivencia - Rozalejo, - Salón de actos.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo "....Y de pronto, todo cambió. Navarra y Euskadi 1960-1980" - Conferencia - Vecinos y hermanos...depende de los días
+
+<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Encuentro de Empleo y Emprendimiento
+
+<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -87,60 +143,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso", - Tramos de ríos cercanos a Pamplona.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Alumnado pintura Civivox  - Civivox Milagrosa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Milagrosa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Escuela de los encuentros / Topaketen Eskola - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> - En el patio del Palacio Condestable.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Capital de la Pelota Vasca 2026 - Eventos
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XX Aniversario Biblioteca Mendillorri
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
