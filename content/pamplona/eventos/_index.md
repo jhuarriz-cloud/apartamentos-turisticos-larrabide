@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 14/10/2026 11:36.*
+*Información actualizada el 15/10/2026 11:14.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos en euskera - Behin munduan, ipuinak liburutegian- Krokodiloa- Biblioteca de Navarra
+## Cuentacuentos - Anayet, la defensora de los glaciares - Biblioteca San Pedro
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cuentacuentos y taller infantil - El lobo no feroz - Biblioteca Iturrama
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Iturrama</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Antzerki Aroa 2026 - Teatro en euskera - Zanbuila - ENT
+## Cuentacuentos - Con Kamishibai - Biblioteca Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Autobús informativo - Cambia el filtro
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza Manuel Turrillas.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Conferencia - Meditaciones activas y gestión de emociones - Biblioteca de Navarra
+## Festival de Remonte - 15/10/2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - Los caminos del derecho a la educación
-
-<p class="evento-lugar"><strong>Lugar:</strong> Espacio de Memoria y Convivencia - Rozalejo, - Salón de actos.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo "....Y de pronto, todo cambió. Navarra y Euskadi 1960-1980" - Conferencia - Vecinos y hermanos...depende de los días
+## Ciclo Confluencias - Encuentro - Periodismo cultural: construir un horizonte de atención - La Ciudadela
 
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentro de Empleo y Emprendimiento
-
-<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +68,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Jornadas participativas - Civivox Condestable
+## Conferencia - José Miguel Albizu
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Corte Inglés, sala Ámbito Cultural.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concierto - Orquesta Sinfónica de Navarra - Baluarte - 15/10/26
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Presentación de libro - Confianza Agustina - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Club de cine en francés - La bataille D"Alger /  La batalla de Argel - Biblioteca de San Jorge
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Lectura dramatizada - Y volver, volver, volver - Civivox Condestable
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +138,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Actividades Escuela Piragüismo - Iniciación al Kayak para adultos
+## Exhibición musical - Bosquecillo
 
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Municipal de Piragüismo "Molino de Caparroso", - Tramos de ríos cercanos a Pamplona.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Parque - El Bosquecillo</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
