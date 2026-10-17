@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 16/10/2026 11:09.*
+*Información actualizada el 17/10/2026 10:28.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Teatro - 100 m2 - Civivox Iturrama
+## Ciclo Harizko Zubiak Ehuntzen - Encuentro - Ameslariak etorkizunari begira
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Eusko Kultur Mintegia (Travesía Las Huertas).</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/16</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,81 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Concierto - Melendi - Navarra Arena
+## Ciclo Harizko Zubiak Ehuntzen - Concierto - Odei Barroso y Broken Brothers Brass Band
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Laba (Plaza del Castillo, 2)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Día Internacional del Cáncer de Mama 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concierto - Victor Manuel - Baluarte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo de cine para la tolerancia y contra el terrorismo
+
+<p class="evento-lugar"><strong>Lugar:</strong> Colegio San Ignacio (PP Jesuítas)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## 8º Aniversario -  Geltoki
+
+<p class="evento-lugar"><strong>Lugar:</strong> Geltoki - Espacio de cultura e intercambio</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival - Doinu bat - Navarra Arena
 
 <p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/16</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/17</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +110,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Teatro - Los dos hidalgos de Verona - Teatro Gayarre
+## IX Festival de Micro Artes Escénicas - Microstable 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Plaza del Castillo., Casa de Cultura - Fray Diego     (ESTELLA / LIZARRA), - Elizondo.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/16</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## VIII Festival Letraheridas 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Librería Restaurante Katakrak, Escuela Navarra de Teatro (ENT)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -59,88 +143,6 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Grabado - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Atrio, 1ª planta.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Escuela de los encuentros / Topaketen Eskola - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> - En el patio del Palacio Condestable.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/18</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Capital de la Pelota Vasca 2026 - Eventos
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XX Aniversario Biblioteca Mendillorri
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Octubre trans 2026 - Centro Harrotu (LGTBI)
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Harrotu (LGTBI - Lesbianas, Gays, Transexuales, Transgénero, Bisexuales e Intersexuales), Civivox Iturrama, Civivox Mendillorri, Civivox Pompelo, Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival Teatrodix
-
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
