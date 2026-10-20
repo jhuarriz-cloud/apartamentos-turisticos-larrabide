@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 19/10/2026 12:47.*
+*Información actualizada el 20/10/2026 11:17.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Día de las escritoras - Conferencia - Sin ellas, la foto no está completa. Cartas: las redes sociales de las poetas del 27 - Biblioteca de Navarra
+## Cuentacuentos - El vestido de Tomás - Biblioteca San Francisco
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de Proyecciones.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Francisco</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - Nuestra mente nos engaña - Civican
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Auditorio.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,9 +26,37 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XXXIV Semana Cultural Hispano Alemana
+## Semana de la Inteligencia Artificial (IA) 2026 - Mesa redonda - ¿Van a desaparecer los profesionales junior? Educación, empleo y aprendizaje en la era de la IA - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Colegio Oficial de Médicos de Navarra, El Corte Inglés, - Espacio Cultural., Civivox Iturrama, - Salón de Actos., Civivox Pompelo, - Salón de Actos., Sala de Usos Múltiples - Calderería, - Restaurante Balú (Marqués de Rozalejo 4).  - Iglesia de los Dom...</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Recital María Luisa en VERSOS - Centro Comunitario Salesianas
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Comunitario Txantrea, - Salón de actos.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XXXVII Semana Cultural de Casas Regionales en Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Cámara Navarra de Comercio, Industria y Servicios, Ayuntamiento de Pamplona, Civivox Pompelo, Palacio de Navarra, Parroquia San Nicolás</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
 
@@ -125,20 +139,6 @@ Consultar agenda oficial
 ## IX Festival de Micro Artes Escénicas - Microstable 2026
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Plaza del Castillo., Casa de Cultura - Fray Diego     (ESTELLA / LIZARRA), - Elizondo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Semana del Clima 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Educación Ambiental del Ayuntamiento de Pamplona, Oficina Verde Milagrosa - Arrosadia del Ayuntamiento de Pamplona</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
 

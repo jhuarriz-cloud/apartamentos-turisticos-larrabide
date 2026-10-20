@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-19T12:48:54.495796"
+lastmod: "2026-10-20T11:18:59.388974"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 19/10/2026 12:48
+Última actualización: 20/10/2026 11:18
 </p>
 
 
@@ -1577,6 +1577,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/nadine-sierra-gala-lirica-temporada-2627-fb-9-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Go!azen 13 Kontzertuak</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+10 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+16:15
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/goazen-13-kontzertuak-10-enero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
