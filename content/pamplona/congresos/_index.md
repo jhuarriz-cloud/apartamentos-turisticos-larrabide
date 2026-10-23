@@ -10,11 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 21/10/2026 11:34.*
-
-## oct 26 - 28 Jornadas de Ayudas Directas de la PAC Sala Ciudadela 26/10: 15:30 - 18:30 27/10: 15:30 - 19:30 28/10: 9:00 - 14:00 Ver evento
-
-[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/jornadas-ayudas-directas-de-la-pac-26-27-28-octubre-2026)
+*Información actualizada el 23/10/2026 11:24.*
 
 ## oct 27 - 28 II Congreso Nacional Red de Líderes Sala Luneta 27/10: 11:00 - 18:00 28/10: 9:30 - 13:45 Ver evento
 

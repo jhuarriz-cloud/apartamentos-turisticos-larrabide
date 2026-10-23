@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 22/10/2026 11:34.*
+*Información actualizada el 23/10/2026 11:23.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Recital poético - Renacimiento - Biblioteca Pública San Francisco
+## Ciclo Harizko Zubiak Ehuntzen - Concierto - Habia Taldea y Garazi Esnaola
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Francisco</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Laba (Plaza del Castillo, 2).</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Escape Room - Misión 2030: el legado de Pamplona - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival de Remonte - 22/10/2026
+## Presentación de libro - (In)Consciente - Biblioteca de San Jorge
 
-<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concierto - 80 Aniversario Coral de Cámara de Pamplona - Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Teatro - IN-visibles - Biblioteca Txantrea
+## Presentación de libro - Un lugar al que llegar: mapa político de la transición energética - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - Poesía de barro, una antología de Otagaki Rengetsu - Biblioteca Yamaguchi
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,11 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - El código de Gaueko
+## Teatro - Dos familias - ENT
 
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala del Ámbito Cultural.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,11 +68,37 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Teatro - Heisenberg - Teatro Gayarre
+## Ciclo de conciertos - La Pamplonesa - Concierto para una nueva época - Teatro Gayarre
 
 <p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Capital de la Pelota Vasca 2026 - Eventos
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XX Aniversario Biblioteca Mendillorri
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,9 +122,23 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Capital de la Pelota Vasca 2026 - Eventos
+## Ruta del PintxoPato
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/01</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Wind and Soul - Civivox Condestable
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
