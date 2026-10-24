@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 23/10/2026 11:23.*
+*Información actualizada el 24/10/2026 10:42.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Harizko Zubiak Ehuntzen - Concierto - Habia Taldea y Garazi Esnaola
+## Ciclo CineTag - Cine - Los 400 golpes - Casa de la Juventud
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Laba (Plaza del Castillo, 2).</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - (In)Consciente - Biblioteca de San Jorge
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - Un lugar al que llegar: mapa político de la transición energética - Biblioteca de Navarra
+## Jornada de voluntariado - Limpieza del monte Ezkaba
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,11 +38,95 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Teatro - Dos familias - ENT
+## III Ciclo Pompaelo Antiqua - Concierto - Fantasía y obstinación
+
+<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - El Refectorio.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo de Música Antigua - Concierto - Pompaelo Antiqua - Catedral de Pamplona
+
+<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - En el Refectorio (entrada por c/ Dormitalería).</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Lectura dramatizada - Y volver, volver, volver - Centro comunitario Salesiana
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Comunitario Txantrea</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XIII Jornada sobre el duelo - Duelos escondidos. Cuando el dolor se silencia - Civican
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concierto - Vetusta Morla - Navarra Arena
+
+<p class="evento-lugar"><strong>Lugar:</strong> Navarra Arena</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Octubre trans 2026 - Centro Harrotu (LGTBI)
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Harrotu (LGTBI - Lesbianas, Gays, Transexuales, Transgénero, Bisexuales e Intersexuales), Civivox Iturrama, Civivox Mendillorri, Civivox Pompelo, Casa de la Juventud del Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival Teatrodix
 
 <p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,77 +136,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo de conciertos - La Pamplonesa - Concierto para una nueva época - Teatro Gayarre
+## VIII Festival Letraheridas 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Librería Restaurante Katakrak, Escuela Navarra de Teatro (ENT)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Capital de la Pelota Vasca 2026 - Eventos
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XX Aniversario Biblioteca Mendillorri
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## VIII Jornadas de Cultura Clásica de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Navarra, - Salón de actos., Instituto de Educación Secundaria Plaza de la Cruz</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Ruta del PintxoPato
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/01</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Wind and Soul - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
