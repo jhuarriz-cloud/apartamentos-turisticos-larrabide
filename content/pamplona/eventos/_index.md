@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 25/10/2026 11:07.*
+*Información actualizada el 26/10/2026 12:40.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## XV Carrera Solidaridad contra el Cáncer de Mama
+## Conferencia - Hallazgos en las excavaciones de la Ronda del Obispo Barbazán - Civivox Pompelo
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Plaza del Castillo.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concierto - Anastacia - Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## IX Festival de Micro Artes Escénicas - Microstable 2026
+## Jornada - Cosmos 2026. Mujeres que innovan - Civican
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Plaza del Castillo., Casa de Cultura - Fray Diego     (ESTELLA / LIZARRA), - Elizondo.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Semana del Clima 2026
-
-<p class="evento-lugar"><strong>Lugar:</strong> Museo de Educación Ambiental del Ayuntamiento de Pamplona, Oficina Verde Milagrosa - Arrosadia del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XXXVII Semana Cultural de Casas Regionales en Navarra
+## Recital poético - Versos que salen de la tierra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Cámara Navarra de Comercio, Industria y Servicios, Ayuntamiento de Pamplona, Civivox Pompelo, Palacio de Navarra, Parroquia San Nicolás</p>
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Wind and Soul - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,39 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XX Edición Mapamundistas 2026
+## XXXI Ciclo Coral Internacional de Navarra 2026 - Concierto - 26/10/26
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama, Civivox Condestable, Museo de Navarra, La Ciudadela, Centro de Información y Educación Ambiental - Batán de Villava  (VILLAVA / ATARRABIA), Centro de Arte Contemporáneo - Arte Garaikideko Zentroa          (HUARTE / UHARTE)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Parroquia San Enrique</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XXXIV Semana Cultural Hispano Alemana
-
-<p class="evento-lugar"><strong>Lugar:</strong> Colegio Oficial de Médicos de Navarra, El Corte Inglés, - Espacio Cultural., Civivox Iturrama, - Salón de Actos., Civivox Pompelo, - Salón de Actos., Sala de Usos Múltiples - Calderería, - Restaurante Balú (Marqués de Rozalejo 4).  - Iglesia de los Dom...</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Teatro - Gigante - Teatro Gayarre
-
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +73,76 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala de exposiciones.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Shortzinema 2026 - Cine - Filmoteca Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival Filmmaking for Social Change
+
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, Museo de Navarra, Cine Golem Yamaguchi</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - El viaje de tu camiseta vintage - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de exposiciones.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Juan Carlos Pikabea
+
+<p class="evento-lugar"><strong>Lugar:</strong> Parlamento de Navarra - Oficinas Generales, - Atrio.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - El derecho a la ciudad a través de la gobernanza participativa y la gestión eficiente en el municipio de Maputo - Civivox Jus La Rocha
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Jus la Rocha</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
