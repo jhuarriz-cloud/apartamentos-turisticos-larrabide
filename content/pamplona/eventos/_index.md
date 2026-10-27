@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 26/10/2026 12:40.*
+*Información actualizada el 27/10/2026 11:56.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Conferencia - Hallazgos en las excavaciones de la Ronda del Obispo Barbazán - Civivox Pompelo
+## XXXI Ciclo Coral Internacional de Navarra 2026 - Concierto - 27/10/26
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - Iglesia San Miguel.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Jornada - Cosmos 2026. Mujeres que innovan - Civican
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Recital poético - Versos que salen de la tierra
+## Ciclo Escritoras en el cine - Proyección - Los mundos de Zenobia - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,11 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XXXI Ciclo Coral Internacional de Navarra 2026 - Concierto - 26/10/26
+## Teatro - Teatro da mangiare? - Teatro Gayarre
 
-<p class="evento-lugar"><strong>Lugar:</strong> Parroquia San Enrique</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -141,6 +127,20 @@ Consultar agenda oficial
 ## Exposición - El derecho a la ciudad a través de la gobernanza participativa y la gestión eficiente en el municipio de Maputo - Civivox Jus La Rocha
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Jus la Rocha</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ecuentros de Pamplona - Exposición - Un lugar que no es aquí - La Ciudadela
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal, - Primera panta.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
 

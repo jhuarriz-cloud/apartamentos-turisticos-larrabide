@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-10-26T12:51:24.885196"
+lastmod: "2026-10-27T11:57:57.665818"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 26/10/2026 12:51
+Última actualización: 27/10/2026 11:57
 </p>
 
 
@@ -212,6 +212,84 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/orquesta-sinfonica-de-navarra-t2627-abono2-el-tiempo-de-los-maestros"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Chambao - 25 Aniversario</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+06 de noviembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/chambao-25aniversario-6-noviembre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>El Cascanueces</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+08 de noviembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+18:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/el-cascanueces-imperial-heritage-ballet-8-noviembre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -1123,6 +1201,45 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>Alabama Gospel Choir</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+29 de diciembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/alabama-gospel-choir-29-diciembre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>Ene Kantak - Amagoia Dragoia eta Txantreako Erraldoiak</h2>
 
 <div class="evento-datos">
@@ -1148,6 +1265,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/ene-kantak-amagoia-dragoia-txantreako-erraldoiak-2-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Rodrigo Cuevas - La Belleza</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+04 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/rodrigo-cuevas-concierto-la-belleza-4-enero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -2396,6 +2552,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/dire-straits-brothers-in-band-tributo-14-mayo-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Jakub Józef Orliński - Stabat Mater</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+16 de mayo de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+18:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/jakub-jozef-orlinski-stabat-mater-16-mayo-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
