@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 28/10/2026 12:33.*
+*Información actualizada el 29/10/2026 12:43.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo Harizko Zubiak Ehuntzen - Conferencia - Familiak, zubiak, egonaldiak
+## Cuentacuentos en euskera - Ipuin Kontaketa- Biblioteca Milagrosa - 29/10/2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Irauli (Plaza del Castillo, 4).</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Milagrosa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Antzerki Aroa 2026 - Teatro en euskera - Rikardo III eta ni - ENT
-
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller - Rehabilitación Energética y Regenaración Urbana: Los Proyectos de Intervencion Global
+## Club de lectura en euskera - Eraikuntzarako materiala - Biblioteca San Jorge
 
-<p class="evento-lugar"><strong>Lugar:</strong> Oficina Verde Milagrosa - Arrosadia del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## XXXI Ciclo Coral Internacional de Navarra 2026 - Concierto - 28/10/26
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Iglesia de la Paz.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,11 +40,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Cuentacuentos - Con Kamishibai - Biblioteca de Navarra
+## Festival de Remonte - 29/10/2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Erremonte-jaialdia - 2026/10/29
+
+<p class="evento-lugar"><strong>Lugar:</strong> Labrit pilotalekua</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ipuin-kontaketa euskaraz - Ipuin Kontaketa - Milagrosako liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Milagrosako liburutegi publikoa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Euskarazko irakurketa-kluba - Eraikuntzarako materiala - Sanduzelaiko liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Sanduzelaiko liburutegi publikoa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Taller de poesía - Cereza-Dadá - Biblioteca de Navarra
 
 <p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -82,25 +110,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller de poesía - Cartografía del viento - Biblioteca de Navarra
+## Presentación de libro - La algarabía del silencio - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala polivalente.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - Nadie te cuida como tu
-
-<p class="evento-lugar"><strong>Lugar:</strong> Diario de Navarra               (CORDOVILLA (GALAR)), - c/ Zapatería, 49.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,25 +124,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo "....Y de pronto, todo cambió. Navarra y Euskadi 1960-1980" - Conferencia - Las artes vascas en el magma de las disidencias, 1960-1980
+## Cuentacuentos - Kamishibai - Biblioteca Pública de Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Teatro - Teatro da mangiare? - Teatro Gayarre
-
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/28</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +138,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Semana del Terror - Casa de la Juventud
+## Ciclo Gigantes de la Catedral de Pamplona - Conferencia - Modelado digital y materialización de las figuras
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - Sacristía Mayor (c/ Dormitalería 1).</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/31</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
