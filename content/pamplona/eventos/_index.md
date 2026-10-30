@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 29/10/2026 12:43.*
+*Información actualizada el 30/10/2026 12:35.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos en euskera - Ipuin Kontaketa- Biblioteca Milagrosa - 29/10/2026
+## Presentación de libro - Hay en medio de ti - Biblioteca de San Jorge
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Milagrosa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Club de lectura en euskera - Eraikuntzarako materiala - Biblioteca San Jorge
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Jorge</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival de Remonte - 29/10/2026
+## Presentación de libro - Hay en medio de ti - Biblioteca San Pedro
 
-<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Erremonte-jaialdia - 2026/10/29
-
-<p class="evento-lugar"><strong>Lugar:</strong> Labrit pilotalekua</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ipuin-kontaketa euskaraz - Ipuin Kontaketa - Milagrosako liburutegia
+## Harizko Zubiak Ehuntzen zikloa - Liburu-aurkezpena - Maiatz argitaletxea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Milagrosako liburutegi publikoa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Karrikiri liburu-denda</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Euskarazko irakurketa-kluba - Eraikuntzarako materiala - Sanduzelaiko liburutegia
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sanduzelaiko liburutegi publikoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller de poesía - Cereza-Dadá - Biblioteca de Navarra
+## Ciclo Harizko Zubiak Ehuntzen - Presentación libros - Editorial Maiatz
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala infantil.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Librería Karrikiri</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Presentación de libro - La algarabía del silencio - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Cuentacuentos - Kamishibai - Biblioteca Pública de Yamaguchi
+## Liburu-aurkezpena - Hay en medio de ti - Sanduzelaiko liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
+<p class="evento-lugar"><strong>Lugar:</strong> San Pedroko liburutegi publikoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +82,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Gigantes de la Catedral de Pamplona - Conferencia - Modelado digital y materialización de las figuras
+## Liburu-aurkezpena - Hay en medio de ti - San Pedroko Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - Sacristía Mayor (c/ Dormitalería 1).</p>
+<p class="evento-lugar"><strong>Lugar:</strong> San Pedroko liburutegi publikoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/29</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Unibertsitateko Karparen XXXVII. edizioa
+
+<p class="evento-lugar"><strong>Lugar:</strong> Amaya Kirol Hiria kluba</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concierto - Federico Albanese - Baluarte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de Cámara.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concierto - El kanka - Baluarte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Kontzertua - El kanka - Baluarte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma, - Areto nagusia.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/10/30</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
