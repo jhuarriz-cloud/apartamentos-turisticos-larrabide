@@ -6,33 +6,9 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 01/11/2026 13:01.*
+*Información actualizada el 02/11/2026 15:24.*
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-## Ruta del PintxoPato
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/01</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## PintxoPato ibilbidea
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/01</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
 
 <article class="evento-card">
 
@@ -139,6 +115,32 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Ziudadelako mistoen eraikineko aretoa - Udal Erakusketa Aretoa</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - José Luis Fincias
+
+<p class="evento-lugar"><strong>Lugar:</strong> Galeria Michel Menéndez (Antigua Galería San Antón)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/18</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Euskal Pilotaren Hiriburua 2026 - Bisita gidatuak
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/05</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
