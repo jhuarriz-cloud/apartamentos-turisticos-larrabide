@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-02T15:25:04.842660"
+lastmod: "2026-11-03T13:59:21.009941"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 02/11/2026 15:25
+Última actualización: 03/11/2026 13:59
 </p>
 
 
@@ -1279,45 +1279,6 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
-<h2>Go!azen 13 Kontzertuak</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-10 de enero de 2027
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-16:15
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/goazen-13-kontzertuak-10-enero-2027"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
 <h2>Euskadiko Orkestra</h2>
 
 <div class="evento-datos">
@@ -1655,6 +1616,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/janus-lester-popera-en-directo-14-febrero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Hija de la luna - Homenaje a Mecano</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+19 de febrero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+21:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/hija-de-la-luna-homenaje-a-mecano-19-febrero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -2084,6 +2084,45 @@ Sala de Cámara
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-molto-barroco-piscore-teatro-20-marzo"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Puro Relajo</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+21 de marzo de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/puro-relajo-castillos-en-el-aire-21-marzo-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
