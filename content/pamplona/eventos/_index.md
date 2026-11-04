@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 03/11/2026 13:58.*
+*Información actualizada el 04/11/2026 14:12.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos - Bum y el tesoro del pirata- Biblioteca Mendillorri
+## Cuentacuentos - La Hora del Cuento - Biblioteca San Pedro
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Mendillorri</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/03</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## II Muestra de cine Irlandés - Ciclo de conferencias Navarra y la fachada atlántica - Navarra será la maravilla del mundo
-
-<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/03</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,81 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Mesa redonda - Una pregunta para cada historia
+## Cafeteando - Conferencia - Hablamos de los 20 años de la Asesoría Psicológica - Casa de la Juventud
+
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Antzerki Aroa 2026 - Teatro en euskera - Sidari - ENT
+
+<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Presentación de Libro - El pistachito aventurero. Un ala amiga - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Infantil.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo Narrativas de memoria personal - Conferencia - Vivir y escribir entre lenguas - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo La ciudad en el cine clásico II - Cine - Rififí - Filmoteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Filmoteca de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Mesa redonda - Una máscara en la ciudad
 
 <p class="evento-lugar"><strong>Lugar:</strong> Librería Restaurante Katakrak</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/03</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,25 +110,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Talleres Pamplona es Moda / Iruña Moda da
+## Ciclo "....Y de pronto, todo cambió. Navarra y Euskadi 1960-1980" - Mesa redonda - Oteiza en la cultura vasca (1959-79): fecundidad y malentendido
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Según actividad.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Museo Universidad de Navarra (MUN)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - 25 años bailando en el barrio - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -82,25 +124,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Erakusketa - 25 urte auzoan dantzan - Kondestablearen Civivoxa
+## Oroimen pertsonalaren narratibak zikloa - Hitzaldia - Hizkuntzen artean bizitzea eta idaztea - Nafarroako Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa, - Ezkaratza.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - 1. solairuko aretoa.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - El bestiario en cuatro portadas románicas navarras - Civivox Iturrama
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,39 +138,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Erakusketa - Bestiarioa Nafarroako lau portada erromanikotan - Iturramako Civivoxa
+## «....Eta bat-batean, dena aldatu zen. Nafarroa eta Euskadi 1960-1980» zikloa - Mahai-ingurua - Oteiza euskal kulturan (1959-79): emankortasuna eta gaizki-ulertua
 
-<p class="evento-lugar"><strong>Lugar:</strong> Iturramako Civivoxa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Unibertsitateko Museoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Encuentros de Pamplona - Exposición - Web - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala del Horno de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - Mapamundistas - La Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala del Pabellón de Mixtos de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/04</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

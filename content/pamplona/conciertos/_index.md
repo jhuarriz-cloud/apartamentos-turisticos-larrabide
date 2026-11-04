@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-03T13:59:21.009941"
+lastmod: "2026-11-04T14:13:16.328695"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 03/11/2026 13:59
+Última actualización: 04/11/2026 14:13
 </p>
 
 
@@ -953,6 +953,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/concierto-de-navidad-osn-coro-joven-orfeon-pamplones-22-diciembre-2026"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Sinfonietta de Pamplona - De otro planeta</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+23 de diciembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/sinfonietta-pamplona-de-otro-planeta-23-diciembre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >
