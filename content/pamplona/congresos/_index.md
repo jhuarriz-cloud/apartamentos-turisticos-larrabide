@@ -10,11 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 05/11/2026 15:20.*
-
-## nov 6 XXXVIII Congreso anual de Sociedad Vasco Navarra de Patología del Aparato Respiratorio 8:30 - 19:30 Ver evento
-
-[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/xxxviii-congreso-patologia-aparato-respiratorio-6-noviembre-2026)
+*Información actualizada el 07/11/2026 12:49.*
 
 ## nov 6 - 7 XLVIII Congreso Regional de la Sociedad Vasco-Navarra de Patología Digestiva (SVNPD) Sala de Cámara 06/11: 16:00 - 20:00 07/11: 9:30 - 13:15 Ver evento
 
