@@ -10,11 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 07/11/2026 12:49.*
-
-## nov 6 - 7 XLVIII Congreso Regional de la Sociedad Vasco-Navarra de Patología Digestiva (SVNPD) Sala de Cámara 06/11: 16:00 - 20:00 07/11: 9:30 - 13:15 Ver evento
-
-[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/congreso-regional-sdad-vasco-navarra-patologia-digestiva-6-7-noviembre-2026)
+*Información actualizada el 08/11/2026 13:08.*
 
 ## nov 9 - 12 47 Congreso Anual Asociación Española de GreenKeepers 2026 Ver evento
 

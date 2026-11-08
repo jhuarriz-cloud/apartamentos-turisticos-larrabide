@@ -6,101 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 07/11/2026 12:48.*
+*Información actualizada el 08/11/2026 13:07.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo CineTag - Cine - Hereditary - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival #CivivoxInTheMapping - Teatro - Bihotz Bihotzez/De todo corazón - Civivox Mendillorri
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Mendillorri</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## CineTag zikloa - Zinema - Hereditary - Gaztediaren Etxea
-
-<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Udaleko Gaztediaren Etxea</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## #CivivoxInTheMapping jaialdia - Antzerkia - Bihotz Bihotzez/De todo corazón - Mendillorriko Civivoxa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Mendillorriko Civivoxa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Taller de escritura bilingüe - Sala de Armas de la Ciudadela
-
-<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Idazketa elebiduneko lantegia - Ziudadelako Armen Aretoa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Ziudadelako armen aretoa - Udal Erakusketa Aretoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Espectáculo - Ángel Martín - Baluarte
+## Danza - El cascanueces - Baluarte
 
 <p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ikuskizuna - Ángel Martín - Baluarte
+## Dantza - Intxaur-hauskailua - Baluarte
 
 <p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma, - Areto nagusia.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Concentración de Dulzaineros 2026
+## Exposición - El bestiario en cuatro portadas románicas navarras - Civivox Iturrama
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de Castilla y León</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +54,95 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## VI Festival Narices / Sudurrak 2026 - El paraíso de los rotos - ENT
+## Erakusketa - Bestiarioa Nafarroako lau portada erromanikotan - Iturramako Civivoxa
 
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Iturramako Civivoxa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/07</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Antzerkia - Malquerida - Gayarre antzokia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Malquerida - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## III Ciclo Cultural Record-Arte
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Record-Arte III. kultur zikloa
+
+<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/16</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## III. Iruñaldia jaialdia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia, Karrikiri liburu-denda, Kondestableko Civivoxa, Katakrak liburu-denda eta jatetxea, Pompeloko Civivoxa, Geltoki - Kultura eta trukerako gunea, Nafarroako Antzerki Eskola, - Laba (Gazteluko plaza 2)., - Udaletxe plaza.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## III Festival Iruñaldia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre, Librería Karrikiri, Civivox Condestable, Librería Restaurante Katakrak, Civivox Pompelo, Geltoki - Espacio de cultura e intercambio, Escuela Navarra de Teatro (ENT), - Laba (Plaza del Castillo 2)., - Plaza Consistorial.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
