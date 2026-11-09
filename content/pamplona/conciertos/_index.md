@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-08T13:08:09.371004"
+lastmod: "2026-11-09T15:52:22.345564"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 08/11/2026 13:08
+Última actualización: 09/11/2026 15:52
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>El Cascanueces</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-08 de noviembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-18:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/el-cascanueces-imperial-heritage-ballet-8-noviembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -1226,6 +1187,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/nadine-sierra-gala-lirica-temporada-2627-fb-9-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>El Cascanueces</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+12 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/el-cascanueces-tchaikovsky-national-ballet-12-enero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >

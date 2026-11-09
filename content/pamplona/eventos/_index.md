@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 08/11/2026 13:07.*
+*Información actualizada el 09/11/2026 15:51.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Danza - El cascanueces - Baluarte
+## Ciclo de cine Cuentan, ellas cuentan - Osama - Biblioteca Txantrea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Dantza - Intxaur-hauskailua - Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma, - Areto nagusia.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Exposición - El bestiario en cuatro portadas románicas navarras - Civivox Iturrama
+## Cuentan, ellas cuentan zine-zikloa - Osama - Txantreako liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Iturrama</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Txantreako liburutegi publikoa, - Javier Rey aretoa.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Erakusketa - Bestiarioa Nafarroako lau portada erromanikotan - Iturramako Civivoxa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Iturramako Civivoxa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Antzerkia - Malquerida - Gayarre antzokia
+## Ciclo Menopausia y perimenopausia - Conferencia - Repensar el climaterio: salud, derechos y atención integral - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Teatro - Malquerida - Teatro Gayarre
-
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/08</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,11 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## III Ciclo Cultural Record-Arte
+## Exposición - El txoko de la cooperación - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Pasillo planta 1.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/16</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Record-Arte III. kultur zikloa
+## Erakusketa - El txoko de la cooperación - Nafarroako Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - 1. solairuko korridorea.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/12/16</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -143,6 +101,44 @@ Consultar agenda oficial
 <p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre, Librería Karrikiri, Civivox Condestable, Librería Restaurante Katakrak, Civivox Pompelo, Geltoki - Espacio de cultura e intercambio, Escuela Navarra de Teatro (ENT), - Laba (Plaza del Castillo 2)., - Plaza Consistorial.</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Capital de la Pelota Vasca 2026 - Gastronomía
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Euskal Pilotaren Hiriburua 2026 - Gastronomia
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Concurso de pintxos - Pelota en mano / Pilota zure esku
+
+<p class="evento-lugar"><strong>Lugar:</strong> - Bar Haziaberri.  - Pintxo: "Rebolote"., Restaurante Rex Casa de Comidas, - Pintxo: "Pelotari"., - Bar La Radio.  - Pintxo: "Frito especial La Radio"., - Bar restaurante la Remolacha.  - Pintxo: "Tanto de oro"., Bar La Granja, - Pintxo: "Martínez de I...</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
