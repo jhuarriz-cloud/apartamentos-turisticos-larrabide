@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 09/11/2026 15:51.*
+*Información actualizada el 10/11/2026 15:01.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo de cine Cuentan, ellas cuentan - Osama - Biblioteca Txantrea
+## Conferencia - ¿Cómo se hace un libro? - Biblioteca San Francisco
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Francisco</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cuentan, ellas cuentan zine-zikloa - Osama - Txantreako liburutegia
-
-<p class="evento-lugar"><strong>Lugar:</strong> Txantreako liburutegi publikoa, - Javier Rey aretoa.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Menopausia y perimenopausia - Conferencia - Repensar el climaterio: salud, derechos y atención integral - Biblioteca de Navarra
+## Club de lectura libro-álbum - Biblioteca Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de proyecciones.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/09</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - El txoko de la cooperación - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Pasillo planta 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Erakusketa - El txoko de la cooperación - Nafarroako Liburutegia
+## Taller - Haiku - Biblioteca de Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - 1. solairuko korridorea.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi, - Sala Infantil.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## III. Iruñaldia jaialdia
-
-<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia, Karrikiri liburu-denda, Kondestableko Civivoxa, Katakrak liburu-denda eta jatetxea, Pompeloko Civivoxa, Geltoki - Kultura eta trukerako gunea, Nafarroako Antzerki Eskola, - Laba (Gazteluko plaza 2)., - Udaletxe plaza.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,23 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## III Festival Iruñaldia
+## II Muestra de cine Irlandés - Ciclo de conferencias Navarra y la fachada atlántica - Del Pirineo al Atlántico
 
-<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre, Librería Karrikiri, Civivox Condestable, Librería Restaurante Katakrak, Civivox Pompelo, Geltoki - Espacio de cultura e intercambio, Escuela Navarra de Teatro (ENT), - Laba (Plaza del Castillo 2)., - Plaza Consistorial.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Capital de la Pelota Vasca 2026 - Gastronomía
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -122,9 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Euskal Pilotaren Hiriburua 2026 - Gastronomia
+## Antzerkia - Teoría king kong - Gayarre antzokia
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -134,11 +82,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Concurso de pintxos - Pelota en mano / Pilota zure esku
+## Hitzaldia - ¿Cómo se hace un libro? - San Frantziskoko Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Bar Haziaberri.  - Pintxo: "Rebolote"., Restaurante Rex Casa de Comidas, - Pintxo: "Pelotari"., - Bar La Radio.  - Pintxo: "Frito especial La Radio"., - Bar restaurante la Remolacha.  - Pintxo: "Tanto de oro"., Bar La Granja, - Pintxo: "Martínez de I...</p>
+<p class="evento-lugar"><strong>Lugar:</strong> San Frantziskoko Liburutegi Publikoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Teoría king kong - Teatro Gayarre
+
+<p class="evento-lugar"><strong>Lugar:</strong> Teatro Gayarre</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Album-liburuen irakurketa-kluba - Yamaguchiko liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Yamaguchiko liburutegi publikoa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Lantegia - Haiku - Yamaguchiko liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Yamaguchiko liburutegi publikoa, - Haur-aretoa.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/10</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - Rochapea: aquellos tiempos, estas historias - Biblioteca San Pedro
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2027/01/10</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
