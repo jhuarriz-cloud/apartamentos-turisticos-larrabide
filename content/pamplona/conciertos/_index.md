@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-10T15:02:26.293823"
+lastmod: "2026-11-13T11:19:32.741135"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 10/11/2026 15:02
+Última actualización: 13/11/2026 11:19
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Euskadiko Orkestra</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-11 de noviembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-19:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/euskadiko-orkestra-t2627-concierto2-aita-donostia-11-noviembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -719,6 +680,45 @@ Sala de Cámara
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/baluarte-txiki-26-27-anonima-compania-vaiven-circo-19-diciembre"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Jazzy Leap - The Beatles</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+20 de diciembre de 2026
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+19:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/jazzy-leap-the-beatles-20-diciembre-2026"
 target="_blank"
 rel="noopener noreferrer"
 >
@@ -1538,6 +1538,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/los-tenampas-en-la-voz-de-mexico-13-febrero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Rafa Sánchez - Biografía</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+13 de febrero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+21:00
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/rafa-sanchez-biografia-canciones-la-union-13-febrero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >

@@ -10,11 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 08/11/2026 13:08.*
-
-## nov 9 - 12 47 Congreso Anual Asociación Española de GreenKeepers 2026 Ver evento
-
-[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/47-congreso-asociacion-espanola-greenkeepers-9-12-noviembre-2026)
+*Información actualizada el 13/11/2026 11:19.*
 
 ## nov 25 - 27 9º Congreso Internacional y 15º Congreso Nacional de la Asociación de Enfermería Comunitaria (AEC) Ver evento
 
