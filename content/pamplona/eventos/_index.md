@@ -6,7 +6,7 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 13/11/2026 11:18.*
+*Información actualizada el 13/11/2026 14:24.*
 
 <div class="eventos-lista">
 
@@ -82,6 +82,20 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
+## Menopausia eta perimenopausia zikloa - Lantegia - Emakumeen ahotsak gaur egungo poesian: sormena aldaketa xede duen prozesu pertsonal batean - Nafarroako Liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Liburutegia, - 1. solairuko aretoa.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/13</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
 ## III. Iruñaldia jaialdia
 
 <p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia, Karrikiri liburu-denda, Kondestableko Civivoxa, Katakrak liburu-denda eta jatetxea, Pompeloko Civivoxa, Geltoki - Kultura eta trukerako gunea, Nafarroako Antzerki Eskola, - Laba (Gazteluko plaza 2)., - Udaletxe plaza.</p>
@@ -123,20 +137,6 @@ Consultar agenda oficial
 <article class="evento-card">
 
 ## Euskal Pilotaren Hiriburua 2026 - Gastronomia
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concurso de pintxos - Pelota en mano / Pilota zure esku
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Bar Haziaberri.  - Pintxo: "Rebolote"., Restaurante Rex Casa de Comidas, - Pintxo: "Pelotari"., - Bar La Radio.  - Pintxo: "Frito especial La Radio"., - Bar restaurante la Remolacha.  - Pintxo: "Tanto de oro"., Bar La Granja, - Pintxo: "Martínez de I...</p>
 
 <p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
