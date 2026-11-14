@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-13T14:25:26.404067"
+lastmod: "2026-11-14T13:20:16.005834"
 ---
 
 <div class="page-section">
@@ -21,89 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 13/11/2026 14:25
+Última actualización: 14/11/2026 13:20
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>150º Aniversario del nacimiento del compositor Valentín Larrea (1876-1970)</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-13 de noviembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-19:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala de Cámara
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/150-aniversario-compositor-valentin-larrea-13-noviembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Miguel Ríos</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-13 de noviembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-20:00
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/miguel-rios-gira-el-ultimo-vals-13-noviembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
