@@ -6,17 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 14/11/2026 13:19.*
+*Información actualizada el 15/11/2026 13:47.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Festival #CivivoxInTheMapping - Instalación interactiva - Polen - Civivox Mendillorri
+## Festival #CivivoxInTheMapping - Cortometrajes - Mi primer festival de cine - Civivox Mendillorri
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Mendillorri</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## #CivivoxInTheMapping jaialdia - Instalazio interaktiboa - Polen - Mendillorriko Civivoxa
+## #CivivoxInTheMapping jaialdia - Film laburrak - Mi primer festival de cine - Mendillorriko Civivoxa
 
 <p class="evento-lugar"><strong>Lugar:</strong> Mendillorriko Civivoxa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +40,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Confluencias - Encuentro - Bombificadas - La Ciudadela
+## Día Nacional de Enfermedades Neuromusculares 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Sala de Armas de la Ciudadela - Sala de Exposiciones Municipal</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,11 +52,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Confluencias zikloa - Topaketa - Bombificadas - Ziudadela
+## Gaixotasun Neuromuskularren Nazio Eguna (2026)
 
-<p class="evento-lugar"><strong>Lugar:</strong> Ziudadelako armen aretoa - Udal Erakusketa Aretoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +64,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Encuentro - Clubes de lectura en euskera de Navarra 2026 - Biblioteca de Navarra
+## +e Elkartasunezko VIII. Herri Lasterketa - Itxaropenaren Telefonoa - 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala proyecciones.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - IRTEERA ETA HELMUGA: Antoniutti parkea.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Tarde de Ocio - Otaku - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +78,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## III Ciclo Pompaelo Antiqua - Concierto - Le Grand
+## VIII Carrera Popular Solidaria +e - Teléfono de la Esperanza - 2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - El Refectorio.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> - SALIDA Y LLEGADA: parque Antoniutti.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## III. Pompaelo Antiqua zikloa - Kontzertua - Le Grand
-
-<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Andre Maria katedrala, - Errefektorioa.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +92,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Topaketa - Nafarroako euskarazko irakurketa-klubak 2026 - Nafarroako liburutegia
+## Danza - La Mer - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - Proiekzio-aretoa.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +106,35 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## III. Iruñaldia jaialdia
+## Dantza - La Mer - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Gayarre Antzokia, Karrikiri liburu-denda, Kondestableko Civivoxa, Katakrak liburu-denda eta jatetxea, Pompeloko Civivoxa, Geltoki - Kultura eta trukerako gunea, Nafarroako Antzerki Eskola, - Laba (Gazteluko plaza 2)., - Udaletxe plaza.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma, - Areto nagusia.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/14</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Euskal Pilotaren Hiriburua 2026 - Gastronomia
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Capital de la Pelota Vasca 2026 - Gastronomía
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/15</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
