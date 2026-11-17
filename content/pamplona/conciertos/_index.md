@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-15T13:48:16.443716"
+lastmod: "2026-11-17T15:49:45.195192"
 ---
 
 <div class="page-section">
@@ -21,50 +21,11 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 15/11/2026 13:48
+Última actualización: 17/11/2026 15:49
 </p>
 
 
 <div class="eventos-lista">
-
-<article class="evento-card">
-
-<div class="evento-card-content">
-
-<h2>Scapino Ballet Rotterdam - La Mer</h2>
-
-<div class="evento-datos">
-
-<span class="evento-fecha">
-15 de noviembre de 2026
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-hora">
-18:30
-</span>
-
-<span class="evento-separador">·</span>
-
-<span class="evento-sala">
-Sala Principal
-</span>
-
-</div>
-
-<a
-class="evento-boton"
-href="https://baluarte.com/es/agenda/evento/scapino-ballet-rotterdam-la-mer-temporada-2627-fb-15-noviembre-2026"
-target="_blank"
-rel="noopener noreferrer"
->
-Ver información y entradas
-</a>
-
-</div>
-
-</article>
 
 <article class="evento-card">
 
@@ -2176,6 +2137,45 @@ Ver información y entradas
 
 <div class="evento-card-content">
 
+<h2>Los Secretos - Nada es como antes</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+16 de abril de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/los-secretos-nada-es-como-antes-16-abril-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
 <h2>Abraham Cupeiro</h2>
 
 <div class="evento-datos">
@@ -2669,6 +2669,45 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/novena-sinfonia-beethoven-orfeon-pamplones-y-osn-11-junio-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Álex Ubago - 25 Aniversario ¿Qué pides tú?</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+12 de junio de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:30
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala Principal
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/alex-ubago-25-aniversario-que-pides-tu-12-junio-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
