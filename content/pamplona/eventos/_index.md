@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 17/11/2026 15:49.*
+*Información actualizada el 19/11/2026 05:49.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Taller - Palabras que florecen - Biblioteca de San Francisco
+## Cuentacuentos en euskera - Karabi Karaba - Biblioteca Yamaguchi
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Francisco</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Lantegia - Palabras que florecen - San Frantziskoko Liburutegia
-
-<p class="evento-lugar"><strong>Lugar:</strong> San Frantziskoko Liburutegi Publikoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo Menopausia y perimenopausia - Conferencia - Los deseos no se jubilan: sexualidad y climaterio - Biblioteca de Navarra
+## Festival de Remonte - 19/11/2026
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Planta 1.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - ¿Cómo se hace un libro? - Biblioteca Txantrea
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Jornada - Idioma, identidad y diversidad: hacia la convivencia desde múltiples miradas
+## Erremonte-jaialdia - 2026/11/19
 
-<p class="evento-lugar"><strong>Lugar:</strong> Campus Universidad Pública de Navarra (UPNA), - Sala de conferencias del edificio Jerónimo de Ayanz.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Labrit pilotalekua</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Espectáculo audiovisual en euskera - Zerbait sartu zait begian - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Sala de actos.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - Técnicas constructivas tradicionales. Miradas desde Navarra
+## Ipuin-kontaketa euskaraz - Karabi Karaba - Yamaguchiko liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Colegio Oficial de Arquitectos Vasco-Navarro: Delegación de Navarra (COAVN Navarra)</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Yamaguchiko liburutegi publikoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Liburu aurkezpena - Eraikuntza-teknika tradizionalak. Begiradak Nafarroatik
-
-<p class="evento-lugar"><strong>Lugar:</strong> Euskal Herriko Arkitektoen Elkargo Ofiziala: Nafarroako ordezkaritza (COAVN Nafarroa)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ikus-entzunezko ikuskizuna euskaraz - Zerbait sartu zait begian - Kondestablearen Civivoxa
+## Eraldaketa Digitalerako jardunaldiak - OTD Challenge 2026 - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa, - Ekitaldi-aretoa.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Nafarroako Batzar Jauregia eta Auditoriuma, - Ganbera-aretoa; Luneta aretoa eta Ziudadela aretoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +82,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Menopausia eta perimenopausia zikloa - Hitzaldia - Desioak ez dira erretiratzen: sexualitatea eta klimaterioa - Nafarroako Liburutegia
+## Jornadas Transformación Digital - OTD Challenge 2026 - Baluarte
 
-<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - 1. solairuko aretoa.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de Cámara, Luneta y Ciudadela</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/17</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Taller - Crianza positiva 3-6 años - Biblioteca de Navarra - 19/11/26
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Cortometraje - Mi abuela es una estrella - Biblioteca Txantrea
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XI Ciclo de Cine Acogimiento en Familia - Por todo lo alto
+
+<p class="evento-lugar"><strong>Lugar:</strong> Cine Golem Baiona, - Sala 6.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Presentación de libro - La costurera de la reina
+
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
