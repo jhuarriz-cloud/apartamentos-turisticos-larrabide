@@ -6,17 +6,15 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 19/11/2026 05:49.*
+*Información actualizada el 20/11/2026 15:13.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos en euskera - Karabi Karaba - Biblioteca Yamaguchi
+## Día Mundial por los Derechos de la Infancia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de Yamaguchi</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -26,11 +24,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival de Remonte - 19/11/2026
+## Haurren Eskubideen aldeko Mundu Eguna
 
-<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +36,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Erremonte-jaialdia - 2026/11/19
+## Taller en euskera - Barne kartografiak: memoria, isiltasuna eta egunerokotasuna aztertzeko irakurketa eta idazketa dinamikak - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Labrit pilotalekua</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala Polivalente.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Ipuin-kontaketa euskaraz - Karabi Karaba - Yamaguchiko liburutegia
-
-<p class="evento-lugar"><strong>Lugar:</strong> Yamaguchiko liburutegi publikoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +50,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Eraldaketa Digitalerako jardunaldiak - OTD Challenge 2026 - Baluarte
+## II Ciclo de monólogos feministas - Mejor será reirnos - Casa de las mujeres
 
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Nafarroako Batzar Jauregia eta Auditoriuma, - Ganbera-aretoa; Luneta aretoa eta Ziudadela aretoa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea, - Auditorio.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Jornadas Transformación Digital - OTD Challenge 2026 - Baluarte
-
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala de Cámara, Luneta y Ciudadela</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +64,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller - Crianza positiva 3-6 años - Biblioteca de Navarra - 19/11/26
+## Diálogos de Medianoche - Julia Navarro - Civican
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican, - Auditorio.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Cortometraje - Mi abuela es una estrella - Biblioteca Txantrea
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +78,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XI Ciclo de Cine Acogimiento en Familia - Por todo lo alto
+## Bakarrizketa feministen II. zikloa - Mejor será reirnos - Emakumeen Etxea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Cine Golem Baiona, - Sala 6.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Emakumeen Etxea / Iruñeko Emakumeen Etxea, - Auditoriuma.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +92,53 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Presentación de libro - La costurera de la reina
+## Lantegia euskaraz - Barne kartografiak: memoria, isiltasuna eta egunerokotasuna aztertzeko irakurketa eta idazketa dinamikak - Nafarroako Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala de Ámbito Cultural.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Liburutegia, - Erabilera anitzeko aretoa.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/19</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Jardunaldiak - Gobernantza feminista administrazio publikoetan
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Nafarroako Batzar Jauregia eta Auditoriuma</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Jornadas - Gobernanza feminista en las administraciones públicas
+
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - 600 años, una historia compartida - Casa de la Juventud
+
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/20</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
