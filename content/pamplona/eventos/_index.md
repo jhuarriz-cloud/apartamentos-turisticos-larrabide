@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 21/11/2026 14:29.*
+*Información actualizada el 22/11/2026 14:25.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo CineTag - Cine - Lost in Translation - Casa de la Juventud
+## Concierto - Lorca90
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Conservatorio Superior de Música de Navarra, - Ciudad de la Música.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Festival #CivivoxInTheMapping - Teatro - Plenilunio - Civivox Mendillorri
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Mendillorri</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## CineTag zikloa - Zinema - Lost in Translation - Gaztediaren Etxea
+## Exposición - 25 años bailando en el barrio - Civivox Condestable
 
-<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Udaleko Gaztediaren Etxea</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## #CivivoxInTheMapping jaialdia - Antzerkia - Plenilunio - Mendillorriko Civivoxa
-
-<p class="evento-lugar"><strong>Lugar:</strong> Mendillorriko Civivoxa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Irlandako zinemaren II. erakustaldia - Ibilaldi gidatua Iruñean barna - Iruñeko sekretu historiko irlandarrak
+## Erakusketa - 25 urte auzoan dantzan - Kondestablearen Civivoxa
 
-<p class="evento-lugar"><strong>Lugar:</strong> - Irteera Gazteluko plazatik.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa, - Ezkaratza.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## II Muestra de cine Irlandés - Paseo guiado por Pamplona - Secretos históricos irlandeses de Pamplona
-
-<p class="evento-lugar"><strong>Lugar:</strong> - Salida desde Plaza del Castillo.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,11 +54,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Encuentro - Clubes de lectura en castellano de Navarra 2026 - Auditorio Remacha
+## II Semana Navarra de la Ciberseguridad
 
-<p class="evento-lugar"><strong>Lugar:</strong> Auditorio Fernando Remacha</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -110,11 +66,9 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## III Ciclo Pompaelo Antiqua - Concierto - Inter vestibulum
+## Zibersegurtasunaren II. Nafarroako Astea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - El Refectorio.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +78,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo de Música Antigua - Concierto - Pompaelo Antiqua - Catedral de Pamplona
+## Teatro - La fé de La Vulgar - ENT
 
-<p class="evento-lugar"><strong>Lugar:</strong> Catedral de Santa María de Pamplona, - En el Refectorio (entrada por c/ Dormitalería).</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +92,53 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Performance - Herederas - Civivox Mendillorri
+## Nafarroako Nuevo Futuro Elkartearen Rastrilloaren XXXI. edizioa
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Mendillorri</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Estalgunea, Autobus Geltoki Zaharrean</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/21</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Antzerkia - La fé de La Vulgar - NAE
+
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Antzerki Eskola</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## XXXI Edición del Rastrillo de la Asociación Navarra Nuevo Futuro
+
+<p class="evento-lugar"><strong>Lugar:</strong> Plaza cubierta en la Antigua Estación de Autobuses</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival de música Hamaika 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Conservatorio Superior de Música de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
