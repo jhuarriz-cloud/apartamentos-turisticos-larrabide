@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 22/11/2026 14:25.*
+*Información actualizada el 23/11/2026 17:50.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Concierto - Lorca90
+## Ciclo de cine Cuentan, ellas cuentan - Tierra Fría - Biblioteca Txantrea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Conservatorio Superior de Música de Navarra, - Ciudad de la Música.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Exposición - 25 años bailando en el barrio - Civivox Condestable
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Condestable, - Zaguán.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,23 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Erakusketa - 25 urte auzoan dantzan - Kondestablearen Civivoxa
+## Preoyección documental - Nagore - Casa de la Juventud
 
-<p class="evento-lugar"><strong>Lugar:</strong> Kondestableko Civivoxa, - Ezkaratza.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## II Semana Navarra de la Ciberseguridad
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -66,23 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Zibersegurtasunaren II. Nafarroako Astea
+## Cuentan, ellas cuentan zine-zikloa - Tierra Fría - Txantreako liburutegia
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Txantreako liburutegi publikoa, - Javier Rey aretoa.</p>
 
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Teatro - La fé de La Vulgar - ENT
-
-<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -92,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Nafarroako Nuevo Futuro Elkartearen Rastrilloaren XXXI. edizioa
+## Conferencia - sobre la poeta Ernestina de Champourcin - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Estalgunea, Autobus Geltoki Zaharrean</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Antzerkia - La fé de La Vulgar - NAE
-
-<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Antzerki Eskola</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -120,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## XXXI Edición del Rastrillo de la Asociación Navarra Nuevo Futuro
+## Conferencia - Ni olvidadas ni invisibilizadas - Casa de las mujeres
 
-<p class="evento-lugar"><strong>Lugar:</strong> Plaza cubierta en la Antigua Estación de Autobuses</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/22</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -134,11 +82,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival de música Hamaika 2026
+## Club de lectura - Dolores Redondo - Civivox Pompelo
 
-<p class="evento-lugar"><strong>Lugar:</strong> Conservatorio Superior de Música de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Ciclo de Cine Ruso - Documental sobre artesanía - Civivox San Jorge
+
+<p class="evento-lugar"><strong>Lugar:</strong> Civivox San Jorge</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Literatura-topaketa - Mikroipuinak: istorio txikiak, emozio handiak
+
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Ámbito Cultural aretoa.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Encuentro literario - Microrrelatos: pequeñas historias, grandes emociones
+
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala del Ámbito Cultural.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Hitzaldia - Ez ahaztuak ezta ikusezin bihurtuak ere - Emakumeen Etxea
+
+<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Emakumeen Etxea</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
