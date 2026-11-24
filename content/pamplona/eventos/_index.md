@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 23/11/2026 17:50.*
+*Información actualizada el 24/11/2026 17:24.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Ciclo de cine Cuentan, ellas cuentan - Tierra Fría - Biblioteca Txantrea
+## Ciclo de conciertos - Euskadiko Orkestra - Baluarte - 24/11/26
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea, - Sala Javier Rey.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra, - Sala principal.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Preoyección documental - Nagore - Casa de la Juventud
-
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,25 +26,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Cuentan, ellas cuentan zine-zikloa - Tierra Fría - Txantreako liburutegia
+## Kontzertu-zikloa - Euskadiko Orkestra - Baluarte - 26/11/24
 
-<p class="evento-lugar"><strong>Lugar:</strong> Txantreako liburutegi publikoa, - Javier Rey aretoa.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma, - Areto nagusia.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Conferencia - sobre la poeta Ernestina de Champourcin - Biblioteca de Navarra
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala planta 1.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -68,25 +40,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Conferencia - Ni olvidadas ni invisibilizadas - Casa de las mujeres
+## Ciclo Sostenibilidad, igualdad y masculinidades - Conferencia - Masculinidades jóvenes en transformación. Entre el compromiso y la reacción - Biblioteca de Navarra
 
-<p class="evento-lugar"><strong>Lugar:</strong> Casa de las Mujeres de Pamplona / Iruñeko Emakumeen Etxea</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Sala de Proyecciones.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Club de lectura - Dolores Redondo - Civivox Pompelo
-
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox Pompelo</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ciclo de Cine Ruso - Documental sobre artesanía - Civivox San Jorge
+## II Muestra de cine Irlandés - Ciclo de conferencias Navarra y la fachada atlántica - Origen del culto medieval a Santa Brigida Kildare en Olite
 
-<p class="evento-lugar"><strong>Lugar:</strong> Civivox San Jorge</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Centro Cultural y de Ocio de Fundación Caja Navarra - Civican</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Literatura-topaketa - Mikroipuinak: istorio txikiak, emozio handiak
-
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Ámbito Cultural aretoa.</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Encuentro literario - Microrrelatos: pequeñas historias, grandes emociones
+## Irlandako zinemaren II. erakustaldia - Nafarroa eta fatxada atlantikoa hitzaldi-zikloa - Kildareko Santa Brigita Erriberrin: Erdi Aroko gurtzaren jatorria
 
-<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala del Ámbito Cultural.</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Kutxa Fundazioaren Kultura eta Aisialdi Zentroa - Civican</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +82,67 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Hitzaldia - Ez ahaztuak ezta ikusezin bihurtuak ere - Emakumeen Etxea
+## Zikloa: Jasangarritasuna, berdintasuna eta maskulinitateak - Hitzaldia - Eraldatzen ari diren maskulinitate gazteak. Konpromisoaren eta erantzunaren artean - Nafarroako Liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Emakumeen Etxea</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Liburutegia, - Proiekzio-aretoa.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/23</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival de música Hamaika 2026
+
+<p class="evento-lugar"><strong>Lugar:</strong> Conservatorio Superior de Música de Navarra</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## 2026ko Hamaika musika-jaialdia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Goi Mailako Musika Kontserbatorioa</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/24</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Exposición - El txoko de la cooperación - Biblioteca de Navarra
+
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca de Navarra, - Pasillo planta 1.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Erakusketa - El txoko de la cooperación - Nafarroako Liburutegia
+
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako liburutegia, - 1. solairuko korridorea.</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/25</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial

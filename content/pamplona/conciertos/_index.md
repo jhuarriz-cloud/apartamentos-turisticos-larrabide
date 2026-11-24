@@ -1,7 +1,7 @@
 ---
 title: "Conciertos y eventos musicales en Pamplona | Agenda 2026-2027"
 description: "Agenda actualizada de conciertos, música clásica, ópera, flamenco, musicales y espectáculos musicales en Baluarte, Pamplona."
-lastmod: "2026-11-23T17:51:57.757154"
+lastmod: "2026-11-24T17:25:17.056773"
 ---
 
 <div class="page-section">
@@ -21,7 +21,7 @@ musicales, coros y otros espectáculos musicales.
 </p>
 
 <p class="actualizacion">
-Última actualización: 23/11/2026 17:51
+Última actualización: 24/11/2026 17:25
 </p>
 
 
@@ -1109,6 +1109,123 @@ Sala Principal
 <a
 class="evento-boton"
 href="https://baluarte.com/es/agenda/evento/johann-strauss-gran-concierto-anio-nuevo-17-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>Snatch. Cerdos y diamantes (VOSE)</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+18 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+20:15
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/snatch-cerdos-y-diamantes-cine-pamplona-negra-18-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>El hombre que nunca estuvo allí (VOSE)</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+19 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+21:15
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/el-hombre-que-nunca-estuvo-alli-cine-pamplona-negra-19-enero-2027"
+target="_blank"
+rel="noopener noreferrer"
+>
+Ver información y entradas
+</a>
+
+</div>
+
+</article>
+
+<article class="evento-card">
+
+<div class="evento-card-content">
+
+<h2>La jungla de asfalto (VOSE)</h2>
+
+<div class="evento-datos">
+
+<span class="evento-fecha">
+20 de enero de 2027
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-hora">
+21:15
+</span>
+
+<span class="evento-separador">·</span>
+
+<span class="evento-sala">
+Sala de Cámara
+</span>
+
+</div>
+
+<a
+class="evento-boton"
+href="https://baluarte.com/es/agenda/evento/la-jungla-de-asfalto-cine-pamplona-negra-20-enero-2027"
 target="_blank"
 rel="noopener noreferrer"
 >
