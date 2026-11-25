@@ -10,7 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 24/11/2026 17:25.*
+*Información actualizada el 25/11/2026 17:02.*
 
 ## nov 25 - 27 9º Congreso Internacional y 15º Congreso Nacional de la Asociación de Enfermería Comunitaria (AEC) Ver evento
 
@@ -35,6 +35,10 @@ En esta página recopilamos automáticamente los próximos congresos y eventos p
 ## jun 2 - 4 41 Congreso GEER Palacio Completo 8:00 - 19:00 Ver evento
 
 [Ver información oficial del evento](https://baluarte.com/es/agenda/evento/congreso-nacional-geer-2-3-4-junio-2027)
+
+## jun 23 - 25 41 Congreso Nacional de Riegos 9:00 a 18:00 Ver evento
+
+[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/41-congreso-nacional-de-riegos-23-24-25-junio-2027)
 
 ## Alojamiento para congresos en Pamplona
 
