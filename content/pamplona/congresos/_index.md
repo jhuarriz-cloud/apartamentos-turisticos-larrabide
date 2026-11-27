@@ -10,11 +10,7 @@ Si vas a asistir a un congreso, simposio o jornada profesional en Baluarte, Pala
 
 En esta página recopilamos automáticamente los próximos congresos y eventos profesionales publicados en la agenda oficial de Baluarte.
 
-*Información actualizada el 25/11/2026 17:02.*
-
-## nov 25 - 27 9º Congreso Internacional y 15º Congreso Nacional de la Asociación de Enfermería Comunitaria (AEC) Ver evento
-
-[Ver información oficial del evento](https://baluarte.com/es/agenda/evento/congreso-enfermeria-comunitaria-25-26-27-noviembre-2026)
+*Información actualizada el 27/11/2026 16:29.*
 
 ## nov 27 - 28 VI Jornadas de Creación Digital y Videojuegos de Navarra Sala de Exposiciones y Mezanina 27/11: 10:30-14:30 / 15:30-20:00 28/11: 10:30-14:30 / 15:30-19:00 Ver evento
 

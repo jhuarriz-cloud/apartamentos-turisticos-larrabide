@@ -6,31 +6,17 @@ draft: false
 
 Consulta algunos de los próximos eventos y actividades que puedes disfrutar durante tu estancia en Pamplona.
 
-*Información actualizada el 26/11/2026 17:10.*
+*Información actualizada el 27/11/2026 16:28.*
 
 <div class="eventos-lista">
 
 <article class="evento-card">
 
-## Cuentacuentos en euskera - Ipuin Kontaketa - Biblioteca Milagrosa - 26/11/2026
+## Presentación de libro - Esnatu ala hil - Biblioteca Txantrea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Milagrosa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de la Txantrea</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Concierto - Gospel - Biblioteca San Pedro
-
-<p class="evento-lugar"><strong>Lugar:</strong> Biblioteca Pública de San Pedro</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -40,11 +26,25 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Taller - Bizitxoko, repara tu bici - Noviembre - Civivox Mendillorri
+## Encuentro juvenil - El Efecto Matilda - Casa de la Juventud
+
+<p class="evento-lugar"><strong>Lugar:</strong> Casa de la Juventud del Ayuntamiento de Pamplona</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Festival #CivivoxInTheMapping - Mesa redonda - Creando con la primera infancia - Civivox Mendillorri
 
 <p class="evento-lugar"><strong>Lugar:</strong> Civivox Mendillorri</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -54,25 +54,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Festival de Remonte - 26/11/2026
+## Gazteen topaketa - Matilda Efektua - Gaztediaren Etxea
 
-<p class="evento-lugar"><strong>Lugar:</strong> Frontón Labrit</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Iruñeko Udaleko Gaztediaren Etxea</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Erremonte-jaialdia - 2026/11/26
-
-<p class="evento-lugar"><strong>Lugar:</strong> Labrit pilotalekua</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -82,11 +68,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Lantegia - Bizitxoko, konpondu zure bizikleta - Azaroa - Mendillorriko Civivoxa
+## #CivivoxInTheMapping jaialdia - Mahai-ingurua - Creando con la primera infancia - Mendillorriko Civivoxa
 
 <p class="evento-lugar"><strong>Lugar:</strong> Mendillorriko Civivoxa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -96,25 +82,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Ipuin-kontaketa euskaraz - Ipuin Kontaketa - Milagrosako liburutegia - 26/11/2026
+## Liburu-aurkezpena - Esnatu ala hil - Txantreako liburutegia
 
-<p class="evento-lugar"><strong>Lugar:</strong> Milagrosako liburutegi publikoa</p>
+<p class="evento-lugar"><strong>Lugar:</strong> Txantreako liburutegi publikoa</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
-
-<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
-Consultar agenda oficial
-</a>
-
-</article>
-
-<article class="evento-card">
-
-## Kontzertua - Gospela - San Pedroko liburutegia
-
-<p class="evento-lugar"><strong>Lugar:</strong> San Pedroko liburutegi publikoa</p>
-
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -124,11 +96,11 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Concierto - Orquesta Sinfónica de Navarra - Baluarte - 26/11/26
+## Ipuin-kontalaria ingelesez - Around the world
 
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte - Palacio de Congresos y Auditorio de Navarra</p>
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Ámbito Cultural aretoa.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
@@ -138,11 +110,39 @@ Consultar agenda oficial
 
 <article class="evento-card">
 
-## Kontzertua - Nafarroako Orkestra Sinfonikoa - Baluarte - 26/11/26
+## Cuentacuentos en inglés - Around the world
 
-<p class="evento-lugar"><strong>Lugar:</strong> Baluarte Nafarroako Biltzar Jauregia eta Auditoriuma</p>
+<p class="evento-lugar"><strong>Lugar:</strong> El Corte Inglés, - Sala Ámbito Cultural.</p>
 
-<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/26</p>
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Teatro - Manos arriba Sociedad Limitada - ENT
+
+<p class="evento-lugar"><strong>Lugar:</strong> Escuela Navarra de Teatro (ENT)</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
+
+<a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
+Consultar agenda oficial
+</a>
+
+</article>
+
+<article class="evento-card">
+
+## Antzerkia - Manos arriba Sociedad Limitada - NAE
+
+<p class="evento-lugar"><strong>Lugar:</strong> Nafarroako Antzerki Eskola</p>
+
+<p class="evento-fecha"><strong>Fecha de finalización:</strong> 2026/11/27</p>
 
 <a class="evento-boton" href="https://www.pamplona.es/actualidad/eventos" target="_blank" rel="noopener">
 Consultar agenda oficial
